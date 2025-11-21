@@ -1,0 +1,2 @@
+#religion 
+Thastus' Innovative Method (TIM) is a "scientific method" for dwarves to conceive, test, and log processes, procedures, traditions, ideologies, grudges, and theories. It is a staple of Dwarven culture and is used ubiquitously to define what can be accepted as "Dwarven Tradition". Adding to the encyclopedia of traditions via TIM requires a lengthy peer review process, which can take up to decades to complete.

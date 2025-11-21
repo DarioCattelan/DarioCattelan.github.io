@@ -1,0 +1,1 @@
+The Three Peoples Army was the forces lead by [[Grastus the Free]] during the Orlin civil war following the [[Edict of Axiomatic Equality]].

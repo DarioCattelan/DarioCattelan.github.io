@@ -1,0 +1,1 @@
+[[Grastus the Free]] was an Orlin-Hobgoblin Herald of [[Orthal The Mother]] who enacted the [[Edict of Axiomatic Equality]] and lead the Orlin in  [[Mothers' Heresy]].
