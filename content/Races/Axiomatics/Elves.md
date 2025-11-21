@@ -18,6 +18,8 @@ Elves relish long, complex ceremonies and rituals.
 | Values/Virtues                                  | Anti-values/Sins         |
 | ----------------------------------------------- | ------------------------ |
 | Patience, thoughtfulness, nurturing, repetition | Rash action, destruction |
+Elves have an organized state religion called the [[Nihiryat Lawall]], which is also the name of its primary text. The [[Nihiryat Lawall]] is a complex animist religion that encourages personal divinity via ritual and repetition.
+
 ### The Mutacurir
 The mutacurir (Moo-tah-KOO-reer) is a special time of day personal to every elf that marks the start of an important daily cycle. The event marking each elf's mutacurir can vary widely from person to person, and some examples include the hour of their birth, their last meal of the day, the break of dawn, etc. Either directly before, after, or during the mutacurir, faithful elves perform a repetitive ritual prayer, called the alkhawat (al-ka-WAT), typically taking around an hour to complete. Practitioners attempt to perform the alkhawat in the exact same way over and over, with precision and endurance bringing the faithful closer to divinity.
 
@@ -34,7 +36,7 @@ The exact nature of the rite of cilcilafcur varies from generation to generation
 Elves speak, read, and write elvish. Elvish is an elegant language of soft consonants and vowels with an almost musical tonality. Elvish script is looping, serifed, and symmetrical, and whole words are written without lifting the quill from the page. Elvish script refuses to be carved, engraved, or tattooed on plants or animals.
 
 ## Organization
-Elves are organized in a republic gerontocracy with the Majilis as its head of state. Elves' economic system relies primarily on an agrarian indentured worker based system, where wealthy landowners of elite clans control the economic and political power over a small merchant and tradesman middle class, and a large indentured working peasantry. This system was functional before [[Mothers' Heresy]], when elves had a non-motile, low-wage [[Halflings|Halfling]] plebian population, but since [[The Freewalk Accords]] the middle class has steadily grown larger and land owning elite are struggling to turn a profit from farm that must pay their labourers.
+Elves are organized in a republic gerontocracy with the Majilis as its governing body. Elves' economic system relies primarily on an agrarian indentured worker based system, where wealthy landowners of elite clans control the economic and political power over a small merchant and tradesman middle class, and a large indentured working peasantry. This system was functional before [[Mothers' Heresy]], when elves had a non-motile, low-wage [[Halflings|Halfling]] plebian population, but since [[The Freewalk Accords]] the middle class has steadily grown larger and land owning elite are struggling to turn a profit from farms that must pay their labourers.
 
 ### The Majilis
 The Majilis (ma-GEE-leess) is a republican senate lead by [[Elenwe The Farmer]] serving as perpetual High Tari which rules over the elves. The Majilis is organized into four parties of decreasing political power, whose eligibility is determined by generation. Each party's membership is determined in theory by election, however, the parties of the High Tari and Projidi have such limited eligibility that no election is needed. Election occur for the Jidi and Alwadi each season, and with such regularity in voting pattern that they are more formality than true political race. There are 128 seats in the Majilis.
@@ -43,7 +45,7 @@ The Majilis (ma-GEE-leess) is a republican senate lead by [[Elenwe The Farmer]] 
 The High Tari (tah-REE) serves as the speaker of the Majilis, head of state, and high consul. It is only ever filled by [[Elenwe The Farmer]]. The station carries power of veto, can assign and revoke time on the floor, and enforces decorum in the Majilis.
 
 #### Projidi
-The Projidi (pro-GEE-dee) are the eldest members of the [[Rasul clan]] who serve as [[The Heralds]] of [[Elenwe The Farmer]]. The Projidi hold 65 or the 128 seats of the Majilis, giving them a majority on any vote, and requiring at least one Projidi to support any law being passed. The members of the Projidi are often divided on the political spectrum, and Projidi votes are hard to predict.
+The Projidi (pro-GEE-dee) are the eldest members of the [[Rasul clan]] and serve as [[The Heralds]] of [[Elenwe The Farmer]]. The Projidi hold 65 or the 128 seats of the Majilis, giving them a majority on any vote, and requiring at least one Projidi to support any law being passed. The members of the Projidi are often divided on the political spectrum, and Projidi votes are hard to predict.
 
 #### Jidi
 The Jidi (GEE-dee) are elected from elves who are at least great-great grandparents and members of land owning elvish clans. The Jidi hold 40 of the 128 seats of the Majilis, a large minority, and are an important political force for any action that requires bi-partisan involvement. The Jidi are traditionally socially conservative.
@@ -55,9 +57,20 @@ The Alwadi (al-WAH-dee) are elected from elves who are at least grandparents and
 The Arwah (AHR-wha) are two spirits who volunteer to be in the Majilis. They hold two seats, the Seat of Flora and the Seat of Fauna. the Arwah hold far too few seats to pass any legislation, but each seat has a seasonal power of veto. Members of the Arwah are flaky by nature, and representatives do not always sit all season (though the Seat of Flora is much more likely to sit encumbered for a whole season). The Arwah voting patterns are mercurial and unpredictable, and other parties make great effort to secure the Arwah veto each season.
 
 ### Heralds
+In theory, the elves have 65 [[The Heralds|Heralds]], naming every member of the [[Elves#Projidi|Projidi political party]] a Herald (in fact, the Elvish word for Herald is Projidi). In practice, only the most senior members of the [[Rasul clan]] have active divine duties and powers. These heads are called the Projidi Shah (pro-GEE-dee SHAH), Elder Herald in the Common Tongue, or simply the Shah.
+
+#### The Shah
+Eight members of the [[Rasul clan]] make up the Prodiji Shah. Historically, these have most often been the eldest members of the clan, but approximately 200 years ago [[Hevlon Rasul]] chose to retire from the Prodiji, and ever since it has been acceptable for any member of the [[Rasul clan]] to be made a Shah. The Shah have important magical and mundane functions. As members of the [[Elves#Projidi|Prodiji]] they are responsible for a large political force within the [[Elves#The Majilis|Majilis]] .
+
+In the greater world of [[Kaloshen]], the Shah have a magical responsibility to maintain the natural cycles of the world, and ensure that Time continues to flow properly. The exact means by which this is done is unclear, but it is taught in the [[Nihiryat Lawall]] that the Shah usher in the four winds and the four seasons, ensure the tides kiss the top of the coast each day, and convince the sun to return each spring.
 
 
 # Biology
+## Ageless
+All Elves are [[Perpetuals|perpetuals]] with eternal youth, though they can die by disease or violence. Elves reach full physical maturity around the age of 25 where they stop any external form of aging. Elves seem to be able to identify the age of another elf via some unknown method, possibly via scent. For other races, the best gauge of an elf's age is the number of scars they possess and their demeanor.
+
+## Reproduction
+Elves reproduce much slower than other races, and go through a reproductive cycle with a long gaps in fertility. Typically, an elf will become able to conceive a child when they first reach physical maturity, and then only once every ~256 years thereafter. It is generally considered uncouth for an elf to become a parent during their first cycle, but it has been known to occur with family members of the [[Elves#The Majilis|Majilis]]  if a birth would propel them into the next political party.
 
 # History
 
