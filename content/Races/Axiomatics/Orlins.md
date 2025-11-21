@@ -62,11 +62,11 @@ In date [[Grastus the Free]] was appointed Herald of the Mother, replacing his s
 
 
 ## Mothers' Heresy
-The Orlin, under the urging of the Mother Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling slaves as they went. After several notable battles, the other races were forced to sue for peace, regaining many of their seized lands in return for emancipation of the Haflings.
+The Orlin, under the urging of the Mother Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, returning most of the ancestral lands of the Haflings.
 
 ## The Relationships
 Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several generations ago for the Orlin but still fresh in the minds of the long lived races.
 
-Halflings are very hospital to Orlin for their liberation, but still hold the generational trauma of slavery under the 3 fold people from before the [[Edict of Axiomatic Equality]].
+Halflings are very hospital to Orlin for their liberation, but still hold the generational trauma of servitude under the Three-fold people from before the [[Edict of Axiomatic Equality]].
 
 [^1]: This could mean he had direct contact with the Mother, indirect contact through a vision or dream, or had a personal spiritual revelation (brought on by the Mother by unknowable means)
