@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Kaloshen
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+A worldbuilding project for me and my friends to play TTRPG's in.
