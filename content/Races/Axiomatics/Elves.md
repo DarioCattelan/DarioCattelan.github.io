@@ -3,7 +3,7 @@
 <center><i> Wardens of cycles, watchers of time, whom the ages never touch. </i></center>
 
 # Overview
-Elves are [[axiomatic mortals]] created by [[Elenwe The Farmer]]. Elves are born [[Perpetuals]], they can be killed by violence but stop aging once they reach maturity. Elves have a deep regard for the seasons and things that grow, and their cities are often found surrounded by ancient trees, tall mountains, or arable fields.
+Elves are [[axiomatic mortals]] created by [[Elenwe The Farmer]]. Elves are born [[Perpetuals]], they can be killed by violence or disease but stop aging once they reach maturity. Elves have a deep regard for the seasons and things that grow, and their cities are often found surrounded by ancient trees, tall mountains, or arable fields.
 
 Elves have a timeless perspective that other ancestries find confusing or frustrating. They are slow to act and have the luxury of waiting for an ideal moment that can come decades or centuries later.
 
@@ -18,7 +18,7 @@ Elves relish long, complex ceremonies and rituals.
 | Values/Virtues                                  | Anti-values/Sins         |
 | ----------------------------------------------- | ------------------------ |
 | Patience, thoughtfulness, nurturing, repetition | Rash action, destruction |
-Elves have an organized state religion called the [[Nihiryat Lawall]], which is also the name of its primary text. The [[Nihiryat Lawall]] is a complex animist religion that encourages personal divinity via ritual and repetition.
+Elves have an organized state religion called the [[Nihiryat Lawall]], which is also the name of its primary text. The [[Nihiryat Lawall]] is a complex animist and ancestral veneration religion that encourages personal divinity via ritual and repetition.
 
 ### The Mutacurir
 The mutacurir (Moo-tah-KOO-reer) is a special time of day personal to every elf that marks the start of an important daily cycle. The event marking each elf's mutacurir can vary widely from person to person, and some examples include the hour of their birth, their last meal of the day, the break of dawn, etc. Either directly before, after, or during the mutacurir, faithful elves perform a repetitive ritual prayer, called the alkhawat (al-ka-WAT), typically taking around an hour to complete. Practitioners attempt to perform the alkhawat in the exact same way over and over, with precision and endurance bringing the faithful closer to divinity.
@@ -28,9 +28,14 @@ The mutacurir can be modified during certain elvish religious holidays, sometime
 With the exception of the zealous and orthodox, it is not necessary for an elf to observe the mutacurir at the exact same hour every day. Rather, it is generally accepted the the alkhawat should occur in general proximity to the event marking the mutacurir. Penance for missing the alkhawat varies from culture to culture, but accidental or inadvertent skipping of the alkhawat is typically resolved by doubling the time spent on the alkhawat during the next mutacurir.
 
 ### Cilcilafcur
-Cicilafcur (sill-sill-aff-KOOR) is a term which refers to organized the ancestral chain of authority from child to parent of the elves (stretching all the way to [[Elenwe The Farmer]]), as well as the ritualized act of seeking wisdom from that chain. When reaching certain momentous or novel life milestones, elves will typically seek cilcilafcur with a parent or elder for guidance. If the parent or elder is unable to advise from their own lived experience, the elder will turn to their parent or ancestor, with the theoretical potential for the question to reach all the way to [[Elenwe The Farmer]]. In practice, it is rare for the routine life of elves to require cilcilafcur beyond a single generation.
+Cilcilafcur (sill-sill-aff-KOOR) is a term which refers to organized the ancestral chain of authority from child to parent of the elves (stretching all the way to [[Elenwe The Farmer]]), as well as the ritualized act of seeking wisdom from that chain. When reaching certain momentous or novel life milestones, elves will typically seek cilcilafcur with a parent or elder for guidance. If the parent or elder is unable to advise from their own lived experience, the elder will turn to their parent or ancestor, with the theoretical potential for the question to reach all the way to [[Elenwe The Farmer]]. In practice, it is rare for the routine life of elves to require cilcilafcur beyond a single generation.
 
 The exact nature of the rite of cilcilafcur varies from generation to generation, but primarily involves a set of ritualistic questions repeated many times followed by a period of shared meditation between the asker and elder. Some groups employ mystical herbs and incense during the rite, others may require the meditation to be undertaken in a sweat lodge or sauna. Generally, the rite is less complex for younger generations of elves, and more complex for older generations.
+
+For orthodox elves who live in isolation or are travelling abroad and require cilcilafcur, it is also acceptable to seek guidance from [[Spirits]].
+
+### Alnucur
+Alnucur (ahl-noo-KOOR) is the religious practice of nurturing and guiding the manifestation of [[Spirits]]. Although the exact nature of [[Spirits]] is not understood by elves, they have developed some ritual practices which can reliably manifest [[Spirits]]. Alnucur is done by guiding and protecting the growth of nature in a cyclical and repeated way for long periods, often decades or centuries. The [[Nihiryat Lawall]] teaches that by practicing Alnucur with perfection and reliability, [[Spirits]] will be drawn to the divine rhythm and manifest in strength, blessing the practitioner and the land with timeless health and bounty. The various steps of alnucur are long and vary depending on the subject of worship and type of [[Spirits|Spirit]] one wishes to manifest, but generally involve the leaving of offerings, burning of incense, paying of respects, and tending to the area to keep it free of negative energy and destruction. All land owning elves will keep a shrine, garden, or sanctuary devoted to [[Spirits]] and alnucur.
 
 ## Language
 Elves speak, read, and write elvish. Elvish is an elegant language of soft consonants and vowels with an almost musical tonality. Elvish script is looping, serifed, and symmetrical, and whole words are written without lifting the quill from the page. Elvish script refuses to be carved, engraved, or tattooed on plants or animals.
@@ -54,7 +59,7 @@ The Jidi (GEE-dee) are elected from elves who are at least great-great grandpare
 The Alwadi (al-WAH-dee) are elected from elves who are at least grandparents and members of land owning elvish clans. The Alwadi hold 20 of 128 seats of the Majilis, and as a result provide only minor political sway. Political families often use the Alwadi as training grounds for their career in the Jidi. The Alwadi are much more socially liberal than the Jidi.
 
 #### Arwah
-The Arwah (AHR-wha) are two spirits who volunteer to be in the Majilis. They hold two seats, the Seat of Flora and the Seat of Fauna. the Arwah hold far too few seats to pass any legislation, but each seat has a seasonal power of veto. Members of the Arwah are flaky by nature, and representatives do not always sit all season (though the Seat of Flora is much more likely to sit encumbered for a whole season). The Arwah voting patterns are mercurial and unpredictable, and other parties make great effort to secure the Arwah veto each season.
+The Arwah (AHR-wha) are two [[Spirits|spirits]] who volunteer to be in the Majilis. They hold two seats, the Seat of Flora and the Seat of Fauna. The Arwah hold far too few seats to pass any legislation, but each seat has a seasonal power of veto. Members of the Arwah are flaky by nature, and representatives do not always sit all season (though the Seat of Flora is much more likely to sit encumbered for a whole season). The Arwah voting patterns are mercurial and unpredictable, and other parties make great effort to secure the Arwah veto each season.
 
 ### Heralds
 In theory, the elves have 65 [[The Heralds|Heralds]], naming every member of the [[Elves#Projidi|Projidi political party]] a Herald (in fact, the Elvish word for Herald is Projidi). In practice, only the most senior members of the [[Rasul clan]] have active divine duties and powers. These heads are called the Projidi Shah (pro-GEE-dee SHAH), Elder Herald in the Common Tongue, or simply the Shah.
@@ -64,7 +69,6 @@ Eight members of the [[Rasul clan]] make up the Prodiji Shah. Historically, thes
 
 In the greater world of [[Kaloshen]], the Shah have a magical responsibility to maintain the natural cycles of the world, and ensure that Time continues to flow properly. The exact means by which this is done is unclear, but it is taught in the [[Nihiryat Lawall]] that the Shah usher in the four winds and the four seasons, ensure the tides kiss the top of the coast each day, and convince the sun to return each spring.
 
-
 # Biology
 ## Ageless
 All Elves are [[Perpetuals|perpetuals]] with eternal youth, though they can die by disease or violence. Elves reach full physical maturity around the age of 25 where they stop any external form of aging. Elves seem to be able to identify the age of another elf via some unknown method, possibly via scent. For other races, the best gauge of an elf's age is the number of scars they possess and their demeanor.
@@ -72,8 +76,13 @@ All Elves are [[Perpetuals|perpetuals]] with eternal youth, though they can die 
 ## Reproduction
 Elves reproduce much slower than other races, and go through a reproductive cycle with a long gaps in fertility. Typically, an elf will become able to conceive a child when they first reach physical maturity, and then only once every ~256 years thereafter. It is generally considered uncouth for an elf to become a parent during their first cycle, but it has been known to occur with family members of the [[Elves#The Majilis|Majilis]]  if a birth would propel them into the next political party.
 
+Elves can produce viable offspring with [[Humans]].
+
 # History
 
 ## Relationships
+Elves still harbor a deep anger at [[Orlins|Orlin]]  for their attacks during [[Mothers' Heresy]].  Elves distrust [[Dwarves]] for their tendency to destroy ancient trees and mountains for their great works.
 
-# Links
+After years of having [[Halflings]] serve as plebians in the elvish socio-economic system, Elves feel an internalized sense of haughty superiority towards the Smallmen, and are sometimes confused when they are offended.
+
+Elves rather like [[Gnomes]], and have a religiously motivated respect for [[Leshy]].
