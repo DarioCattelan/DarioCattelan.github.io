@@ -1,6 +1,6 @@
 #ancestry #Orlin #axiomatic
 
-<center><i> The Three-fold People, the Communalists, Children of The Mother</i></center>
+<center><i> The Three-fold People who's communal bonds define their lives</i></center>
 
 # Overview
 Orcs, Hobgoblins, and Goblins are different [[axiomatic mortals]] created by [[Orthal The Mother]], called Orlin. Chitinous and hearty, the Three-fold People, as they are sometimes called, live in large communal hives made of stone and a natural bile made in their stomachs.

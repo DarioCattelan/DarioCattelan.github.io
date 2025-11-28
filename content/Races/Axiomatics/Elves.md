@@ -85,4 +85,4 @@ Elves still harbor a deep anger at [[Orlins|Orlin]]  for their attacks during [[
 
 After years of having [[Halflings]] serve as plebians in the elvish socio-economic system, Elves feel an internalized sense of haughty superiority towards the Smallmen, and are sometimes confused when they are offended.
 
-Elves rather like [[Gnomes]], and have a religiously motivated respect for [[Leshy]].
+Elves rather like [[Fey Folk]], and have a religiously motivated respect for [[Leshy]].

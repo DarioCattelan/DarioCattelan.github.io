@@ -1,7 +1,6 @@
-#ancestry #Gnome
+#ancestry #Tankedyr
 
-<center><i> Flavour text </i></center>
-
+<center><i> The ever hungry, the deliciously sated beast folk. </i></center>
 # Overview
 
 # Identity

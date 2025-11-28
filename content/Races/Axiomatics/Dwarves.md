@@ -30,6 +30,9 @@ For true dwarven self-actualization, one must not simply collect large amounts o
 ### Stone Songs
 Knowledge and secrets are just as valuable to any dwarven hoard as rare metals or gems. For many dwarves, this necessitates travelling up out of their burrows into the world beyond, but to some gifted in stonemagic, they can gather secrets and lore from the stones themselves.
 
+### Shrines and Monuments
+Dwarves worship spirits and [[Dwemeran The Collector]] by constructing shrines and temples. The size and craft-dwarfship put into the shrine is in itself an act and sign of devotion. Dwarves believe that building a shrine *creates* the spirit that resides within it. Dwarves, believing that they themselves were created by [[Dwemeran The Collector|Dwemeran]], see this as a divine act, and shrine builders are themselves a caste of dwarven priest.
+
 ### Mundane Magical Practices
 #### Magical Crafts
 When enough time and care is spent crafting something, it takes on minor magical properties, regardless of whether active enchantment was done. None know this better than the dwarves, and everything from the dinnerware they eat with to the clothes they wear hum with a low level magic.

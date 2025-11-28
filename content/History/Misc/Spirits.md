@@ -1,2 +1,0 @@
-#Spirit 
-Spirits are corporeal, personified, animist manifestations of divine energy. Spirits are either born from, or collect around, places, objects, natural phenomena, concepts, or animals. Although the mechanisms by which this occur are unknown, it has been observed that the more meaningful the source of manifestation to the local sapient creatures, the more likely it is that a spirit will manifest, and with greater power.
