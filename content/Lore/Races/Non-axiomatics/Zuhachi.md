@@ -1,6 +1,7 @@
-#ancestry #Tankedyr
+#ancestry #Zuhachi #Spirit 
 
-<center><i> The ever hungry, the deliciously sated beast folk. </i></center>
+<center><i> Spirits of fur and feather, bound to corporeal form </i></center>
+
 # Overview
 
 # Identity
@@ -20,13 +21,14 @@
 
 ### Heralds
 
+# Biology
+
+# History
+
+
 # Relationships
 
 ## Relationship with spirits
 
 ## Common misunderstandings with outsiders
-# Biology
-
-# History
-
 

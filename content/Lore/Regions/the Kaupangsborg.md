@@ -1,0 +1,2 @@
+#Tankedyr #Kaupangsborg #City 
+The Kaupangsborg are the collection of mercantile city states home to the [[Tankedyr]]. Although the Kaupangsborg are independent, the holy city of [[Goadheimr]] is often described as the "first amongst equals" of the Kaupangsborg.

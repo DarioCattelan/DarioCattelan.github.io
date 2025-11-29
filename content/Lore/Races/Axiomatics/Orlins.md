@@ -25,6 +25,7 @@ Orlin communities will often have a form of magical, perpetual stew brewing in t
 
 
 ## Language
+Orlins speak, read, and write [[Orlish]].
 
 ## Organization
 Orlin leadership is complex and administrative, with no formal state executives, and three Heralds serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by the one committee or another.

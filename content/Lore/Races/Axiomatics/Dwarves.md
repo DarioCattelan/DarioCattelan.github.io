@@ -38,7 +38,7 @@ Dwarves worship spirits and [[Dwemeran The Collector]] by constructing shrines a
 When enough time and care is spent crafting something, it takes on minor magical properties, regardless of whether active enchantment was done. None know this better than the dwarves, and everything from the dinnerware they eat with to the clothes they wear hum with a low level magic.
 
 ## Language
-Dwarves speak read and write dwarvish, a deep, resonate language. Dwarvish script can be written in traditional or simplified script, with traditional script containing many serifs and calligraphic curls for embellishment, and simplified script being solely straight lines for ease of carving.
+Dwarves speak read and write [[Dwarven]], a deep, resonate language. 
 
 ## Organization
 ### Dwarven Feudalism
