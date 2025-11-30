@@ -2,6 +2,8 @@
 
 <center><i> The Three-fold People who's communal bonds define their lives</i></center>
 
+*Possible Pathfinder ancestries:* Orcs, Goblins, Hobgoblins
+
 # Overview
 Orcs, Hobgoblins, and Goblins are different [[axiomatic mortals]] created by [[Orthal The Mother]], called Orlin. Chitinous and hearty, the Three-fold People, as they are sometimes called, live in large communal hives made of stone and a natural bile made in their stomachs.
 Each race once served as a caste in the hive communities, but no longer. Ever since the [[Mothers' Heresy]] several generations ago, the Orlin live in a communist system without formal hierarchy.

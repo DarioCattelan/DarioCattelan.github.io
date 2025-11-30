@@ -2,6 +2,8 @@
 
 <center><i> Spirits of fur and feather, bound to corporeal form </i></center>
 
+*Possible Pathfinder ancestries:* Kitsune, Strix, Tanuki, Awakened Animal
+
 # Overview
 
 # Identity

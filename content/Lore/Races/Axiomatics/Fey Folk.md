@@ -2,6 +2,9 @@
 
 <center><i> Innumerous faeries of whim and whimsy who live in the heart of the wood </i></center>
 
+
+*Possible Pathfinder ancestries:* Gnome, Sprite
+
 # Overview
 The Fey Folk, or faeries, refers to innumerable [[axiomatic mortals]] created by [[Titania The Muse]], including notably Gnomes, Pixies, and Sprites.
 
