@@ -3,9 +3,10 @@
 <center><i> Innumerous faeries of whim and whimsy who live in the heart of the wood </i></center>
 
 
+# Overview
+
 *Possible Pathfinder ancestries:* Gnome, Sprite
 
-# Overview
 The Fey Folk, or faeries, refers to innumerable [[axiomatic mortals]] created by [[Titania The Muse]], including notably Gnomes, Pixies, and Sprites.
 
 Faeries live in glades and woods throughout [[Kaloshen]] in a romanticized ideal of a chivalric court. They are flaky and changeable, working on a logic that doesn't always make sense to other races. Some faeries attempt to control their mercurial nature by swearing to a virtue.

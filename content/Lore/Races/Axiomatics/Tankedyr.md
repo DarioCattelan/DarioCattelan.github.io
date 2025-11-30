@@ -3,9 +3,10 @@
 
 <center><i> The ever hungry, the deliciously sated beast folk. </i></center>
 
-*Pathfinder possible ancestries:* Kholo, Catfolk, Ratfolk, Vanara, Minotaur, Tengu,  Kobolds
 
 # Overview
+
+*Pathfinder possible ancestries:* Kholo, Catfolk, Ratfolk, Vanara, Minotaur, Tengu,  Kobolds
 
 Tankedyr are a race of animal-like [[axiomatic mortals]] created by [[Graedor The Merchant]]. Like [[Fey Folk]], their appearance varies greatly, but they are fundamentally a single species.
 
