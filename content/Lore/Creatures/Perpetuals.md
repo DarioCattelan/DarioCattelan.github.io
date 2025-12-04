@@ -1,1 +1,0 @@
-Perpetuals are mortals who cannot die by natural causes. Some perpetuals also have abilities of regeneration, reincarnation, or nigh invincibility. 
