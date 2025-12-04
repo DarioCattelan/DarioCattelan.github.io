@@ -1,10 +1,10 @@
-#Deity #Human
+#Deity #Human #The_Nomad
 
 <center><i> The traitor god banished by his brethren to travel roads unending. None may know his name. God of journeys, tales, and the changes they bring.</i></center>
 
-| Names                                                                                                                             | Axiomatics         | Positive Domains             | Negative Domains       |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- | ---------------------- |
-| The Mile-eater, The Crossroad Keeper, the Journeyman of Songs, the Road Threader, Tale Master, The Prisoner, the Last Highwayman. | Halflings, Tallmen | Journeys, Tales, Transitions | The Lost and Forgotten |
+| Names                                                                                                                        | Axiomatics         | Positive Domains             | Negative Domains       |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- | ---------------------- |
+| The Mile-eater, The Crossroad Keeper, the Journeyman of Songs, the Road Threader, Tale Master, The Prisoner, the Highwayman. | Halflings, Tallmen | Journeys, Tales, Transitions | The Lost and Forgotten |
 
 # Description
 

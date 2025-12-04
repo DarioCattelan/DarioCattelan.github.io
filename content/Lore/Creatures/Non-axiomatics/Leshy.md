@@ -1,6 +1,6 @@
-#ancestry #Human #Halfling
+#ancestry #Leshy #Spirit
 
-<center><i> Smallmen, Hobbits, Halflings. The emancipated children of roads and stories. </i></center>
+<center><i> Spirits of leaf and root, bound to corporeal form. </i></center>
 
 # Overview
 
@@ -18,8 +18,6 @@
 ## Language
 
 ## Organization
-
-### Heralds
 
 # Relationships
 

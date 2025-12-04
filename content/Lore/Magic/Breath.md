@@ -18,3 +18,6 @@ The eight colours of Breath are each associated with a different quality. It was
 | Amber  | The Breath of thought.    | Enchantment     |
 | Orange | The Breath of adaptation. | Transmutation   |
 | Red    | The Breath of energy.     | Evocation       |
+
+# Methods of Breath
+A method of Breath is the means by which Breath can be used to cast magic. There are three methods of Breath: [[The Breath of Tales]], [[The Breath of Devotion]], and [[The Breath of the World]]. Few creatures can leverage Breath to cast magic, and each method has its own criteria for use. There are legends of a fourth method of Breath, [[The Breath of the Mind]], but it is disregarded by mages as mythical.
