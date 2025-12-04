@@ -1,4 +1,4 @@
-#Language #Spirit #Devil
+
 
 
 | Pathfinder Equivalent | Real World Similarity |
@@ -13,3 +13,5 @@ Diabolic is a confusing script with many letters and modifying accents. Its synt
 
 # Phonics
 Diabolic has a screeching tonal sound that seems to evaporate quickly in cool, still air. The few songs recorded and sung in Diabolic can set dry tinder aflame. Insects swarm where Diabolic is spoken, and cats become enraged at its sound.
+
+#Language #Spirit #Devil

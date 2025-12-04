@@ -1,5 +1,3 @@
-#Language #Orlin 
-
 
 | Pathfinder Equivalent | Real World Similarity |
 | --------------------- | --------------------- |
@@ -13,3 +11,5 @@ Orlish uses a system of layered glyphs for everyday meaning, with many similarit
 
 # Phonics
 Orlish is spoken with many pauses and sudden stops, inviting conversation. It has many sounds formed deep in the chest, making it an easy language to shout.
+
+#Language #Orlin 

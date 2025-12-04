@@ -1,7 +1,7 @@
-#NPC #Elf #Herald 
+
 <center><i>Flavour text about the character</i></center>
 
-Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] to retired from being a [[The Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem.
+Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] of the [[Rasul clan]] to retired from being a [[Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem.
 
 # Character Details
 Pronouns: He/Him
@@ -69,3 +69,5 @@ Profession: ex-Prodiji Shah (Elder Herald) of [[Elenwe The Farmer]]
 
 ## Growth Path
 (How they might change if they remain part of the story.)
+
+#NPC #Elf #Herald 

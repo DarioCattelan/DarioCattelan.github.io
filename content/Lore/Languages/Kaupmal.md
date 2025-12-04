@@ -1,5 +1,3 @@
-#Language #Tankedyr 
-
 
 | Pathfinder Equivalent | Real World Similarity |
 | --------------------- | --------------------- |
@@ -15,3 +13,5 @@ Kaupmal is believed to have been derived from [[Diabolic]], the language of pact
 
 # Phonics
 Kaupmal has long, bright vowels and crisp, clustered consonants. It is a high pitched, tonal language that is easy to whisper and still understand. Poetry and music is often written in Kaupmal can leave the listener with a warm, glowing feeling in their chest and belly.
+
+#Language #Tankedyr 

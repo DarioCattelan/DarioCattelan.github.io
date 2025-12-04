@@ -1,5 +1,5 @@
 
-#religion
+
 
 <center><i>The belief that all things have a defined place in the hierarchy of the universe</i></center>
 
@@ -11,12 +11,13 @@
 The Ordning is categorized in hierarchical divisions called "Links". The Links are as follows:
 
 1. [[The Fundamentals]]
-2. The Celestials, including perpetuals, divine aspects, and [[The Heralds]]
+2. The Celestials, including perpetuals, divine aspects, and [[Heralds]]
 3. Axiomatic mortals
-4. Non-axiomatic mortals
-5. Animals
-6. Plants
-7. Minerals
+4. Spirits
+5. Non-axiomatic mortals
+6. Animals
+7. Plants
+8. Minerals
 
 ### The Fundamentals
 The Gods which shaped the world. Prior to [[Mothers' Heresy]], the Mother was chief
@@ -33,3 +34,4 @@ The Gods which shaped the world. Prior to [[Mothers' Heresy]], the Mother was ch
 | ------ | ---------- |
 |        |            |
 
+#religion

@@ -1,5 +1,3 @@
-#Language #Elf 
-
 
 | Pathfinder Equivalent | Real World Similarity   |
 | --------------------- | ----------------------- |
@@ -14,3 +12,5 @@ Elven script is looping, serifed, and symmetrical, and whole words are written w
 # Phonics
 
 Elven is an elegant language of soft consonants and vowels with an almost musical tonality. 
+
+#Language #Elf 

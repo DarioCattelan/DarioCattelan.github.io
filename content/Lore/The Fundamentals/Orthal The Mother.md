@@ -1,5 +1,5 @@
 
-#Deity #Orlin
+
 
 <center><i>The god of differences, distinctions, divisions, and the lack thereof.</i></center>
 
@@ -28,3 +28,5 @@ She has thick cranial platting like an orc, long floppy goblin ears, and a casca
 
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+#Deity #Orlin

@@ -1,4 +1,3 @@
-#magic #Breath
 
 **Pathfinder equivalent:** Divine spellcasting
 
@@ -6,3 +5,5 @@ The Breath of Devotion is a [[Breath#Methods of Breath|method of Breath]] by whi
 
 # Exclamations
 As part of casting magic using the Breath of Devotion, the mage must make an exclamation to the source of their power requesting their aid. The exclamation is not necessarily verbal, and can sometimes be communicated telepathically or through the use of a material component. Patrons who have bolstered a follower in the past are sometimes unable to resist an exclamation, and there are several recorded instances where [[The Fundamentals]] themselves have not been aware that they had responded to an exclamation.
+
+#magic #Breath

@@ -1,4 +1,3 @@
-#Region #Kaupangsborg 
 
 Auland is the homeland of the [[Tankedyr]] where [[the Kaupangsborg]] are located.
 
@@ -27,3 +26,5 @@ Auland is the homeland of the [[Tankedyr]] where [[the Kaupangsborg]] are locate
 
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
+
+#Region #Kaupangsborg 

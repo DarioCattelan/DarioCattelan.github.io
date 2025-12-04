@@ -1,2 +1,4 @@
-#religion #Ordning #Law #Orlin 
+
 The edict from [[Orthal The Mother]] by the Herald [[Grastus the Free]] which stated that all [[The Ordning#Ordning Links|Ordning Links]] were without division, and all of creation was equal within its own Link.
+
+#religion #Ordning #Law #Orlin 

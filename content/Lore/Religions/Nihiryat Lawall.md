@@ -1,7 +1,7 @@
 
-#religion #Elf 
 
 <center><i>Blah blah blah.</i></center>
+
 The Nihiryat Lawall (nee-HEER-yaht la-WHALL) is the codified religion of the [[Elves]] from [[Elenwe The Farmer]]. 
 
 # Core Beliefs
@@ -18,3 +18,5 @@ The Nihiryat Lawall (nee-HEER-yaht la-WHALL) is the codified religion of the [[E
 | Rarity | Reputation |
 | ------ | ---------- |
 |        |            |
+
+#religion #Elf 

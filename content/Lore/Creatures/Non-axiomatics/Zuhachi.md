@@ -1,4 +1,4 @@
-#ancestry #Zuhachi #Spirit 
+
 
 <center><i> Spirits of fur and feather, bound to corporeal form </i></center>
 
@@ -34,3 +34,5 @@
 
 ## Common misunderstandings with outsiders
 
+
+#ancestry #Zuhachi #Spirit 

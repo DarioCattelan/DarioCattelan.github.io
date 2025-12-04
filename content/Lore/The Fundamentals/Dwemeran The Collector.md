@@ -1,4 +1,4 @@
-#Deity #Dwarf
+
 
 <center><i>The hermit god, high king of the Dwarves, who collects and keeps the secret things</i></center>
 
@@ -24,3 +24,6 @@ A regal dwarf bearing a clockwork crown of gold and a robe of velum inscribed wi
 The collector has buried branch rooms and offshoots of his treasure in thousands of dungeons throughout Kaloshen. There is legend of his main treasury somewhere in the deep below.
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+
+#Deity #Dwarf

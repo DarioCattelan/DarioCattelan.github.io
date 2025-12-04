@@ -1,5 +1,3 @@
-#Language #Sylvan 
-
 
 | Pathfinder Equivalent | Real World Similarity |
 | --------------------- | --------------------- |
@@ -12,3 +10,4 @@ Aklo is the language that those who have been lost in [[Hoshi Hall#The Backwoods
 
 # Phonics
 
+#Language #Sylvan 

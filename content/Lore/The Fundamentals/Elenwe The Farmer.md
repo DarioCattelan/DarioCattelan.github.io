@@ -1,4 +1,4 @@
-#Deity #Elf 
+
 
 <center><i>The goddess of cycles and time who tends the seasons and the stars.</i></center>
 
@@ -26,3 +26,6 @@ Patience breeds care
 
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+
+#Deity #Elf 

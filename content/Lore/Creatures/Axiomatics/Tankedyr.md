@@ -1,4 +1,4 @@
-#ancestry #Tankedyr
+
 
 
 <center><i> The ever hungry, the deliciously sated beast folk. </i></center>
@@ -64,7 +64,7 @@ Most of the merchant councils of [[the Kaupangsborg]] have an elected head, call
 The position of Pasha is not always a boon to a member of the council, as it sometimes necessitates long absences from the management of their accounts. It is not unheard of for a council member to be forced into the position of Pasha by the rest of the council.
 
 ### Heralds
-Two things distinguish the Herald of [[Graedor The Merchant]] from other Heralds. Firstly, there is not always a Herald of [[Graedor The Merchant|Graedor]], and the position often remains vacant for many years, sometimes decades. Secondly, [[Graedor The Merchant]] does not chose his own Herald, instead, it is almost as if the power of the Herald choses its own bearer.
+Two things distinguish the Herald of [[Graedor The Merchant]] from other [[Heralds]]. Firstly, there is not always a Herald of [[Graedor The Merchant|Graedor]], and the position often remains vacant for many years, sometimes decades. Secondly, [[Graedor The Merchant]] does not chose his own Herald, instead, it is almost as if the power of the Herald choses its own bearer.
 
 The Heralds of Graedor are prophets, clerics, philosophers, and champions of the tenets of [[Truhuggun]], but *not* necessarily of [[Truhuggun#The Chantry of Truhuggun|The Chantry]]. They appear in times of great hardship for the Tankedyr and the people of [[Kaloshen]], and are balms to the weak and vulnerable during plagues, wars, and disasters. As a result, Heralds of [[Graedor The Merchant]] are almost universally revered by all [[axiomatic mortals]].
 
@@ -87,3 +87,5 @@ That being said, some city states in [[the Kaupangsborg]] are still formally at 
 
 ## Common misunderstandings with outsiders
 
+
+#ancestry #Tankedyr

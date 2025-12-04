@@ -1,4 +1,4 @@
-#ancestry #Human #Halfling
+
 
 <center><i> Smallmen, Hobbits, Halflings. The emancipated children of roads and stories. </i></center>
 
@@ -10,11 +10,11 @@ Halflings are multicultural people, having joined together in their homeland fro
 # Identity
 
 ## Homeland
-For over two centuries, [[Halflings]] have been a people with only stories of their homeland, [[Nethus]]. Around 70 years ago, the [[Orlins|Orlin]] [[The Heralds|Herald]] [[Grastus the Free]] lead the [[Orlins]] in a religious crusade to free any [[axiomatic mortals]] from legal oppression during [[Mothers' Heresy]]. At the close of the war the [[Dwarves]], [[Elves]], [[Fey Folk]], and most of [[the Kaupangsborg]] signed [[The Freewalk Accords]], returning a portion of their territory to the [[Halflings]].
+For over two centuries, [[Halflings]] have been a people with only stories of their homeland, [[Netham]]. Around 70 years ago, the [[Orlins|Orlin]] [[Heralds|Herald]] [[Grastus the Free]] lead the [[Orlins]] in a religious crusade to free any [[axiomatic mortals]] from legal oppression during [[Mothers' Heresy]]. At the close of the war the [[Dwarves]], [[Elves]], [[Fey Folk]], and most of [[the Kaupangsborg]] signed [[The Freewalk Accords]], returning a portion of their territory to the [[Halflings]].
 
-Today, [[Nethus]] lies in between the realms of the [[Orlins]], [[Dwarves]], [[Elves]], and [[the Kaupangsborg]]. The Halflings of [[Nethus]] are in the process of cutting down the old growth woods to prevent [[Hoshi Hall]] from forming within its borders.
+Today, [[Netham]] lies in between the realms of the [[Orlins]], [[Dwarves]], [[Elves]], and [[the Kaupangsborg]]. The Halflings of [[Netham]] are in the process of cutting down the old growth woods to prevent [[Hoshi Hall]] from forming within its borders.
 
-Composed of what was once the middle grounds of other nations, [[Nethus]] is a realm of crossroads, highways, inns, and trading posts. 
+Composed of what was once the middle grounds of other nations, [[Netham]] is a realm of crossroads, highways, inns, and trading posts. 
 
 
 ## Traditions & Beliefs
@@ -23,10 +23,10 @@ Composed of what was once the middle grounds of other nations, [[Nethus]] is a r
 | ------------------------------------------ | ----------------------------------------------------- |
 | Oral tradition, stories, freedom, journeys | Incarceration, forgotten history, religious opression |
 
-[[Halflings]] have no [[The Fundamentals|Fundamental]] leading their people, as their creator, [[The Nomad]], betrayed the other Fundamentals and is trapped wandering the roads of [[Kaloshen]]. As a result, [[Nethus]] has no state religion, and minimal traditions or beliefs that are directly related to [[The Nomad]] and [[The Fundamentals]]. In fact, [[Halflings]] tend to have an irreverence and even a distain for the Fundamentals fueled by a long history of religious oppression.
+[[Halflings]] have no [[The Fundamentals|Fundamental]] leading their people, as their creator, [[The Nomad]], betrayed the other Fundamentals and is trapped wandering the roads of [[Kaloshen]]. As a result, [[Netham]] has no state religion, and minimal traditions or beliefs that are directly related to [[The Nomad]] and [[The Fundamentals]]. In fact, [[Halflings]] tend to have an irreverence and even a distain for the Fundamentals fueled by a long history of religious oppression.
 
 ### Right of Travel and the Walkabout
-Halflings have a universal right of travel, that is, a right to cross any and all borders granted by [[The Freewalk Accords]]. It is expected and encouraged that Halfling youths make use of this right to travel to the different towns of [[Nethus]] on an independent, spiritual journey called a Walkabout. During their Walkabout, youths must visit and live "eight different lives", representing the [[Breath#The Eight Colours|eight colours of Breath]], before they can be considered an adult. Interpretation of what constitutes a "different life" is left up to the individual during their Walkabout, and most only visit a couple of towns, trying a variety of trades.
+Halflings have a universal right of travel, that is, a right to cross any and all borders granted by [[The Freewalk Accords]]. It is expected and encouraged that Halfling youths make use of this right to travel to the different towns of [[Netham]] on an independent, spiritual journey called a Walkabout. During their Walkabout, youths must visit and live "eight different lives", representing the [[Breath#The Eight Colours|eight colours of Breath]], before they can be considered an adult. Interpretation of what constitutes a "different life" is left up to the individual during their Walkabout, and most only visit a couple of towns, trying a variety of trades.
 
 #### The Grand Walkabout
 For the truly brave and bold, there is a legendary Walkabout, proposed initially as a joke around the campfire, that has since taken root in the heart of many hobbit youths. Dubbed "the Grand Walkabout", fulfilling the following criteria would propel a Halfling into legend:
@@ -37,7 +37,7 @@ For the truly brave and bold, there is a legendary Walkabout, proposed initially
 	5. Add an ingredient to an [[Orlins#The Perpetual stew|Orlin perpetual stew]]
 	6. Attend an [[Truhuggun#Asmenn|Asmenn]] in [[Goadheimr]] (the whole thing)
 	7. Learn a tale from [[The Nomad]]
-	8. Return home to [[Nethus]], and live well
+	8. Return home to [[Netham]], and live well
 
 It is widely regarded as impossible to complete the Grand Walkabout, but even a single success would be admirable, and to embark on such a quest is a mark of pride.
 
@@ -70,17 +70,17 @@ Halfling's native tongue is [[Common]], and they are typically bilingual with an
 ## Organization
 Halflings are organized into five matrilineal hobbit clans originating from the emigrants of each [[axiomatic mortals|axiomatic]] culture. Each clan is associated with its own town or village where most of its members settled, but clan membership is hereditary and  residence of a town is not requirement.
 
-Some of the larger halfling towns were inherited as part of [[The Freewalk Accords]], and still have non-hobbit citizens, while other towns were founded after the accords. Non-Halfling citizens have the same legal rights in [[Nethus]] as Halflings, and are members of the hobbit clan in which their matrilineal ancestor resided at the time that [[The Grand Law of Liberty]] came into effect.
+Some of the larger halfling towns were inherited as part of [[The Freewalk Accords]], and still have non-hobbit citizens, while other towns were founded after the accords. Non-Halfling citizens have the same legal rights in [[Netham]] as Halflings, and are members of the hobbit clan in which their matrilineal ancestor resided at the time that [[The Grand Law of Liberty]] came into effect.
 
 | Hobbit Clan | Origin                                                        | Town/Village  |
 | ----------- | ------------------------------------------------------------- | ------------- |
 | Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | Goldburrow    |
 | Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Hobbsborg     |
 | Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Bighollow     |
-| Goodchild   | The [[Orlins\|Orlin Communes]]                                | New Nethus    |
+| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Hereham       |
 | Smallburrow | The [[Elves\|Elven Republic]]                                 | Riverfoot Way |
 ### The Free Confederacy
-Halfling government is a agrarian democracy defined by [[The Grand Law of Liberty]], a constitution that is both legal code and spiritual charter. The Free Confederacy functions via a series of council who proposes an accepts laws based on consensus, rather than majority vote. Each town has a Clan Council and a Village Council for domestic and municipal matters, and the nation of [[Nethus]] itself has a National Council which meets once a season for foreign policy and inter-village disputes.
+Halfling government is a agrarian democracy defined by [[The Grand Law of Liberty]], a constitution that is both legal code and spiritual charter. The Free Confederacy functions via a series of council who proposes an accepts laws based on consensus, rather than majority vote. Each town has a Clan Council and a Village Council for domestic and municipal matters, and the nation of [[Netham]] itself has a National Council which meets once a season for foreign policy and inter-village disputes.
 
 ### The Clan Council
 In each village there is a local Clan Council lead by a Burrow Mother chosen by consensus of the local clan. The Clan Council is a local form of government binding to only members of its local clan, and policy at both the national and municipal level typically begins in the Clan Council.
@@ -99,7 +99,7 @@ First, any Chief or Village Council can propose a decision to the National Counc
 
 Secondly, the matter is debated and a solution or legislation proposed by Goldburrow and Hobbsborg after consensus is reached
 
-Third, the solution is reviewed and amended (or rejected) by Bighollow and New Nethus, again by consensus.
+Third, the solution is reviewed and amended (or rejected) by Bighollow and Hereham, again by consensus.
 
 Finally, Riverfoot Way will ensure all Villages were heard, propose any compromises, and reject or approve the final consensus.
 
@@ -114,9 +114,9 @@ Halflings are a small race, rarely growing taller than 3 feet in height. Halflin
 Halflings reach physical adulthood around the age of 18. A typical halfling can live to be around 100 years old.
 
 # History
-Halflings have been a highly persecuted race for over 200 years following the betrayal of the other [[The Fundamentals]] by their god, [[The Nomad]]. Following the betrayal, the Halfling nation of [[Old Nethus]] was invaded and destroyed by the other [[axiomatic mortals]], its territory divvied up by the other nations.
+Halflings have been a highly persecuted race for over 200 years following the betrayal of the other [[The Fundamentals]] by their god, [[The Nomad]]. Following the betrayal, the Halfling nation of [[Old Netham]] was invaded and destroyed by the other [[axiomatic mortals]], its territory divvied up by the other nations.
 
-70 years ago, the [[Orlins|Orlin]] [[The Heralds|Herald]] [[Grastus the Free]] declared the [[Edict of Axiomatic Equality]] which prompted a crusade by the [[Orlins]] to sunder any law which treated [[axiomatic mortals]] as second class citizens. This prompted a series of wars called [[Mothers' Heresy]], which ultimately ended in [[The Freewalk Accords]], granting Halflings [[the Right of Travel]] and returning most of the lands which made up [[Old Nethus]] back under the rule of the hobbit clans. 
+70 years ago, the [[Orlins|Orlin]] [[Heralds|Herald]] [[Grastus the Free]] declared the [[Edict of Axiomatic Equality]] which prompted a crusade by the [[Orlins]] to sunder any law which treated [[axiomatic mortals]] as second class citizens. This prompted a series of wars called [[Mothers' Heresy]], which ultimately ended in [[The Freewalk Accords]], granting Halflings [[The Right of Travel]] and returning most of the lands which made up [[Old Netham]] back under the rule of the hobbit clans. 
 
 # Relationships
 
@@ -124,3 +124,5 @@ Halflings have been a highly persecuted race for over 200 years following the be
 
 ## Common misunderstandings with outsiders
 
+
+#ancestry #Human #Halfling

@@ -1,4 +1,4 @@
-#Deity #Fey #Gnome 
+
 
 <center><i>The faerie queen, a wondrous muse, her favour fierce and quick to lose</i></center>
 
@@ -51,3 +51,5 @@ Erratic. Switches unpredictably. Roll a d20 for Titania's mood at any given time
 
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+#Deity #Fey 

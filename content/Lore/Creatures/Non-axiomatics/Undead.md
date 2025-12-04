@@ -1,4 +1,4 @@
-#NPC #Monster #magic #The_Nomad
+
 
 The undead are creatures who's bodies once held [[Breath]], but that [[Breath]] is now being kept elsewhere.
 
@@ -13,3 +13,5 @@ In rare cases, a mortal can create an enthralled undead and then release the cap
 
 # Human Immunity
 For some unknown reason, [[Humans]] cannot be made into undead. Sorcerers and Clerics are not sure why.
+
+#NPC #Monster #magic #The_Nomad

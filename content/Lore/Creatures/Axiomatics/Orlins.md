@@ -1,4 +1,4 @@
-#ancestry #Orlin #axiomatic
+
 
 <center><i> The Three-fold People who's communal bonds define their lives</i></center>
 
@@ -32,10 +32,10 @@ Orlin communities will often have a form of magical, perpetual stew brewing in t
 Orlins speak, read, and write [[Orlish]].
 
 ## Organization
-Orlin leadership is complex and administrative, with no formal state executives, and three Heralds serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by the one committee or another.
+Orlin leadership is complex and administrative, with no formal state executives, and three [[Heralds]] serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by the one committee or another.
 
 ### Heralds
-Orlins have three Heralds who's membership is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
+Orlins have three [[Heralds]] who's membership is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
 In theory, the Heralds' serve solely as advisors and spiritual leaders, providing guidance on religious matters and bridging the will of the Mother and the Orlin. In practice, the Heralds serve as ultimate oversight on the practices of the many governing committees of the Orlin, and have been known to intervene when committee members stretch their authority too far. Such instances have lead to quick and zealous action.
 
 #### The Herald Home
@@ -75,3 +75,6 @@ Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several gene
 Halflings are very hospital to Orlin for their liberation, but still hold the generational trauma of servitude under the Three-fold people from before the [[Edict of Axiomatic Equality]].
 
 [^1]: This could mean he had direct contact with the Mother, indirect contact through a vision or dream, or had a personal spiritual revelation (brought on by the Mother by unknowable means)
+
+
+#ancestry #Orlin #axiomatic

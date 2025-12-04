@@ -1,4 +1,4 @@
-#Deity #Tankedyr 
+
 
 <center><i>The god of comfort, who sits upon the satin pillow of the world</i></center>
 
@@ -23,3 +23,5 @@ A huge, fat bear with a mane of feathers and a wolf's maw. His fur is shaggy and
 
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+#Deity #Tankedyr 

@@ -1,4 +1,4 @@
-#NPC #Herald #Dwarf
+
 
 <center><i>The worlds greatest thief, the tax collector, the Perpetual Herald</i></center>
 
@@ -73,3 +73,5 @@ Being the Herald to the god of hoarding and preservation, the Gadian Ri has a di
 
 ## Growth Path
 (How they might change if they remain part of the story.)
+
+#NPC #Herald #Dwarf #Perpetual 

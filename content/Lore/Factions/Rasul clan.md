@@ -1,8 +1,8 @@
-#Faction #Family #Elf #Herald 
-## Overview
-The Rasul clan is the bloodline of [[The Heralds]] of [[Elenwe The Farmer]]. They are one of the [[Primeval bloodlines|primeval bloodlines]] of [[Kaloshen]], with natural magical abilities.
 
-The eldest members of their clan serve as [[Elves#Projidi|Projidi]] in the elvish [[Elves#The Majilis|Majilis]].
+## Overview
+The Rasul clan is the bloodline of [[Heralds]] of [[Elenwe The Farmer]]. They are one of the [[Primeval bloodlines|primeval bloodlines]] of [[Kaloshen]], with natural magical abilities.
+
+65 of members of their clan, typically the eldest 65, serve as [[Elves#Projidi|Projidi]] in the elvish [[Elves#The Majilis|Majilis]], and [[Heralds]] to [[Elenwe The Farmer]].
 
 ## Key Figures
 | Name | Role | Personality Notes |
@@ -65,4 +65,4 @@ The eldest members of their clan serve as [[Elves#Projidi|Projidi]] in the elvis
 
 ## Additional Details
 
-#Elf #Herald
+#Faction #Family #Elf #Herald 

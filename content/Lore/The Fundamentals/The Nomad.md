@@ -1,4 +1,4 @@
-#Deity #Human #The_Nomad
+
 
 <center><i> The traitor god banished by his brethren to travel roads unending. None may know his name. God of journeys, tales, and the changes they bring.</i></center>
 
@@ -26,3 +26,5 @@ At some point in the past, the Nomad betrayed the other [[The Fundamentals|Funda
 
 # Story Spark
 (The god seeks help with a personal or emotional imbalance.)
+
+#Deity #Human #The_Nomad

@@ -1,5 +1,3 @@
-#Language #Dwarf 
-
 
 | Pathfinder Equivalent | Real World Similarity    |
 | --------------------- | ------------------------ |
@@ -13,3 +11,5 @@ Dwarven script can be written in traditional or simplified script, with traditio
 
 # Phonics
 Dwarven is a deep, resonant language that echoes for long periods in caverns and large spaces.
+
+#Language #Dwarf 

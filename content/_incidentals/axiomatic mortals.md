@@ -1,3 +1,6 @@
-#axiomatic
 
-Axiomatic mortals are sapient races created by [[The Fundamentals]]. 
+
+Axiomatic mortals are sapient races created by [[The Fundamentals]]. \
+
+
+#axiomatic

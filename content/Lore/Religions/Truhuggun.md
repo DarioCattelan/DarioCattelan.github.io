@@ -1,5 +1,5 @@
 
-#religion #Tankedyr #Truhuggun
+
 
 <center><i>The faith of satiation, in life and death.</i></center>
 
@@ -28,3 +28,5 @@ Asmenn (ahz-MEN) is the weekly gathering of the faithful of Truhuggun in a place
 | Rarity | Reputation |
 | ------ | ---------- |
 |        |            |
+
+#religion #Tankedyr #Truhuggun

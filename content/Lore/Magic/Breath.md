@@ -1,4 +1,4 @@
-#magic #Breath
+
 
 Breath is the innate, magical power creatures contain within. Everyone has Breath, though some individuals (such as powerful mages or warriors) have Breath in much greater quantities than others. One's Breath can grow as they develop, and even change Hue.
 
@@ -34,3 +34,6 @@ A **hot** temperament is one where Breath streams off of or out of the body in a
 | --------- | --------------------------- | ----------------------------------------- |
 | **Humid** | [[The Breath of Devotion]]  | [[The Breath of Tales]]                   |
 | **Dry**   | [[The Breath of the World]] | Theoretically, [[The Breath of the Mind]] |
+
+
+#magic #Breath

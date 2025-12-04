@@ -1,4 +1,4 @@
-#ancestry #Gnome #Fey 
+
 
 <center><i> Innumerous faeries of whim and whimsy who live in the heart of the wood </i></center>
 
@@ -96,3 +96,5 @@ Fey folk find [[Halflings]] adorable, and are willfully ignorant of their own hi
 # History
 
 
+
+#ancestry #Gnome #Fey 
