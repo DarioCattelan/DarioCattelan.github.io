@@ -1,0 +1,3 @@
+#Law 
+
+The Right of Travel is a law which declares that any [[axiomatic mortals|axiomatic mortal]] has the right to emigrate from or immigrate to any other nation, with the exception of a few of the city states of [[the Kaupangsborg]]. The Right of Travel was codified 70 years ago by [[The Freewalk Accords]] following [[Mothers' Heresy]], and was one of the major facilitating documents of [[Halflings|Halfling]] emancipation.

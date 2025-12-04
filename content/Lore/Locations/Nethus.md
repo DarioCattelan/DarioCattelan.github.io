@@ -1,6 +1,6 @@
-#Region #Human
+#Region #Human #Halfling 
 
-Nethus is the ancestral homeland of [[Halflings]]. It was seized by the other [[axiomatic mortals]] some two hundred years ago. Following [[Mothers' Heresy]] the majority of the lands which once made Nethus were returned, which now form the modern Nethus.
+Nethus is the ancestral homeland of [[Halflings]]. It is predated by [[Old Nethus]] which was seized by the other [[axiomatic mortals]] some two hundred years ago. Following [[Mothers' Heresy]] the majority of the lands which once made Nethus were returned, which now form the modern Nethus.
 
 # Dominant Terrain
 

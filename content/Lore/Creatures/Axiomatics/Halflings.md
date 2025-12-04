@@ -50,13 +50,13 @@ Halflings will build shrines to [[Spirits]] in the form of pagodas and small tem
 ### Inherited Practices
 Every Halfling clan originally emigrated from another [[axiomatic mortals|axiomatic]] culture, and as a result they retain some spiritual practices of their ancestors' origins.
 
-| Clan        | Origin                                                        | Inherited Practice                  |
-| ----------- | ------------------------------------------------------------- | ----------------------------------- |
-| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | large monuments, subterranean homes |
-| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Devil-pacts, weekly communal meals  |
-| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Revelries, non-monogamy             |
-| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, TBD                  |
-| Smallburrow | The [[Elves\|Elven Republic]]                                 | Anulcur, Majili style legal forums  |
+| Clan        | Origin                                                        | Inherited Practice                   |
+| ----------- | ------------------------------------------------------------- | ------------------------------------ |
+| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | large monuments, subterranean homes  |
+| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Devil-pacts, weekly communal meals   |
+| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Revelries, non-monogamy              |
+| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, TBD                   |
+| Smallburrow | The [[Elves\|Elven Republic]]                                 | Anulcur, Majili style oratory debate |
 
 
 ### Mundane Magical Practices
@@ -71,33 +71,55 @@ Halflings are organized into five matrilineal hobbit clans originating from the 
 
 Some of the larger halfling towns were inherited as part of [[The Freewalk Accords]], and still have non-hobbit citizens, while other towns were founded after the accords. Non-Halfling citizens have the same legal rights in [[Nethus]] as Halflings, and are members of the hobbit clan in which their matrilineal ancestor resided at the time that [[The Grand Law of Liberty]] came into effect.
 
-| Hobbit Clan | Origin                                                        | Town/Village |
-| ----------- | ------------------------------------------------------------- | ------------ |
-| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | Goldburrow   |
-| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Hobbsborg    |
-| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            |              |
-| Goodchild   | The [[Orlins\|Orlin Communes]]                                |              |
-| Smallburrow | The [[Elves\|Elven Republic]]                                 |              |
+| Hobbit Clan | Origin                                                        | Town/Village  |
+| ----------- | ------------------------------------------------------------- | ------------- |
+| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | Goldburrow    |
+| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Hobbsborg     |
+| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Bighollow     |
+| Goodchild   | The [[Orlins\|Orlin Communes]]                                | New Nethus    |
+| Smallburrow | The [[Elves\|Elven Republic]]                                 | Riverfoot Way |
 ### The Free Confederacy
 Halfling government is a agrarian democracy defined by [[The Grand Law of Liberty]], a constitution that is both legal code and spiritual charter. The Free Confederacy functions via a series of council who proposes an accepts laws based on consensus, rather than majority vote. Each town has a Clan Council and a Village Council for domestic and municipal matters, and the nation of [[Nethus]] itself has a National Council which meets once a season for foreign policy and inter-village disputes.
 
 ### The Clan Council
 In each village there is a local Clan Council lead by a Burrow Mother chosen by consensus of the local clan. The Clan Council is a local form of government binding to only members of its local clan, and policy at both the national and municipal level typically begins in the Clan Council.
-One of the most important functions of the Clan Council is to elect Clan Chiefs and War Chiefs, which represent the clan in the other councils. Clan Chiefs serve as politicians and heads of state, while War Chiefs serve as generals and military strategists. War Chiefs cannot propose law, and Clan Chiefs cannot lead armies, and each group serves as a check to the others power. Each local clan elects two of each chief.
+
+One of the most important functions of the Clan Council is to elect Clan Chiefs and War Chiefs, which represent the clan at the other levels of government. Clan Chiefs serve as politicians and heads of state, while War Chiefs serve as generals and military strategists. War Chiefs cannot propose law, and Clan Chiefs cannot lead armies, and each group serves as a check and balance to the other's power. Each local clan elects two War Chiefs and two Clan Chiefs, giving each clan a total of ten of each Chief nationally.
 
 ### Village Council
+The Village Council is a council of ten Clan Chiefs appointed by each of the five Clans. The Village Council governs by consensus the matters that affect the village/town and surrounding lands writ large, including crime and punishment, inter clan disputes, local foreign relations, and daily municipal governance.
+
+During times of war, the Village Council also includes a War Council made of the ten local War Chiefs. The War Council cannot make any diplomatic decisions, but is the sole authority for strategic and tactical military decisions. If a Burrow Mother feels a War Chief is abusing their power or is a danger to the government, she can remove and replace a War Chief with a new member of the Clan.
 
 ### National Council
+The National Council is a large council of all fifty Clan Chiefs which rules by consensus. It handles all domestic and foreign policy which affects the entirety of the nation and meets once per season. The National Council renders decisions in a series of tiered decisions. 
+
+First, any Chief or Village Council can propose a decision to the National Council.
+
+Secondly, the matter is debated and a solution or legislation proposed by Goldburrow and Hobbsborg after consensus is reached
+
+Third, the solution is reviewed and amended (or rejected) by Bighollow and New Nethus, again by consensus.
+
+Finally, Riverfoot Way will ensure all Villages were heard, propose any compromises, and reject or approve the final consensus.
 
 ### Heralds
+Halflings worship no gods and hold no Heralds, though there are legends of  [[The Blasphemer]], a Herald-like champion of [[the Nomad]] who aided the betrayer god long ago.
+
+# Biology
+Oral tradition holds that  Halflings were a race of [[Humans]] long ago.
+
+Halflings are a small race, rarely growing taller than 3 feet in height. Halfling proportions vary, with some looking like shorter adult humans with slightly larger heads and others having proportions closer to those of a human child. Most halflings prefer to walk barefoot rather than wear shoes, and those who do so develop roughly calloused soles on their feet over time. Tufts of thick, often-curly hair warm the tops of their broad, tanned feet. Halfling skin tones tend toward rich, tawny shades like amber or oak, and their hair color ranges from a light golden blond to raven black.
+
+Halflings reach physical adulthood around the age of 18. A typical halfling can live to be around 100 years old.
+
+# History
+Halflings have been a highly persecuted race for over 200 years following the betrayal of the other [[The Fundamentals]] by their god, [[The Nomad]]. Following the betrayal, the Halfling nation of [[Old Nethus]] was invaded and destroyed by the other [[axiomatic mortals]], its territory divvied up by the other nations.
+
+70 years ago, the [[Orlins|Orlin]] [[The Heralds|Herald]] [[Grastus the Free]] declared the [[Edict of Axiomatic Equality]] which prompted a crusade by the [[Orlins]] to sunder any law which treated [[axiomatic mortals]] as second class citizens. This prompted a series of wars called [[Mothers' Heresy]], which ultimately ended in [[The Freewalk Accords]], granting Halflings [[the Right of Travel]] and returning most of the lands which made up [[Old Nethus]] back under the rule of the hobbit clans. 
 
 # Relationships
 
 ## Relationship with spirits
 
 ## Common misunderstandings with outsiders
-# Biology
-
-# History
-
 

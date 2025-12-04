@@ -1,4 +1,4 @@
-#Language #Human 
+#Language #Human #Halfling #Tallmen
 
 
 | Pathfinder Equivalent | Real World Similarity |
