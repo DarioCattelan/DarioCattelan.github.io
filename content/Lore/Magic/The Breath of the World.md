@@ -1,4 +1,4 @@
-#magic 
+#magic #Breath
 
 **Pathfinder equivalent:** Primal spellcasting
 

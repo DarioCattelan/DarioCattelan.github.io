@@ -22,6 +22,7 @@ Composed of what was once the middle grounds of other nations, [[Nethus]] is a r
 | Values/Virtues                             | Anti-values/Sins                                      |
 | ------------------------------------------ | ----------------------------------------------------- |
 | Oral tradition, stories, freedom, journeys | Incarceration, forgotten history, religious opression |
+
 [[Halflings]] have no [[The Fundamentals|Fundamental]] leading their people, as their creator, [[The Nomad]], betrayed the other Fundamentals and is trapped wandering the roads of [[Kaloshen]]. As a result, [[Nethus]] has no state religion, and minimal traditions or beliefs that are directly related to [[The Nomad]] and [[The Fundamentals]]. In fact, [[Halflings]] tend to have an irreverence and even a distain for the Fundamentals fueled by a long history of religious oppression.
 
 ### Right of Travel and the Walkabout
