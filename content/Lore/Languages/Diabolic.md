@@ -6,7 +6,7 @@
 | Diabolic              |                       |
 
 # Speakers
-Diabolic is spoken by pact-seeking [[Spirits]], often classified as [[Devils]].
+Diabolic is a dialect of [[Anivara]] used by pact-seeking [[Spirits]], often classified as [[Spirits#Devils|Devils]].
 
 # Script
 Diabolic is a confusing script with many letters and modifying accents. Its syntax is complex, and difficult to understand. Its almost exclusively conjugated in the imperative, and has many nuanced words for actions and consequences.

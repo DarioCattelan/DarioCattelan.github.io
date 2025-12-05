@@ -4,7 +4,8 @@
 
 # Overview
 
-*Possible Pathfinder ancestries:* Orcs, Goblins, Hobgoblins
+> [!NOTE] Pathfinder Possible Ancestries
+> Orcs, Goblins, Hobgoblins
 
 Orcs, Hobgoblins, and Goblins are different [[axiomatic mortals]] created by [[Orthal The Mother]], called Orlin. Chitinous and hearty, the Three-fold People, as they are sometimes called, live in large communal hives made of stone and a natural bile made in their stomachs.
 Each race once served as a caste in the hive communities, but no longer. Ever since the [[Mothers' Heresy]] several generations ago, the Orlin live in a communist system without formal hierarchy.
@@ -12,7 +13,7 @@ Each race once served as a caste in the hive communities, but no longer. Ever si
 # Identity
 
 ## Homeland
-The Orlin live in arid steps and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry.
+The Orlin live in arid steppes and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry. The terriroty owned by the Orlin is called [[The Orlin Commune]].
 
 ## Traditions & Beliefs
 
@@ -23,29 +24,37 @@ The Orlin are strong believers in [[The Ordning]], a "Great Chain of Being" reli
 
 Ever since [[Mothers' Heresy]], the Orlins have a strong belief that all axiomatic mortals are equal, and any act that seeks to place one individual above another of the same [[The Ordning#Ordning Links|Ordning Link]] is seen as heretical and a sin.
 
-### Mundane Magical Practices
-#### The Perpetual stew
-Orlin communities will often have a form of magical, perpetual stew brewing in the communities [[Orlins#The Herald Home|Herald Home]].
+### Zuhachi Herders
+Orlin have a strong connection with [[Spirits]] of animals, particularly herd animals. Living in the vast steppes of [[Kaloshen]], Orlin have become prodigious ranchers and herders, and the Orlin way of life has become deeply entwined with the trade of animal husbandry. All herds are communally owned, and ranching is such a highly sought after position that it is often filled by lottery.
 
+Occasionally, a large of noteworthy herd will manifest a [[Spirits#Zuhachi|Zuhachi]]. In such instances, the herd becomes sacred, and animals from that herd cannot be killed. It is a ranchers duty to tend to the Zuhachi, and protect the herd from poachers and predators. A Zuhachi heard is often a great boon to a rancher, as the milk from a sacred herd has magical properties, and the fertilizer produced from a Zuhachi herd can greatly increase crop yield. Due to their roles in tending to Zuhachi, ranchers hold a spiritual connotation to Orlin culture.
+
+### The Perpetual stew
+Orlin communities will often have a form of magical, perpetual stew brewing in the community's [[Orlins#The Herald Home|Herald Home]]. This stew is unique to each community, and every four years the Orlin hold a nation wide competition judged by the three Heralds for the best perpetual stew.
+
+
+### Communal Temples
+Orlin religion is clearly defined and rarely requires interpretation. As a result, there is no strict religious class in Orlin society. Instead, temples to [[Orthal The Mother]] are constructed from public funds, and maintained by volunteers. Cultural events and religious ceremonies are organized by individual committees appointed by the village committee, and the honor of conducting the ceremonies are given to locals deserving recognition.
+
+Communal temples often contain shrines to all links of [[The Ordning]], and spirits sometimes manifest there. Community members who's house is in need of repair, or are waiting relocation to a larger home, often stay in the communal temple in the interim.
+
+#### The Herald Home
+Every Orlin community will have a kind of temple called a Herald Home, which serves as both living quarters for any local or visiting Heralds, as well as a community center. [[Orlins#The Perpetual stew|The Perpetual Stew]] of the Orlin is typically kept brewing in the Herald Home.
 
 ## Language
 Orlins speak, read, and write [[Orlish]].
 
 ## Organization
-Orlin leadership is complex and administrative, with no formal state executives, and three [[Heralds]] serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by the one committee or another.
+Orlin leadership is complex and administrative, with no formal state executives, and three [[Heralds]] serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by one committee or another.
+
+### The Mothers leadership
+Orlins Fundamental, [[Orthal The Mother]], is nominally the only permanent member of every Orlin committee. In practice, Orthal is constantly travelling with her three [[Heralds]] to other nations on diplomatic missions to foster world peace and unity. Rarely does Orlin leadership know the current location of the Mother or her Heralds, and it is not unheard of for years to have gone by with no contact.
 
 ### Heralds
 Orlins have three [[Heralds]] who's membership is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
 In theory, the Heralds' serve solely as advisors and spiritual leaders, providing guidance on religious matters and bridging the will of the Mother and the Orlin. In practice, the Heralds serve as ultimate oversight on the practices of the many governing committees of the Orlin, and have been known to intervene when committee members stretch their authority too far. Such instances have lead to quick and zealous action.
 
-#### The Herald Home
-Every Orlin community will have a Herald Home, which serves as both living quarters for any local or visiting Heralds, as well as a community center. [[Orlins#The Perpetual stew|The Perpetual Stew]] of the Orlin is typically kept brewing in the Herald Home.
 
-# Relationships
-
-## Relationship with spirits
-
-## Common misunderstandings with outsiders
 
 # Biology
 Orlin typically live 70-80 years, and mature faster than humans reaching adulthood in their middle teens. Orlin have several insect-like features that invites allusion to termites or beetles. 
@@ -73,6 +82,7 @@ The Orlin, under the urging of the Mother Herald [[Grastus the Free]], started t
 Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several generations ago for the Orlin but still fresh in the minds of the long lived races.
 
 Halflings are very hospital to Orlin for their liberation, but still hold the generational trauma of servitude under the Three-fold people from before the [[Edict of Axiomatic Equality]].
+
 
 [^1]: This could mean he had direct contact with the Mother, indirect contact through a vision or dream, or had a personal spiritual revelation (brought on by the Mother by unknowable means)
 

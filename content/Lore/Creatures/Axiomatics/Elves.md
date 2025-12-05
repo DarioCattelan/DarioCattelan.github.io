@@ -3,6 +3,9 @@
 <center><i> Wardens of cycles, watchers of time, whom the ages never touch. </i></center>
 
 # Overview
+> [!NOTE] Pathfinder Possible Ancestries
+> Elf
+
 Elves are [[axiomatic mortals]] created by [[Elenwe The Farmer]]. Elves are born [[Perpetuals]], they can be killed by violence or disease but stop aging once they reach maturity. Elves have a deep regard for the seasons and things that grow, and their cities are often found surrounded by ancient trees, tall mountains, or arable fields.
 
 Elves have a timeless perspective that other ancestries find confusing or frustrating. They are slow to act and have the luxury of waiting for an ideal moment that can come decades or centuries later.
@@ -85,6 +88,6 @@ Elves still harbor a deep anger at [[Orlins|Orlin]]  for their attacks during [[
 
 After years of having [[Halflings]] serve as plebians in the elvish socio-economic system, Elves feel an internalized sense of haughty superiority towards the Smallmen, and are sometimes confused when they are offended.
 
-Elves rather like [[Fey Folk]], and have a religiously motivated respect for [[Leshy]].
+Elves rather like [[Fey Folk]], and have a religiously motivated respect for [[Spirits#Leshi|Leshi spirits]]
 
 #ancestry #Elf

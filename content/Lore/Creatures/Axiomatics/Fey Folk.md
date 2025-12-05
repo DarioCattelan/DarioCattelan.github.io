@@ -5,7 +5,8 @@
 
 # Overview
 
-*Possible Pathfinder ancestries:* Gnome, Sprite
+> [!NOTE] Pathfinder Possible Ancestries
+> Gnomes, Sprites, Leshy
 
 The Fey Folk, or faeries, refers to innumerable [[axiomatic mortals]] created by [[Titania The Muse]], including notably Gnomes, Pixies, and Sprites.
 

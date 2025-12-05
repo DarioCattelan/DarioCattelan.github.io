@@ -3,6 +3,9 @@
 <center><i> Smallmen, Hobbits, Halflings. The emancipated children of roads and stories. </i></center>
 
 # Overview
+> [!NOTE] Pathfinder Possible Ancestries
+> Halflings
+
 [[Halflings]] are a race of [[axiomatic mortals]] created by the traitorous [[The Fundamentals|Fundamental]] [[The Nomad]]. Long long ago, following the betrayal of [[The Nomad]], the [[Humans|Human]] homeland was annexed by the other [[axiomatic mortals]]. Only for the past 70 years since [[Mothers' Heresy]] have the [[Halflings]] had their ancestral land returned.
 
 Halflings are multicultural people, having joined together in their homeland from other nations but two generations ago. They have a strong oral tradition of storytelling, claiming to have stories from before [[The Fundamentals]].
@@ -56,7 +59,7 @@ Every Halfling clan originally emigrated from another [[axiomatic mortals|axioma
 | Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | large monuments, subterranean homes  |
 | Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Devil-pacts, weekly communal meals   |
 | Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Revelries, non-monogamy              |
-| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, TBD                   |
+| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, sacred herds          |
 | Smallburrow | The [[Elves\|Elven Republic]]                                 | Anulcur, Majili style oratory debate |
 
 

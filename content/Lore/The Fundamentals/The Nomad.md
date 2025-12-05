@@ -21,7 +21,7 @@ Intense, cunning, respectful, vengeful, clever.
 ## Daily Influence on the World
 
 # History
-At some point in the past, the Nomad betrayed the other [[The Fundamentals|Fundamentals]]. In response, there was a great war between the gods. Sometime during the war, [[Elenwe The Farmer]] managed to banish the Nomad to endlessly walk the world, never reaching his destination, and [[Dwemeran The Collector]] stole his name, so that none may ever invite him in for respite.
+At some point in the past, the Nomad betrayed the other [[The Fundamentals|Fundamentals]] in an event the [[Tallmen]] call [[The Wæl]]. In response, there was a great war between the gods. Sometime during the war, [[Elenwe The Farmer]] managed to banish the Nomad to endlessly walk the world, never reaching his destination, and [[Dwemeran The Collector]] stole his name, so that none may ever invite him in for respite.
 
 
 # Story Spark

@@ -4,6 +4,10 @@
 <center><i> Collectors, hoarders, keepers of lore and knowledge </i></center>
 
 # Overview
+
+> [!NOTE] Pathfinder Possible Ancestries
+> Dwarf
+
 Dwarves are [[axiomatic mortals]] created by [[Dwemeran The Collector]]. Dwarves believe that the first of their kind were built by [[Dwemeran The Collector]] out of perfect clockwork. Nobody knows how Dwarves reproduce, and discussion of the subject is strictly taboo.
 
 Dwarves dwell deep in the earth where they can better hear the songs and whispers of the stones. The status, wealth, happiness, and health of a dwarf can be gauged by the size of their hoard, for all dwarves have in their nature the compulsion to gather, collect, and hide objects and knowledge.

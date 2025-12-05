@@ -6,7 +6,9 @@
 
 # Overview
 
-*Pathfinder possible ancestries:* Kholo, Catfolk, Ratfolk, Vanara, Minotaur, Tengu,  Kobolds
+
+> [!NOTE] Pathfinder Possible Ancestries
+> Kholo, Catfolk, Ratfolk, Vanara, Minotaur, Tengu, Strix,  Kobolds, Awakened Animal
 
 Tankedyr are a race of animal-like [[axiomatic mortals]] created by [[Graedor The Merchant]]. Like [[Fey Folk]], their appearance varies greatly, but they are fundamentally a single species.
 
@@ -45,7 +47,7 @@ Sannlif (san-LEEF) (the Honest Life in [[Common]]) is the Tankedyr belief that i
 Unlike most cultures in [[Kaloshen]], Tankedyr do not typically assign any sacred or divine nature to [[Spirits]], considering them simply another kind of creature in their magical world. There are no shrines or offerings given to [[Spirits]] in [[the Kaupangsborg]], and [[Spirits]] are often less present in the city states than in other urban environments.
 
 ### Devils and Pacts
-Although Tankedyr don't typically worship [[Spirits]], they do still interact with them in their day to day lives. Most notably, unlike many cultures which shun [[Devils]], [[Tankedyr]] have no such taboo for pacts made with spirit-folk. Quite the opposite, Tankedyr tend to flaunt their pact-enhanced [[Breath]], and although the nature of a pact is private (often by magically compelled necessity), Tankedyr have mastered the art of negotiating just enough leeway in the small print to allow public flaunting of their business acumen.
+Although Tankedyr don't typically worship [[Spirits]], they do still interact with them in their day to day lives. Most notably, unlike many cultures which shun [[Spirits#Devils|Devils]], [[Tankedyr]] have no such taboo for pacts made with spirit-folk. Quite the opposite, Tankedyr tend to flaunt their pact-enhanced [[Breath]], and although the nature of a pact is private (often by magically compelled necessity), Tankedyr have mastered the art of negotiating just enough leeway in the small print to allow public flaunting of their business acumen.
 
 ## Language
 Tankedyr read, write, and speak [[Kaupmal]], a tonal, rhythmic language with much nuance in the imperative tense, and beautiful application to song and poetry.
