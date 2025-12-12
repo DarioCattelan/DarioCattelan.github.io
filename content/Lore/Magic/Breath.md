@@ -3,21 +3,21 @@
 Breath is the innate, magical power creatures contain within. Everyone has Breath, though some individuals (such as powerful mages or warriors) have Breath in much greater quantities than others. One's Breath can grow as they develop, and even change Hue.
 
 # Colours & hue
-Breath comes in eight colours, and most people's Breath is a mix with one dominate colour, called a Hue.
+Breath comes in eight colours, and most people's Breath is a mix with one dominate colour, called a Hue. Each person's Hue is unique, and is innately tied to their [[Breath#True Name|True Name]].
 
 ## The Eight Colours
 The eight colours of Breath are each associated with a different quality. It was by refining a Breath to a moment of a single, pure Hue that the [[Primeval bloodlines]] were able to derive the eight schools of magic.
 
-| Colour | Description               | School of magic |
-| ------ | ------------------------- | --------------- |
-| Purple | The Breath of movement.   | Conjuration     |
-| Violet | The Breath of strength.   | Abjuration      |
-| Blue   | The Breath of the senses. | Illusion        |
-| Green  | The Breath of vitality.   | Necromancy      |
-| Yellow | The Breath of knowledge.  | Divination      |
-| Amber  | The Breath of thought.    | Enchantment     |
-| Orange | The Breath of adaptation. | Transmutation   |
-| Red    | The Breath of energy.     | Evocation       |
+| Colour    | Description               | School of magic |
+| --------- | ------------------------- | --------------- |
+| Violet    | The Breath of movement.   | Conjuration     |
+| Indigo    | The Breath of strength.   | Abjuration      |
+| Blue      | The Breath of the senses. | Illusion        |
+| Turquoise | The Breath of thought.    | Enchantment     |
+| Green     | The Breath of vitality.   | Necromancy      |
+| Yellow    | The Breath of knowledge.  | Divination      |
+| Orange    | The Breath of adaptation. | Transmutation   |
+| Red       | The Breath of energy.     | Evocation       |
 
 # Methods of Breath
 A method of Breath is the means by which Breath can be used to cast magic. There are three methods of Breath: [[The Breath of Tales]], [[The Breath of Devotion]], and [[The Breath of the World]]. Few creatures can leverage Breath to cast magic, and each method has its own criteria for use. There are legends of a fourth method of Breath, [[The Breath of the Mind]], but it is disregarded by mages as mythical.
@@ -34,6 +34,9 @@ A **hot** temperament is one where Breath streams off of or out of the body in a
 | --------- | --------------------------- | ----------------------------------------- |
 | **Humid** | [[The Breath of Devotion]]  | [[The Breath of Tales]]                   |
 | **Dry**   | [[The Breath of the World]] | Theoretically, [[The Breath of the Mind]] |
+
+# True Name
+A True Name is a kind of external breath ignition which is innately tied to the Hue of a creature. By speaking a True Name, those with training can mimic the Hue of another, creating a magical resonance to the owner. This resonance can leave the owner of the name critically vulnerable to influence and manipulation. As a result, a True Name is an extremely private facet of a person's Breath.
 
 
 #magic #Breath

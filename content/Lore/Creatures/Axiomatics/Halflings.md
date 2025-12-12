@@ -6,7 +6,7 @@
 > [!NOTE] Pathfinder Possible Ancestries
 > Halflings
 
-[[Halflings]] are a race of [[axiomatic mortals]] created by the traitorous [[The Fundamentals|Fundamental]] [[The Nomad]]. Long long ago, following the betrayal of [[The Nomad]], the [[Humans|Human]] homeland was annexed by the other [[axiomatic mortals]]. Only for the past 70 years since [[Mothers' Heresy]] have the [[Halflings]] had their ancestral land returned.
+Halflings are a race of [[axiomatic mortals]] created by the traitorous [[The Fundamentals|Fundamental]] [[The Nomad]]. Long long ago, following the betrayal of [[The Nomad]], the [[Humans|Human]] homeland was annexed by the other [[axiomatic mortals]]. Only for the past 70 years since [[Mothers' Heresy]] have the [[Halflings]] had their ancestral land returned.
 
 Halflings are multicultural people, having joined together in their homeland from other nations but two generations ago. They have a strong oral tradition of storytelling, claiming to have stories from before [[The Fundamentals]].
 
