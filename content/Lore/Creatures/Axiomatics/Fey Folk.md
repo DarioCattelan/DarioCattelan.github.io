@@ -67,7 +67,7 @@ Below are the noble rankings in [[Hoshi Hall]]. The rankings come with no additi
 
 
 ### Sylvans
-Sylvans as [[Spirits]] who have manifested permanently in [[Hoshi Hall]] and have chosen to serve as spiritual leaders to faeries. Sylvans have a role outside of the Chivalric Hierarchy, and are treated with respect, if not deference, by all nobility. Sylvans advise faeries on pursuit of their Virtues, perform healings, divine auguries, sanctify companionships, and perform at revelries.
+Sylvans are [[Spirits]] who have manifested permanently in [[Hoshi Hall]] and have chosen to serve as spiritual leaders to faeries. Sylvans have a role outside of the Chivalric Hierarchy, and are treated with respect, if not deference, by all nobility. Sylvans advise faeries on pursuit of their Virtues, perform healings, divine auguries, sanctify companionships, and perform at revelries.
 
 ### Heralds: the Oberons
 The Heralds of [[Fey Folk]] are the Prince/Princess consorts of [[Titania The Muse]], and always adopt the name Oberon. [[Titania The Muse|The Empress]] is fickle, her desires ever changing, and thus the number and identity of the Oberons is in constant flux. Male or female, noble or peasant, one or many, [[Titania The Muse|Titania]] appoints and removes Oberon's as she wishes. When more than one Oberon is in vogue, [[Titania The Muse|Titania]] will usually append a moniker to the title, naming them "Oberon the Tall" or "Oberon the Artist" or "Oberon the Loud Sneezer". The Summer Queen has often said she does this for others, as she can "always tell" which one *she* means.

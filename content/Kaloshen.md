@@ -1,5 +1,5 @@
 
-Kaloshen is the world created and ruled by [[The Fundamentals]] and the setting of this campaign. It is a large continent surrounded by [[the Godwall]], a barrier of divine force which separates it from the underworld.
+Kaloshen is the world created and ruled by [[The Fundamentals]] and the setting of this campaign. It is a large continent surrounded by [[The Godwall]], a barrier of divine force which separates it from the underworld.
 
 ![[Kaloshen_final.jpg]]
 

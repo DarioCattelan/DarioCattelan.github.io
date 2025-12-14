@@ -5,10 +5,11 @@ The Rasul clan is the bloodline of [[Heralds]] of [[Elenwe The Farmer]]. They ar
 65 of members of their clan, typically the eldest 65, serve as [[Elves#Projidi|Projidi]] in the elvish [[Elves#The Majilis|Majilis]], and [[Heralds]] to [[Elenwe The Farmer]].
 
 ## Key Figures
-| Name | Role | Personality Notes |
-|------|------|-------------------|
-|      |      |                   |
-|      |      |                   |
+| Name             | Role          | Personality Notes |
+| ---------------- | ------------- | ----------------- |
+|                  |               |                   |
+|                  |               |                   |
+| [[Hevlon Rasul]] | Eldest member | solitary,         |
 
 ## Organization
 

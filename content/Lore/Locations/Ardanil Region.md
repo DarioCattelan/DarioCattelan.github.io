@@ -1,5 +1,5 @@
 
-Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is located. It sits in the south of the continent, in a verdant and humid tropical bay.
+The Ardanil Region is a temperate, Mediterranean region in the North West of [[Kaloshen]] between the [[Scanruil Cruin]] and the [[Jabal Mountains]]. It is the homeland of [[Elves]] and the location of the [[Elven Republic]].
 
 # Dominant Terrain
 
@@ -27,4 +27,4 @@ Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is loca
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region #Kaupangsborg 
+#Region #Location 

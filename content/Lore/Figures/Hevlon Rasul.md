@@ -1,9 +1,10 @@
 
 <center><i>Flavour text about the character</i></center>
 
-Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] of the [[Rasul clan]] to retired from being a [[Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem.
+Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] of the [[Rasul clan]] to retired from being a [[Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem after the vents of [[The Wæl]]. Hevlon suffers from a degenerative mental disease, leaving him unable to remember the distant past.
 
 # Character Details
+Status: Alive
 Pronouns: He/Him
 Race: [[Elves|Elf]]
 Profession: ex-Prodiji Shah (Elder Herald) of [[Elenwe The Farmer]]

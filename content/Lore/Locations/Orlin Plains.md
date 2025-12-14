@@ -1,5 +1,5 @@
 
-Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is located. It sits in the south of the continent, in a verdant and humid tropical bay.
+The Orlin Plains is region in the middle of [[Kaloshen]]. It is a mixture of tropical savannah and temperate steppe. The Orlin Plains is the homeland of the [[Orlins]], and makes up the majority of the territory known as [[the Orlin Communes]].
 
 # Dominant Terrain
 
@@ -27,4 +27,4 @@ Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is loca
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region #Kaupangsborg 
+#Region #Location 

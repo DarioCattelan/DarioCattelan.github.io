@@ -9,6 +9,9 @@ there were several notable battles
 ## The Scouring
 During Mothers' Heresy, the [[Orlins|Orlin]] army systematically burned numerous ancient woodlands as a strike against the [[Fey Folk]] and their [[The Fundamentals|Fundamental]] [[Titania The Muse]]. This act, more than any other during the war, wreaked havoc on the [[Spirits]] of [[Kaloshen]] and forced the [[Fey Folk]] to capitulate to Orlin demands.
 
+## The Battle of the Pass
+The Battle of the Pass was a conflict between [[the Kaupangsborg]] City State of [[Hobbsborg|Roadbjur]] and the [[Three People's Army]] in [[Orken Pass]]. It resulted in an Orlin victory, with the annexation of Roadbjur. It was a major defeat for [[the Kaupangsborg]], and choaked off trade between [[Audland]] and [[Elves|The Eleven Republic]].
+
 # The Freewalk Accord
 After several notable battles, the Orlins seized huge swath of territory from their adversaries, liberating thousands of Halfling. The other nations were forced into a peace agreement with the Orlin, whereupon the Orlin would return seized lands in exchange for the majority of the ancestral land of the [[Halflings]] and free passage to any Halfling who wished to return home.
 

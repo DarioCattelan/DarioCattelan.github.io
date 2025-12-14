@@ -54,13 +54,13 @@ Halflings will build shrines to [[Spirits]] in the form of pagodas and small tem
 ### Inherited Practices
 Every Halfling clan originally emigrated from another [[axiomatic mortals|axiomatic]] culture, and as a result they retain some spiritual practices of their ancestors' origins.
 
-| Clan        | Origin                                                        | Inherited Practice                   |
-| ----------- | ------------------------------------------------------------- | ------------------------------------ |
-| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | large monuments, subterranean homes  |
-| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Devil-pacts, weekly communal meals   |
-| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Revelries, non-monogamy              |
-| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, sacred herds          |
-| Smallburrow | The [[Elves\|Elven Republic]]                                 | Anulcur, Majili style oratory debate |
+| Clan        | Origin                                                        | Inherited Practice                                        |
+| ----------- | ------------------------------------------------------------- | --------------------------------------------------------- |
+| Goldbrush   | [[Dwarves#Mountainhomes and Royalburrows\|The Dwarven Fiefs]] | large monuments, subterranean homes                       |
+| Humblebrand | [[the Kaupangsborg]] of the [[Tankedyr]]                      | Devil-pacts, weekly communal meals                        |
+| Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | [[Fey Folk#Revelries\|Revelries]], non-monogamy           |
+| Goodchild   | The [[Orlins\|Orlin Communes]]                                | Public houses, sacred herds                               |
+| Smallburrow | The [[Elves\|Elven Republic]]                                 | [[Elves#Alnucur\|Alnucur]], [[Elves#The Majilis\|Majili]] |
 
 
 ### Mundane Magical Practices
@@ -96,18 +96,18 @@ The Village Council is a council of ten Clan Chiefs appointed by each of the fiv
 During times of war, the Village Council also includes a War Council made of the ten local War Chiefs. The War Council cannot make any diplomatic decisions, but is the sole authority for strategic and tactical military decisions. If a Burrow Mother feels a War Chief is abusing their power or is a danger to the government, she can remove and replace a War Chief with a new member of the Clan.
 
 ### National Council
-The National Council is a large council of all fifty Clan Chiefs which rules by consensus. It handles all domestic and foreign policy which affects the entirety of the nation and meets once per season. The National Council renders decisions in a series of tiered decisions. 
+The National Council is a large council of all fifty Clan Chiefs which rules by consensus. It handles all domestic and foreign policy which affects the entirety of the nation and meets once per season in [[Hobbsborg]]. The National Council renders decisions in a series of tiered decisions. 
 
 First, any Chief or Village Council can propose a decision to the National Council.
 
-Secondly, the matter is debated and a solution or legislation proposed by Goldburrow and Hobbsborg after consensus is reached
+Secondly, the matter is debated and a solution or legislation proposed by Goldburrow and Riverfoot Way after consensus is reached
 
 Third, the solution is reviewed and amended (or rejected) by Bighollow and Hereham, again by consensus.
 
-Finally, Riverfoot Way will ensure all Villages were heard, propose any compromises, and reject or approve the final consensus.
+Finally, Hobbsborg will ensure all Villages were heard, propose any compromises, and reject or approve the final consensus.
 
 ### Heralds
-Halflings worship no gods and hold no Heralds, though there are legends of  [[The Blasphemer]], a Herald-like champion of [[the Nomad]] who aided the betrayer god long ago.
+Halflings worship no gods and hold no Heralds, though there are legends of  [[The Blasphemer]], a Herald-like champion of [[The Nomad]] who aided the betrayer god long ago.
 
 # Biology
 Oral tradition holds that  Halflings were a race of [[Humans]] long ago.
