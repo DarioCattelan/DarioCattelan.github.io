@@ -1,7 +1,7 @@
 
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+>  Type | Stat |
 > -|---|
 > Type | Outdoorsmen, scouts, rangers |
 > Military Role | Infantry, Logistics, Reconnaissance, Strategic, Support |
