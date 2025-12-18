@@ -13,7 +13,7 @@ Each race once served as a caste in the hive communities, but no longer. Ever si
 # Identity
 
 ## Homeland
-The Orlin live in arid steppes and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry. The terriroty owned by the Orlin is called [[The Orlin Commune]].
+The Orlin live in arid steppes and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry. The terriroty owned by the Orlin is called [[The Orlin Communes]].
 
 ## Traditions & Beliefs
 

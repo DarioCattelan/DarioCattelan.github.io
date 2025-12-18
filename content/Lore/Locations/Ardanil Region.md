@@ -1,5 +1,5 @@
 
-The Ardanil Region is a temperate, Mediterranean region in the North West of [[Kaloshen]] between the [[Scanruil Cruin]] and the [[Jabal Mountains]]. It is the homeland of [[Elves]] and the location of the [[Elven Republic]].
+The Ardanil (arr-da-NEEL) Region is a temperate, Mediterranean region in the North West of [[Kaloshen]] between the [[Scanruil Cruin]] and the [[Jabal Mountains]]. It is the homeland of [[Elves]] and the location of the [[Elven Republic]].
 
 # Dominant Terrain
 
@@ -27,4 +27,4 @@ The Ardanil Region is a temperate, Mediterranean region in the North West of [[K
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region #Location 
+#Region #Location #Elf 

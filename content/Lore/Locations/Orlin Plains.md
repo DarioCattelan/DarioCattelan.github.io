@@ -1,5 +1,5 @@
 
-The Orlin Plains is region in the middle of [[Kaloshen]]. It is a mixture of tropical savannah and temperate steppe. The Orlin Plains is the homeland of the [[Orlins]], and makes up the majority of the territory known as [[the Orlin Communes]].
+The Orlin Plains is region in the middle of [[Kaloshen]]. It is a mixture of tropical savannah and temperate steppe. The Orlin Plains is the homeland of the [[Orlins]], and makes up the majority of the territory known as [[The Orlin Communes]].
 
 # Dominant Terrain
 

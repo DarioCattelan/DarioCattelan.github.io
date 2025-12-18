@@ -1,5 +1,5 @@
 
-The Jabal Mountains are a chain of mountains in the North West of [[Kaloshen]], to the North of the [[Ardanil Region]].
+The Jabal (JJA-bahl) Mountains are a chain of mountains in the North West of [[Kaloshen]], to the North of the [[Ardanil Region]].
 
 # Dominant Terrain
 

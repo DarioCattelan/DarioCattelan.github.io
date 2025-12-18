@@ -1,7 +1,13 @@
 
+
+> [!infobox| right wikipedia] Title
+> ###### Kaloshen
+> ![[Kaloshen_final.jpg|hsmall]]
+
+
 Kaloshen is the world created and ruled by [[The Fundamentals]] and the setting of this campaign. It is a large continent surrounded by [[The Godwall]], a barrier of divine force which separates it from the underworld.
 
-![[Kaloshen_final.jpg]]
+
 
 Kaloshen is home to the [[axiomatic mortals]], sapient humanoids created by a Fundamental to live and serve. It is a land of [[Spirits]], where thoughts and desires can manifest corporeal creatures linked to the concepts of the world.
 

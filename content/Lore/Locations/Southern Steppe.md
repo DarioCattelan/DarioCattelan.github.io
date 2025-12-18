@@ -1,9 +1,9 @@
 
-The Orlin Commune is the territory claimed by the [[Orlins]] and administered by its communalist government.
+The Southern Steppe is arid subtropical steppe located in the south west of [[Kaloshen]] between [[Scanruil Cruin]] and  
 
 # Dominant Terrain
 
-The Orlin Commune is primarily composed of an arid steppe, with desert regions on some fringes.
+
 
 # Spirits and Magic
 ## Magical manifestations
@@ -27,4 +27,4 @@ The Orlin Commune is primarily composed of an arid steppe, with desert regions o
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region
+#Region #Location 

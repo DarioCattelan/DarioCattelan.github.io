@@ -13,7 +13,7 @@ The Ordning is categorized in hierarchical divisions called "Links". The Links a
 1. [[The Fundamentals]]
 2. [[Heralds]]
 3. [[Spirits]]
-4. [[Axiomatic mortals]]
+4. [[axiomatic mortals]]
 5. Non-axiomatic mortals
 6. Animals
 7. Plants
