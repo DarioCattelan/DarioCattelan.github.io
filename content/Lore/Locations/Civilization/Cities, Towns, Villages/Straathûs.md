@@ -84,4 +84,4 @@ Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ar
 |Exports |  |
 |Imports |  |
 
-#City #Location #Kaupangsborg
+#City #Location #Kaupangsborg #Tankedyr 

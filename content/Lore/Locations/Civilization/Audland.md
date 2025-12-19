@@ -1,5 +1,5 @@
 
-Netham is the ancestral homeland of [[Halflings]]. It is predated by [[Old Netham]] which was seized by the other [[axiomatic mortals]] some two hundred years ago. Following [[Mothers' Heresy]] the majority of the lands which once made Netham were returned, which now form the modern Netham.
+Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is located. It sits in the south of the continent, in a verdant and humid tropical bay.
 
 # Dominant Terrain
 
@@ -27,4 +27,4 @@ Netham is the ancestral homeland of [[Halflings]]. It is predated by [[Old Netha
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region #Human #Halfling 
+#Region #Kaupangsborg #Nation #Location 

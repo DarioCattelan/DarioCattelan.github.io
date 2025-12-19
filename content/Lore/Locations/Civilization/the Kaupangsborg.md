@@ -3,4 +3,4 @@ The Kaupangsborg are the collection of mercantile city states home to the [[Tank
 
 The Kaupangsborg are ruled via mercantile oligarchy led by [[Tankedyr#Merchant Councils|merchant councils]]. Many cities of the Kaupangsborg are seated in territories claimed by other [[axiomatic mortals]], but maintain a fierce independence by virtue of their economic and military power.
 
-#Tankedyr #Kaupangsborg #City 
+#Tankedyr #Kaupangsborg #City #Location 

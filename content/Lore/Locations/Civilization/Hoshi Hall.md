@@ -28,4 +28,4 @@ The Backwoods is a mysterious natural landscape that is connected to Hoshi Hall,
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
 
-#Region #Fey 
+#Region #Fey #City #Nation #Location 

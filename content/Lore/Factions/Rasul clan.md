@@ -1,26 +1,28 @@
 
+
+> [!infobox|right wikipedia]
+> ##### Family 
+>  |  |
+> -|---|
+> Race | |
+> ###### organization
+>   |   |
+> -|---|
+> Leader(s) |  |
+> Prominent Members | [[Hevlon Rasul]] |
+> Iconography |  |
+
+
 ## Overview
 The Rasul clan is the bloodline of [[Heralds]] of [[Elenwe The Farmer]]. They are one of the [[Primeval bloodlines|primeval bloodlines]] of [[Kaloshen]], with natural magical abilities.
 
-65 of members of their clan, typically the eldest 65, serve as [[Elves#Projidi|Projidi]] in the elvish [[Elves#The Majilis|Majilis]], and [[Heralds]] to [[Elenwe The Farmer]].
+65 members of the clan, typically the eldest 65, serve as [[Elves#Projidi|Projidi]] in the elvish [[Elves#The Majilis|Majilis]], and [[Heralds]] to [[Elenwe The Farmer]].
 
 ## Key Figures
-| Name             | Role          | Personality Notes |
-| ---------------- | ------------- | ----------------- |
-|                  |               |                   |
-|                  |               |                   |
-| [[Hevlon Rasul]] | Eldest member | solitary,         |
-
-## Organization
-
-**Headquarters**:
-
-**Leader(s)**: 
-
-**Prominent Members**:
-
-**Iconography:**
-
+| Name             | Role   | Personality Notes                                                                                               |
+| ---------------- | ------ | --------------------------------------------------------------------------------------------------------------- |
+| [[Hevlon Rasul]] | Eldest | suffers from a degenerative disease, personality switches between fuzzy and childlike to cunning and thoughtful |
+|                  |        |                                                                                                                 |
 
 ## Philosophy
 
@@ -65,5 +67,7 @@ The Rasul clan is the bloodline of [[Heralds]] of [[Elenwe The Farmer]]. They ar
 | Taboos / Avoidances   |             |
 
 ## Additional Details
+
+
 
 #Faction #Family #Elf #Herald 
