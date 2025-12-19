@@ -22,10 +22,13 @@ The eight colours of Breath are each associated with a different quality. It was
 # Methods of Breath
 A method of Breath is the means by which Breath can be used to cast magic. There are three methods of Breath: [[The Breath of Tales]], [[The Breath of Devotion]], and [[The Breath of the World]]. Few creatures can leverage Breath to cast magic, and each method has its own criteria for use. There are legends of a fourth method of Breath, [[The Breath of the Mind]], but it is disregarded by mages as mythical.
 
+## Breath Ignitions
+Some Methods of Breath require a "jumpstart" from an external source of power in order to bolster Breath for spellcasting, called ignitions. These ignitions can be prayers, arcane dances, magical songs, summoning rituals, or any other action which pulls an external source of magic internally into one's Breath. [[The Breath of Devotion]] and [[The Breath of Tales]] both require Breath ignitions.
+
 ## Temperament
 The temperament of a Breath method categorizes the visual elements of the methods. Each method of Breath has a different temperament, but shares a feature with theoretically two other methods. The temperaments can be hot or cold, and dry or humid.
 
-A **humid** temperament requires an external ignition, such as a [[The Breath of Tales#Breath sparks|Breath spark]] or [[The Breath of Devotion#Exclamations|exclamation]], whereas **dry** temperament does not.
+A **humid** temperament requires a Breath ignition, such as a [[The Breath of Tales#Breath sparks|Breath spark]] or [[The Breath of Devotion#Exclamations|exclamation]], whereas **dry** temperament does not.
 
 A **hot** temperament is one where Breath streams off of or out of the body in a quick, turbulent, and sometimes  luminous flow, while a **cold** temperament has the Breath issue slowly and can form sigils, glyphs, and runes in the air.
 
