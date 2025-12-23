@@ -26,6 +26,7 @@ The Rasul clan is the bloodline of [[Heralds]] of [[Elenwe The Farmer]]. They ar
 
 ## Philosophy
 
+The Rasul Clan claim to be the descendants of [[Ciran and Relor]], and thus the rightful mortal rulers of the [[Elves]].
 
 
 ## Methods

@@ -10,7 +10,7 @@
 > Scripture | [[Nihir Lawall]] |
 > Theology | animist polytheist |
 > Region | [[Ardanil Region]] |
-> Language | [[Elven]] |
+> Language | [[Elvish]] |
 > Founder | [[Elenwe The Farmer]] |
 > Origin |  |
 > Separations |  |

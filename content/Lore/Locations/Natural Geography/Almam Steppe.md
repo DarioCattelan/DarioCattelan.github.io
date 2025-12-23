@@ -1,5 +1,6 @@
 
-The Orken Pass is a region between the [[Dwarves#Dwemer rule and fiefs|Dwarven fiefs]] of [[Scanruil Cruin]] and [[Dall Cruin]]. It is an important trade route, connecting the [[Elven Republic]] in the North to [[Audland]] and the [[The Orlin Communes]] and [[Audland]] in the South. Two cities stand at either end of the pass, [[Hobbsborg]] at the Northern end of the pass, and [[Rasteplads]] at the southern end.
+The almam steppe (or imperial steppe in [[Common]]) is a subtropical steppe to the North-East of [[Kaloshen]], above the [[Orlin Plains]] and to the East of the [[Ardanil Region]].
+
 
 # Dominant Terrain
 

@@ -1,5 +1,5 @@
 
-The Orken Pass is a region between the [[Dwarves#Dwemer rule and fiefs|Dwarven fiefs]] of [[Scanruil Cruin]] and [[Dall Cruin]]. It is an important trade route, connecting the [[Elven Republic]] in the North to [[Audland]] and the [[The Orlin Communes]] and [[Audland]] in the South. Two cities stand at either end of the pass, [[Hobbsborg]] at the Northern end of the pass, and [[Rasteplads]] at the southern end.
+Maolan's (MAYL-awn) Mountains is a mountain chain in the centre of [[Kaloshen]] dividing the [[Ardanil Region]] and the [[Almam Steppe]] from the [[Southern Steppe]] and [[Orlin Plains]]. The region is divided into two [[Dwarves#Dwarven Feudalism|Fiefs]], [[Scanruil Cruin]] and [[Dall Cruin]].
 
 # Dominant Terrain
 
