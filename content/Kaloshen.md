@@ -1,8 +1,9 @@
 
 
 > [!infobox| right wikipedia] Title
-> ###### Kaloshen
-> ![[Kaloshen_final.jpg|hsmall]]
+> ###### Kaloshen, c. 270 EF
+> ![[Map of Kaloshen 270 EF.jpg|hsmall]]
+> [[Political Map of Kaloshen 270 EF.jpg|Link to Political Map]]
 
 
 Kaloshen is the world created and ruled by [[The Fundamentals]] and the setting of this campaign. It is a large continent surrounded by [[The Godwall]], a barrier of divine force which separates it from the underworld.

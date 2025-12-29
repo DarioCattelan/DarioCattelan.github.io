@@ -3,7 +3,11 @@
 Breath is the innate, magical power creatures contain within. Everyone has Breath, though some individuals (such as powerful mages or warriors) have Breath in much greater quantities than others. One's Breath can grow as they develop, and even change Hue.
 
 # Colours & hue
-Breath comes in eight colours, and most people's Breath is a mix with one dominate colour, called a Hue. Each person's Hue is unique, and is innately tied to their [[Breath#True Name|True Name]].
+Breath comes in eight colours, and most people's Breath is a mix with one dominate colour, called a Hue. Each person's Hue is unique, and some folks with an eye for detail can learn another's Hue after carefully observing their Breath over long periods. Mothers innately recognize the Hue of their children.
+
+> [!NOTE] Pathfinder Equivalent
+> A person's unique Hue is equivalent to their True Name for the purposes of spells and features.
+
 
 ## The Eight Colours
 The eight colours of Breath are each associated with a different quality. It was by refining a Breath to a moment of a single, pure Hue that the [[Primeval bloodlines]] were able to derive the eight schools of magic.
@@ -37,9 +41,6 @@ A **hot** temperament is one where Breath streams off of or out of the body in a
 | --------- | --------------------------- | ----------------------------------------- |
 | **Humid** | [[The Breath of Devotion]]  | [[The Breath of Tales]]                   |
 | **Dry**   | [[The Breath of the World]] | Theoretically, [[The Breath of the Mind]] |
-
-# True Name
-A True Name is a kind of external breath ignition which is innately tied to the Hue of a creature. By speaking a True Name, those with training can mimic the Hue of another, creating a magical resonance to the owner. This resonance can leave the owner of the name critically vulnerable to influence and manipulation. As a result, a True Name is an extremely private facet of a person's Breath.
 
 
 #magic #Breath

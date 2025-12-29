@@ -1,7 +1,7 @@
 
 <center><i>Flavour text about the character</i></center>
 
-Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] of the [[Rasul clan]] to retired from being a [[Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem after the vents of [[The Wæl]]. Hevlon suffers from a degenerative mental disease, leaving him unable to remember the distant past.
+Hevlon Rasul is the first member of the [[Elves#The Shah|Shah]] of the [[Rasul clan]] to retire from being a [[Heralds|Herald]] of [[Elenwe The Farmer]] pre-mortem after the events of [[The Wæl]]. Hevlon suffers from a degenerative mental disease. Day by day his memory becomes more fragmented, with periods of childlike naivety that are becoming his norm.
 
 # Character Details
 Status: Alive

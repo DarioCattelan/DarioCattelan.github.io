@@ -1,30 +1,42 @@
+> [!infobox | right wikipedia]
+> #### Maolan's Mountains
+> Common translation | None |
+> ---|---|
+>  map placeholder
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Dominant Terrain | Volcanic Mountains |
+> Size |  |
+> ###### [[Spirits]] and [[Arcana]]
+> Type |  Stat |
+> ---|---|
+> Known Spirits |  |
+> Known Arcana |  |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Claimed by | [[Dwarven Kingdoms]], [[Netham]], [[The Orlin Communes]]|
+> Native people | [[Dwarves]], [[Tallmen]] (extinct) |
+> ###### Society
+> Race |  Population |
+> ---|---|
+> [[Dwarves]] | Tons  |
+> [[Halflings]] | Many |
+> [[Orlins]] | Several |
+> [[Elves]] | A few |
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Valuable resources |  |
 
-Maolan's (MAYL-awn) Mountains is a mountain chain in the centre of [[Kaloshen]] dividing the [[Ardanil Region]] and the [[Almam Steppe]] from the [[Southern Steppe]] and [[Orlin Plains]]. The region is divided into two [[Dwarves#Dwarven Feudalism|Fiefs]], [[Scanruil Cruin]] and [[Dall Cruin]].
 
-# Dominant Terrain
-
-
-
-# Spirits and Magic
-## Magical manifestations
+# Overview
+Maolan's (MAYL-awn) Mountains is a mountain chain in the centre of [[Kaloshen]] dividing the [[Ardalidin Region]] and the [[Almam Steppe]] from the [[Southern Steppe]] and [[Orlin Plains]]. The region is divided into two [[Dwarves#Dwarven Feudalism|Fiefs]], [[Scanruil Cruin]] and [[Dall Cruin]].
 
 
-## Spiritual manifestations
+# History
 
 
-### Spiritual Tensions
--  
--  
-
-# Everyday Life Details
-- Daily ritual:  
-- Folk wisdom that is true:  
-- Mundane task requiring supernatural cooperation:  
-
-# Political Layer
-(kingdom, clan, or race connected to this land)
-
-# Narrative Hook
-(A small emotional imbalance in a spirit subtly disrupts the region.)
 
 #Region #Location 

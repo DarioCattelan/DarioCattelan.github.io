@@ -9,7 +9,7 @@
 > Classification | [[axiomatist]]  reincarnationist|
 > Scripture | [[Nihir Lawall]] |
 > Theology | animist polytheist |
-> Region | [[Ardanil Region]] |
+> Region | [[Ardalidin Region]] |
 > Language | [[Elvish]] |
 > Founder | [[Elenwe The Farmer]] |
 > Origin |  |

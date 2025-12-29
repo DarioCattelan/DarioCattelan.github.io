@@ -8,7 +8,7 @@
 > ---|---|
 > Type | Temperate Coastal |
 > Size | Large |
-> Region | [[Ardanil Region]] |
+> Region | [[Ardalidin Region]] |
 > ###### Politics
 > Type |  Stat |
 > ---|---|
@@ -25,7 +25,7 @@
 > Exports |  |
 > Imports |  |
 
-Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ardanil Region]] overlooking the [[Placeholder ardanil straight]]. Straathûs is within the borders of the [[Elven Republic]], and maintains independence through economic and military force. Straathûs is a potent naval power and collects tariffs for vessels travelling through the [[Placeholder ardanil straight]].
+Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ardalidin Region]] overlooking the [[Placeholder ardanil straight]]. Straathûs is within the borders of the [[Elven Republic]], and maintains independence through economic and military force. Straathûs is a potent naval power and collects tariffs for vessels travelling through the [[Placeholder ardanil straight]].
 # History
 
 

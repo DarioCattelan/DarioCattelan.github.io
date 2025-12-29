@@ -16,7 +16,7 @@ Elves relish long, complex ceremonies and rituals.
 
 ## Homeland
 
-Elves are native to the [[Ardanil Region]] in the northwest of [[Kaloshen]]. A temperate, Mediterranean climate, Elves have had the good fortune of rich soil and mild winters. Over the course of several centuries elves have expanded their territory up and down the western coast of the continent.
+Elves are native to the [[Ardalidin Region]] in the northwest of [[Kaloshen]]. A temperate, Mediterranean climate, Elves have had the good fortune of rich soil and mild winters. Over the course of several centuries elves have expanded their territory up and down the western coast of the continent.
 
 
 ## Traditions & Beliefs

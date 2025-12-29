@@ -1,30 +1,36 @@
+> [!infobox | right wikipedia]
+> #### Jabal Mountains
+> Common translation | Northern Mountains |
+> ---|---|
+>  map placeholder
+> ###### Geography
+> Type |  Stat |
+> ---|---|
+> Dominant Terrain | Glacially Sculpted Mountains  |
+> Size |  |
+> ###### [[Spirits]] and [[Arcana]]
+> Type |  Stat |
+> ---|---|
+> Known Spirits |  |
+> Known Arcana |  |
+> ###### Politics
+> Type |  Stat |
+> ---|---|
+> Claimed by | [[Elven Republic]] |
+> Native people | [[Ice People]] (historical) |
+> ###### Society
+> Race |  Population |
+> ---|---|
+>  [[Elves]] | Several |
+> ###### Commerce
+> Type |  Stat |
+> ---|---|
+> Valuable resources |  |
 
-The Jabal (JJA-bahl) Mountains are a chain of mountains in the North West of [[Kaloshen]], to the North of the [[Ardanil Region]].
 
-# Dominant Terrain
+# Overview
+The Jabal (JJA-bahl) Mountains are a chain of mountains in the North West of [[Kaloshen]], to the North of the [[Ardalidin Region]].
 
-
-
-# Spirits and Magic
-## Magical manifestations
-
-
-## Spiritual manifestations
-
-
-### Spiritual Tensions
--  
--  
-
-# Everyday Life Details
-- Daily ritual:  
-- Folk wisdom that is true:  
-- Mundane task requiring supernatural cooperation:  
-
-# Political Layer
-(kingdom, clan, or race connected to this land)
-
-# Narrative Hook
-(A small emotional imbalance in a spirit subtly disrupts the region.)
+# History
 
 #Region #Location 
