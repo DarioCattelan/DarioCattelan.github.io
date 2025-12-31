@@ -1,5 +1,6 @@
 
 > [!infobox | right wikipedia]
+> #### The Age of the Pillar
 > Type |  Stat |
 > ---|---|
 > From | [[Era of the Five \| ES]] |
@@ -10,9 +11,6 @@
 
 
 # Overview
-
-
-# Description
 
 
 ## Key places

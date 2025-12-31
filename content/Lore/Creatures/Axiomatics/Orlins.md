@@ -20,6 +20,7 @@ The Orlin live in arid steppes and dry deserts too harsh for most other mortals.
 | Values/Virtues                                              | Anti-values/Sins                                                                  |
 | ----------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Family, community, unity, diversity, organization, vocation | Selfishness, private property, forced conformity, inequality, inability to fit in |
+
 The Orlin are strong believers in [[The Ordning]], a "Great Chain of Being" religion where all things on [[Kaloshen]] fall into a hierarchy of divinity.
 
 Ever since [[Mothers' Heresy]], the Orlins have a strong belief that all axiomatic mortals are equal, and any act that seeks to place one individual above another of the same [[The Ordning#Ordning Links|Ordning Link]] is seen as heretical and a sin.

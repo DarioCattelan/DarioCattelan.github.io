@@ -82,6 +82,7 @@ Some of the larger halfling towns were inherited as part of [[The Freewalk Accor
 | Bigleaf     | [[Hoshi Hall]] of the [[Fey Folk]]                            | Bighollow     |
 | Goodchild   | The [[Orlins\|Orlin Communes]]                                | Hereham       |
 | Smallburrow | The [[Elves\|Elven Republic]]                                 | Riverfoot Way |
+
 ### The Free Confederacy
 Halfling government is a agrarian democracy defined by [[The Grand Law of Liberty]], a constitution that is both legal code and spiritual charter. The Free Confederacy functions via a series of council who proposes an accepts laws based on consensus, rather than majority vote. Each town has a Clan Council and a Village Council for domestic and municipal matters, and the nation of [[Netham]] itself has a National Council which meets once a season for foreign policy and inter-village disputes.
 

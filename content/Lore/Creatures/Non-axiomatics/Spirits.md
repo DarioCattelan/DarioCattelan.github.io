@@ -1,31 +1,31 @@
 
-Spirits are corporeal, personified, animist manifestations of divine energy. Spirits are either born from, or collect around, places, objects, natural phenomena, concepts, or animals. Although the mechanisms by which this occur are unknown, it has been observed that the more meaningful the manifestation[^1] to the local sapient creatures, the more likely it is that a spirit will manifest, and with greater power.
+Spirits are personified, animist manifestations of divine energy. Spirits are either born from, or collect around, places, objects, natural phenomena, concepts, or animals. Although the mechanisms by which this occur are unknown, it has been observed that the more meaningful the manifestation[^1] to the local sapient creatures, the more likely it is that a spirit will manifest, and with greater power.
 
-Spirits tend to consider themselves simultaneously "a spirit" as well as literally the manifestation. All Spirits feel a kinship to each other, typically a more sibling oriented connection with spirits of similar manifestation (e.g. Zuhachi with Zuhachi, Leshi with Leshi, etc.) and cousin-like relationship with manifestations of different types.
+Spirits tend to consider themselves simultaneously "a spirit" as well as literally the manifestation. All spirits feel a kinship to one another, typically a more sibling oriented connection with spirits of similar manifestation (e.g. Zuhachi with Zuhachi, Leshi with Leshi, etc.) and cousin-like relationship with manifestations of different types.
 
-Manifested spirits have no physical substance, but possess a will of their own and can influence the corporeal world while obeying esoteric rules and rituals. Powerful spirits can become fully corporeal, allowing them to physically interact with the world with limited rules.
+Manifested spirits have no physical substance, but possess a will of their own and can influence the corporeal world while obeying esoteric rules and rituals. Some spirits can become fully corporeal, allowing them to physically interact with the world within certain esoteric limits.
 
 # Homeland
-Spirits become self aware only once manifested in the corporeal world, and consider the culture, geography, group, or shrine where they first manifested as "home". 
+Spirits become self aware only once manifested in the [[Corporeal World]], and consider the culture, geography, group, or shrine where they first manifested as "home". 
 
 # Traditions & Beliefs
-Spirits are not as invested in the corporeal world as other mortals. They participate in and respond to the spiritual rituals of other cultures, but it is unclear if these rituals were requested or merely adopted by Spirits.
+Spirits are not as invested in the [[corporeal world]] as other mortals. They participate in and respond to the spiritual rituals of other cultures, but it is unclear if these rituals were requested or merely adopted by Spirits.
 
 | Values/Virtues                                                                                                                                           | Anti-values/Sins                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | the values of their manifestation. E.g. a wolf pack Zuhachi may value family and hegemony, whereas a mint plant Leshi may value aggression and territory | Same considerations as values/virtues |
 
 ### Alcohol Binding
-Spirits who have manifested can be permanently corporealized by the drinking of alcohol. Most Spirits are not fully aware of the consequences of consumption when offered alcohol binding, and the practice is frowned upon in many places.
+Some spirits who have manifested can be permanently corporealized by the drinking of alcohol. Most spirits are not fully aware of the consequences of consumption when offered alcohol binding, and the practice is frowned upon in many places.
 
 ### Offerings and deals
-Many Spirits are incapable of breaking their word, and seemingly must follows rules of reciprocity towards those who provide offerings. In contrast, promises broken to a spirit can have devastating magical consequences. Devils are a kind of spirit who purposefully seeks out deals and pacts to make with mortals.
+Many Spirits are incapable of breaking their word, and seemingly must follows rules of reciprocity towards those who provide offerings. In contrast, promises broken to a spirit can have devastating magical consequences. Devils are a subclassification of spirit who purposefully seeks out deals and pacts to make with mortals.
 
 ## Language
 Spirits typically speak [[Common]] and [[Anivara]].
 
 # Organization
-[[Spirits]] do not typically organize into independent societies or cultures, and permanently manifested spirits tend to adopt the society of the nearest sapient race. Spirits are not ruled by, but do show deference and respect towards, more powerfully manifested and widely known spirits. Most spirits treat [[The Fundamentals]] as deities.
+Spirits do not typically organize into independent societies or cultures, and corporealized spirits tend to adopt the society of the nearest sapient race. Spirits are not ruled by, but do show deference and respect towards, more powerfully manifested and widely known spirits. Most spirits treat [[The Fundamentals]] as deities.
 
 # Taxonomy
 The exact taxonomy of spirits is somewhat arbitrary, but spirits can be generally classified in the following types:
@@ -40,13 +40,13 @@ Leshi are manifested spirits of plants or fungi. Like Zuhachi, Leshi can vary wi
 Chiri are manifested spirits of places and locations. Confusingly, Chiri almost always manifest as intelligent [[axiomatic mortals]] of the region. Chiri are more difficult to manifest than Leshi or Zuhachi, often requiring a shrine or temple. Corporealized Chiri are typically quite powerful, and have near omniscient knowledge of that which happens within their manifestation.
 
 ## Kami
-Kami are manifested spirits of concepts and abstract ideas, such as the wind, or Autumn. These kinds of spirits are extremely rare and no record exists of a kami ever corporealizing. Kami are theoretically the most powerful form of spirit, as even during their brief incorporeal manifestations they can exert great magical influence on the world.
+Kami are manifested spirits of concepts and abstract ideas, such as the wind, or Autumn. These kinds of spirits are extremely rare and no record exists of a kami corporealizing since the [[Age of Spirits]]. Kami are the most powerful form of spirit, and even brief incorporeal manifestations can exert great magical influence on the world. Kami are almost always subclassified as Great Spirits.
 
 ## Subclassifications
 
 ### Akumi (Devils)
 
-Akumi (commonly referred to as Devils) are a subclassification of pact-seeking spirits. The exact taxonomy of Devils is somewhat arbitrary but a spirit is generally considered a Devil if it meets the following criteria:
+Akumi (or Devils in [[Common]]) are a subclassification of pact-seeking spirits. The exact taxonomy of Devils is somewhat arbitrary but a spirit is generally considered a Devil if it meets the following criteria:
 
 1. It is pact-seeking
 2. It can manifest at will
@@ -55,11 +55,16 @@ Akumi (commonly referred to as Devils) are a subclassification of pact-seeking s
 
 Most cultures shun Devils and their pacts, with the exception of [[Tankedyr]] in the city states of [[the Kaupangsborg]].
 
+### Chikara (Great Spirits)
+Chikara (or Great Spirits in [[Common]]) are spirits whose manifestation is broad and universally worshipped. These spirits can exert major influence on the world even while incorporeal, and their abilities can rival even [[The Fundamentals]] [^2]. Although Kami are almost always also Great Spirits, Chiri, Zuhachi, and Leshi can also manifest as Chikara.
+
 # Biology
-Spirits can age, and can be harmed to the point of de-corporealization, but are immortal in that they can eventually re-manifest after a period of time (sometimes hundreds of years). While manifested, Spirits share much of the biology of their manifestation. For example, the spirit of a wolf pack would bleed, require food, sleep, and would defecate with the regularity of a wolf, whereas the spirit of a mountain may sleep for decades without aging or needing food.
+Spirits can age, and can be harmed to the point of de-corporealization, but are immortal in that they can eventually re-manifest after a period of time (sometimes hundreds of years). While corporealized, Spirits share much of the biology of their manifestation. For example, the spirit of a wolf pack would bleed, require food, sleep, and would defecate with the regularity of a wolf, whereas the spirit of a mountain may sleep for decades without aging or needing food.
 
 
-
-#NPC  #Spirit 
 
 [^1]: A manifestation is that from which a spirit has manifested.
+
+[^2]: In the [[Soþgast]] religion, the Fundamentals are themselves Chikara Kami.
+
+#NPC  #Spirit 

@@ -1,5 +1,6 @@
 
 > [!infobox | right wikipedia]
+> #### The Age of the First Bloom
 > Type |  Stat |
 > ---|---|
 > From | ~ 2000 [[Era of the Five \| ES]] |
@@ -12,9 +13,6 @@
 # Overview
 
 The Age of the First Bloom is a mythical period before recorded history when [[The Fundamentals]] first created [[Kaloshen]], including the [[axiomatic mortals]]. The geography of Kaloshen was much different than modern times, with a thick layer of glacial ice covering much of the [[Placeholder for boreal north]], and no division between the [[Corporeal World]] and the Underworld. During this age, the gods determine their domains and identities, and the first civilizations emerge.
-
-# Description
-
 
 ## Key places
 

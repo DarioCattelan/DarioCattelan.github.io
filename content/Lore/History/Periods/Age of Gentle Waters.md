@@ -1,5 +1,6 @@
 
 > [!infobox | right wikipedia]
+> #### The Age of Gentle Waters
 > Type |  Stat |
 > ---|---|
 > From | ~1580 [[Era of the Five \| ES]] |
@@ -11,9 +12,6 @@
 
 # Overview
 The Age of Gentle Waters is a mythical period when the glacial ice in the north of [[Kaloshen]] receded, and the [[Maolan's Mountains]] formed. Many civilizations were disrupted by the shifting of landmasses, and the period saw the fall of the [[Ageless Empire]] and the migration of the [[Ice People]] out of their glacial Royalburrows and into the Mountainhomes. Direct involvement from [[The Fundamentals]] averted much disaster and long term suffering during this period. The age is so named after the many streams and lakes which formed as the glaciers melted.
-
-# Description
-
 
 ## Key places
 - [[Maolan's Mountains]]

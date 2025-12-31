@@ -1,6 +1,6 @@
 > [!infobox | right wikipedia]
 > #### Ardalidin Region
-> Common translation | Land of the [[perpetuals]] |
+> Common translation | Land of the [[Perpetuals]] |
 > ---|---|
 >  map placeholder
 > ###### Geography
