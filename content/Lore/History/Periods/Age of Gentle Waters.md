@@ -3,8 +3,8 @@
 > #### The Age of Gentle Waters
 > Type |  Stat |
 > ---|---|
-> From | ~1580 [[Era of the Five \| ES]] |
-> To |  ~1350 [[Era of the Five\|ES]] |
+> From | ~1600 [[Era of the Five \| ES]] |
+> To |  ~1400 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of the Elders]] |
 > Following Period | [[Age of Spirits]] |
 > Alternate Names | The Shifting, the Age of Mountains, the Melting |

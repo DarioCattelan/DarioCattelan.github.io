@@ -5,7 +5,7 @@ The Soþgast (SOOTH-gahst), or simply Soþgast, is the system of believe of the 
 
 This belief system is highly controversial to followers of [[axiomatist]] religions, as it questions [[The Fundamentals]] right to rule, and establishes [[axiomatic mortals]] as the same tier of being as the gods.
 
-Luckily for [[The Fundamentals]] Soþgast is an all but extinct faith, and is highly esoteric in [[Kaloshen]].
+Luckily for [[The Fundamentals]], Soþgast is an all but extinct faith, and is highly esoteric in [[Kaloshen]].
 
 # Core Beliefs
 1. All creatures are one being, any harm done to one is harm done to all
