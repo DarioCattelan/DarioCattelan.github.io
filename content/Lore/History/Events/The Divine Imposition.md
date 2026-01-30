@@ -9,9 +9,7 @@
 
 
 # Overview
-The Divine Imposition is the first battle between [[The Fundamentals]] shortly after their awakening during the [[Age of the First Bloom]]. Becoming aware of the [[Corporeal World]], the gods needed to define themselves in order to materialize creation. Each Fundamental attempted to make themselves as vast as possible, and quickly abutted against one another. These collisions were monumentally destructive and violent, molding both [[Kaloshen]] and the gods themselves. Like steel being struck into shape as it cools, eventually the many impacts of the gods against one another created the forms and domains by which they are still recognized today.
-
-# Description
+The Divine Imposition is a mythical battle between [[The Fundamentals]] during the [[Age of the First Bloom]] shortly after their awakening. Becoming aware of the [[Corporeal World]], the gods needed to define themselves in order to materialize creation. Each Fundamental attempted to make themselves as vast as possible, and quickly abutted against one another. These collisions were monumentally destructive and violent, molding both [[Kaloshen]] and the gods themselves. Like steel being shaped, eventually the many impacts of the gods against one another created the forms and domains by which they are still recognized today.
 
 
 ## Key places

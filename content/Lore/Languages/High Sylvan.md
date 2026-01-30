@@ -1,7 +1,7 @@
 
 | Pathfinder Equivalent | Real World Similarity |
 | --------------------- | --------------------- |
-| Fey                   |                       |
+| Fey                   | French                |
 # Speakers
 High Sylvan is the language spoken by Royalty and Nobility of the [[Fey Folk]] at [[Hoshi Hall]].
 
