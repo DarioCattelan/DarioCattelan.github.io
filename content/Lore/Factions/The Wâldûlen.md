@@ -12,6 +12,7 @@
 > Iconography |  |
 > 
 > ![[Norwald Hierarchy.png\|hsmall]]
+> 
 > [[Norwald Hierarchy.png\|Full Quality Norwâld Hierarchy]]
 
 # Overview
