@@ -10,7 +10,6 @@
 > Leader(s) |  |
 > Prominent Members |  |
 > Iconography |  |
-> ![[Norwald Hierarchy.png|hsmall]]
 
 # Overview
 
