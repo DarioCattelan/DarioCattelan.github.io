@@ -10,8 +10,8 @@
 > Leader(s) | Head Ranger Fenna |
 > Prominent Members | Deputy Head Jeti, Night Ranger Taalke, Night Ranger Kai  |
 > Iconography |  |
-> ![[Norwald Hierarchy.png|hsmall]]
-> [[Norwald Hierarchy.png|Full Quality Norwâld Hierarchy]]
+> ![[Norwald Hierarchy.png\|hsmall]]
+> [[Norwald Hierarchy.png\|Full Quality Norwâld Hierarchy]]
 
 # Overview
 
