@@ -3,13 +3,13 @@
 > ##### Faction
 >  Type | Stat |
 > -|---|
-> Type | Outdoorsmen, scouts, rangers |
+> Type | Outdoorsmen, scouts, rangers, Nightwatch |
 > Military Role | Infantry, Logistics, Reconnaissance, Strategic, Support |
 > Loyalty | [[the Kaupangsborg]], the [[Norwâld]] regions flora, fauna, and [[Spirits]]
 >  Headquarters | [[Norwâld]] |
 > Leader(s) | Head Ranger Fenna |
 > Prominent Members | Deputy Head Jeti, Night Ranger Taalke, Night Ranger Kai  |
-> Iconography |  |
+> Iconography | Bows, Talons, Wings, Feathers  |
 > 
 > ![[Norwald Hierarchy.png\|hsmall]]
 > 
