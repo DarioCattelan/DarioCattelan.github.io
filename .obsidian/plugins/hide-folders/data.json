@@ -1,0 +1,16 @@
+{
+  "areFoldersHidden": true,
+  "matchCaseInsensitive": true,
+  "addHiddenFoldersToObsidianIgnoreList": true,
+  "hideBottomStatusBarIndicatorText": true,
+  "enableCompatQuickExplorer": false,
+  "attachmentFolderNames": [
+    "startsWith::.",
+    "docs",
+    "node_modules",
+    "public",
+    "quartz",
+    "CODE_OF_CONDUCT.md",
+    "README.md"
+  ]
+}
