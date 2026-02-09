@@ -7,13 +7,13 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+>  Type | Stat |
 > -|---|
 >Type | Military |
 >Military Role | Infantry, Logistics, Reconnaissance, Support |
 > Loyalty | [[Straathûs]], [[Norwâld Territory Administration]]|
 > Headquarters | [[Norwâld]] |
-> Leader(s) | [[Lyuk Fenorson]] (former founder, deceased) |
+> Leader(s) | [[Lyuk Fenorson]] (former founder, presumed deceased) |
 > Prominent Members |  |
 > Iconography |  |
 
