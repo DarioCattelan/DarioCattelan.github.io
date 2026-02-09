@@ -9,6 +9,11 @@ tags:
   - Guild
 ---
 
+
+
+# Overview
+
+![[Norwald Hierarchy.png|hsmall]]
 > [!infobox|right wikipedia]
 > ##### Faction
 >  Type | Stat |
@@ -20,10 +25,6 @@ tags:
 > Leader | Territory Warden Wolter |
 > Prominent Members | Jakip, Fenna, Tjark  |
 > Iconography | Trees, Bows, Blades, Bear Pawprint |
-
-# Overview
-
-![[Norwald Hierarchy.png\|hsmall]]
 [[Norwald Hierarchy.png\|Full Quality Norwâld Hierarchy]]
 
 The Norwâld Territory Administration (NTA) is a guild of rangers and scouts who administrate the [[Norwâld |Norwald Reserve]] . The NTA was established in the year (TBD) by [[The Norwâld Contract]] between the [[Elven Republic]] and the Merchant Council of [[Straathûs]] which dictates the rules and regulations by which the guild operates.
@@ -48,7 +49,7 @@ Responsible for safekeeping the storehouse, supplies, coordinating intake and ou
 *See [[The Wâldûlen]]*
 
 ## The Wâldbist 
-*See [[The Waldbist]]
+*See [[The Waldbist]]*
 
 # History
 
