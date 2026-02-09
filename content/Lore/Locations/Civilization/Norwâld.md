@@ -1,3 +1,13 @@
+---
+tags:
+  - Region
+  - Kaupangsborg
+  - Reserve
+  - Location
+aliases:
+  - the Norwâld Reserve
+---
+
 > [!infobox | right wikipedia]
 > #### Norwâld Reserve
 > ![[Norwâld Reserve 265 EF.jpg|hsmall]]
@@ -10,7 +20,7 @@
 > ###### Politics
 > Type |  Stat |
 > ---|---|
-> Govt Type | [[The Wâldûlen]] forest rangers|
+> Govt Type | [[Norwâld Territory Administration]]|
 > Ruler | Territory Warden [[Wolter]] |
 > ###### Commerce
 > Type |  Stat |
@@ -21,6 +31,8 @@
 
 Norwâld, sometimes called the Norwâld Reserve, is a forested area in the [[Ardalidin Region]] that has legal protection from development and poaching. The reserve sits on the edge of the [[Elven Republic]] and the [[Placeholder north desert]]. The eastern edge of Nordwal abuts a contested region of territory between the [[Elves]] and [[Orlins]] and provides the only access to the region from the Weast.
 
-Norwâld maintains a guard force funded by [[the Kaupangsborg]] known as [[The Wâldûlen]] who enforce the protection of the area. [[The Wâldûlen]] collect tariffs from parties crossing through the reserve to help fund their defense of the region, with a yearly tribute going to [[the Kaupangsborg]] city of [[Straathûs]].
+Norwâld maintains a guard force funded by [[the Kaupangsborg]] known as [[Norwâld Territory Administration]] (NTA) who enforce the protection of the area. The NTA collect tariffs from parties crossing through the reserve to help fund their defense of the region, with a yearly tribute going to [[the Kaupangsborg]] city of [[Straathûs]].
 
-#Region #Kaupangsborg #Waldulen #Reserve #Location 
+# Travel
+ Much of Norwald can be accessed by boat from the [[Placeholder ardanil straight]], and the larger waterways remain the most efficient way of travelling around the interior. There exits some walkable trails through the forest which are maintained by the [[Norwâld Territory Administration]].
+

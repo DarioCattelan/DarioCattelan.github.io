@@ -1,11 +1,1 @@
-{
-  "userIgnoreFilters": [
-    "/(^.)|(/.)/",
-    "/[dD][oO][cC][sS]/",
-    "/[nN][oO][dD][eE]_[mM][oO][dD][uU][lL][eE][sS]/",
-    "/[pP][uU][bB][lL][iI][cC]/",
-    "/[qQ][uU][aA][rR][tT][zZ]/",
-    "/[cC][oO][dD][eE]_[oO][fF]_[cC][oO][nN][dD][uU][cC][tT].[mM][dD]/",
-    "/[rR][eE][aA][dD][mM][eE].[mM][dD]/"
-  ]
-}
+{}
