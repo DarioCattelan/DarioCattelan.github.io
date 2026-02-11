@@ -13,7 +13,6 @@ tags:
 > Headquarters | [[Elven Republic]] |
 > Leader(s) | [[Hasada Qesan Rasul]] |
 > Iconography | A mobius strip |
-> 
 > Current Members
 > ---
 Member                    | Herald Of |
