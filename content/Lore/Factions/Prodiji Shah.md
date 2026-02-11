@@ -14,16 +14,16 @@ tags:
 > Leader(s) | [[Hasada Qesan Rasul]] |
 > Iconography | A mobius strip |
 > ##### Current Members
-Member                    | Herald Of |
- ------------------------- | --------- |
-[[Hevlon Ibara Rasul]]    | Disaster  |
-[[Hasada Qesan Rasul]]    | Harvest   |
- [[Yoharneth Lahai Rasul]] | Heroes    |
-[[Ashiel Rasul]]          | Moon      |
-[[Reith Habass Rasul]]    | Tides     |
-[[Ithum Amarus Rasul]]    | Politics  |
-[[Aramia Miska Rasul]]    | Spring    |
-[[Velash Bedora Rasul]]   | Fashion   |
+> Member                    | Herald Of |
+> ------------------------- | --------- |
+> [[Hevlon Ibara Rasul]]    | Disaster  |
+> [[Hasada Qesan Rasul]]    | Harvest   |
+> [[Yoharneth Lahai Rasul]] | Heroes    |
+> [[Ashiel Rasul]]          | Moon      |
+> [[Reith Habass Rasul]]    | Tides     |
+> [[Ithum Amarus Rasul]]    | Politics  |
+> [[Aramia Miska Rasul]]    | Spring    |
+> [[Velash Bedora Rasul]]   | Fashion   |
 
 
 # Overview
