@@ -1,8 +1,6 @@
----
-tags:
-  - City
-  - Location
----
+
+
+
 > [!infobox | right wikipedia]
 > #### City Name
 > map placeholder
@@ -28,7 +26,6 @@ tags:
 > Exports |  |
 > Imports |  |
 
-# Overview
 # History
 
 
@@ -86,3 +83,5 @@ tags:
 | ---|---|
 |Exports |  |
 |Imports |  |
+
+#City #Location 

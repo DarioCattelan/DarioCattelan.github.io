@@ -6,7 +6,7 @@ The Fundamentals are the corporeal Gods of Kaloshen. Each Fundamental created on
 | Fundamental                | Axiomatics   | Heralds                                                             |
 | -------------------------- | ------------ | ------------------------------------------------------------------- |
 | [[Dwemeran The Collector]] | [[Dwarves]]  | [[The Gadian Ri]]                                                   |
-| [[Elenwe The Farmer]]      | [[Elves]]    | [[Rasul clan]]                                                      |
+| [[Elenwe The Farmer]]      | [[Elves]]    | [[Clan Rasul]]                                                      |
 | [[Graedor The Merchant]]   | [[Tankedyr]] | [[Tankedyr#Heralds \| Randomly occuring prophets and philosophers]] |
 | [[Orthal The Mother]]      | [[Orlins]]   | [[Orlins#Heralds \| Three Heralds of the Orlin]]                    |
 | [[The Nomad]]              | [[Humans]]   | None, once [[The Blasphemer]]                                       |

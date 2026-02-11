@@ -1,7 +1,7 @@
 
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+> Type | Stat |
 > -|---|
 >Type | Military |
 >Military Role | Air, Armor, Artillery, Cavalry, Infantry, Logistics, Naval, Other, Reconnaissance, Space, Strategic, Support |

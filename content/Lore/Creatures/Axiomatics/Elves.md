@@ -56,7 +56,7 @@ The Majilis (ma-GEE-leess) is a republican senate lead by [[Elenwe The Farmer]] 
 The High Tari (tah-REE) serves as the speaker of the Majilis, head of state, and high consul. It is only ever filled by [[Elenwe The Farmer]]. The station carries power of veto, can assign and revoke time on the floor, and enforces decorum in the Majilis.
 
 #### Projidi
-The Projidi (pro-GEE-dee) are the eldest members of the [[Rasul clan]] and serve as [[Heralds]] of [[Elenwe The Farmer]]. The Projidi hold 65 or the 128 seats of the Majilis, giving them a majority on any vote, and requiring at least one Projidi to support any law being passed. The members of the Projidi are often divided on the political spectrum, and Projidi votes are hard to predict.
+The Projidi (pro-GEE-dee) are the eldest members of [[Clan Rasul]] and serve as [[Heralds]] of [[Elenwe The Farmer]]. The Projidi hold 65 or the 128 seats of the Majilis, giving them a majority on any vote, and requiring at least one Projidi to support any law being passed. The members of the Projidi are often divided on the political spectrum, and Projidi votes are hard to predict.
 
 #### Jidi
 The Jidi (GEE-dee) are elected from elves who are at least great-great grandparents and members of land owning elvish clans. The Jidi hold 40 of the 128 seats of the Majilis, a large minority, and are an important political force for any action that requires bi-partisan involvement. The Jidi are traditionally socially conservative.
@@ -68,10 +68,10 @@ The Alwadi (al-WAH-dee) are elected from elves who are at least grandparents and
 The Arwah (AHR-wha) are two [[Spirits|spirits]] who volunteer to be in the Majilis. They hold two seats, the Seat of Flora and the Seat of Fauna. The Arwah hold far too few seats to pass any legislation, but each seat has a seasonal power of veto. Members of the Arwah are flaky by nature, and representatives do not always sit all season (though the Seat of Flora is much more likely to sit encumbered for a whole season). The Arwah voting patterns are mercurial and unpredictable, and other parties make great effort to secure the Arwah veto each season.
 
 ### Heralds
-In theory, the elves have 65 [[Heralds]], naming every member of the [[Elves#Projidi|Projidi political party]] a Herald (in fact, the Elvish word for Herald is Projidi). In practice, only the most senior members of the [[Rasul clan]] have active divine duties and powers. These heads are called the Projidi Shah (pro-GEE-dee SHAH), Elder Herald in the Common Tongue, or simply the Shah.
+In theory, the elves have 65 [[Heralds]], naming every member of the [[Elves#Projidi|Projidi political party]] a Herald (in fact, the Elvish word for Herald is Projidi). In practice, only the most senior members of [[Clan Rasul]] have active divine duties and powers. These heads are called the Projidi Shah (pro-GEE-dee SHAH), Elder Herald in the Common Tongue, or simply the Shah.
 
 #### The Shah
-Eight members of the [[Rasul clan]] make up the Prodiji Shah. Historically, these have most often been the eldest members of the clan, but approximately 200 years ago [[Hevlon Rasul]] chose to retire from the Prodiji, and ever since it has been acceptable for any member of the [[Rasul clan]] to be made a Shah. The Shah have important magical and mundane functions. As members of the [[Elves#Projidi|Prodiji]] they are responsible for a large political force within the [[Elves#The Majilis|Majilis]] .
+Eight members of [[Clan Rasul]] make up the [[Prodiji Shah]]. Historically, these have most often been the eldest members of the clan, but approximately 200 years ago [[Hevlon Ibara Rasul]] chose to retire from the Prodiji, and ever since it has been acceptable for any member of [[Clan Rasul]] to be made a Shah. The Shah have important magical and mundane functions. As members of the [[Elves#Projidi|Prodiji]] they are responsible for a large political force within the [[Elves#The Majilis|Majilis]] .
 
 In the greater world of [[Kaloshen]], the Shah have a magical responsibility to maintain the natural cycles of the world, and ensure that Time continues to flow properly. The exact means by which this is done is unclear, but it is taught in the [[Nihir Lawall]] that the Shah usher in the four winds and the four seasons, ensure the tides kiss the top of the coast each day, and convince the sun to return each spring.
 
