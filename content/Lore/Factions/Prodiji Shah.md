@@ -12,7 +12,7 @@ tags:
 > Fundamental | [[Elenwe The Farmer]] |
 > Headquarters | [[Elven Republic]] |
 > Leader(s) | [[Hasada Qesan Rasul]] |
-> Iconography |  |
+> Iconography | A mobius strip |
 > 
 > Current Members
 > ---
