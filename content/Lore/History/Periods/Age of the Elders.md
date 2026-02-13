@@ -1,10 +1,21 @@
+---
+aliases:
+  - Age of Elves
+  - Cirrealan Age
+  - Ice Age
+tags:
+  - Age_of_Elders
+  - Period
+  - History
+  - Unreliable
+---
 
 > [!infobox | right wikipedia]
 > #### The Age of the Elders
 > Type |  Stat |
 > ---|---|
-> From | ~ 1800 [[Era of the Five \| ES]] |
-> To |  ~ 1600 [[Era of the Five\|ES]] |
+> From | ~ 1700 [[Era of the Five \| ES]] |
+> To |  ~ 1400 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of the First Bloom]] |
 > Following Period | [[Age of Gentle Waters]] |
 > Alternate Names | Age of Elves, Cirrealan Age, Ice Age |
@@ -29,6 +40,3 @@ By the end of the Age of Elders, the other [[The Fundamentals|Fundamentals]] con
 
 - The [[Founding of Cirreal]]: [[Ciran and Relor]] find the [[Alumonium Plowshare]] and found the city of [[Cirreal]]
 -  The [[Edict of Anestrus]]: The biology of [[Elves]] changes, restricting reproduction to once every 128 years
-
-
-#History #Period #Unreliable

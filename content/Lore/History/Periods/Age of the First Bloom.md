@@ -1,14 +1,23 @@
-
+---
+aliases:
+  - The Blooming Age
+  - Age of the Beginning
+  - Age of Creation
+tags:
+  - Age_of_Bloom
+  - History
+  - Unreliable
+  - Period
+---
 > [!infobox | right wikipedia]
 > #### The Age of the First Bloom
 > Type |  Stat |
 > ---|---|
 > From | ~ 2000 [[Era of the Five \| ES]] |
-> To |  ~ 1800 [[Era of the Five\|ES]] |
+> To |  ~ 1700 [[Era of the Five\|ES]] |
 > Preceding Period | None |
 > Following Period | [[Age of the Elders]] |
-> Alternate Names | The Blooming Age, Age of the Beginning, Age of Creation, Ice Age |
-
+> Alternate Names | The Blooming Age, Age of the Beginning, Age of Creation |
 
 # Overview
 
@@ -31,6 +40,3 @@ The Age of the First Bloom is a mythical period before recorded history when [[T
 - [[The Fundamentals]] come to consciousness
 - [[The Divine Imposition]]: the gods battle to define their domains, shaping [[Kaloshen]] in their efforts
 - [[The Thanatic Ward]]: the gods create [[The Godwall]], creating the long journey from life to death
-
-
-#History #Period #Unreliable

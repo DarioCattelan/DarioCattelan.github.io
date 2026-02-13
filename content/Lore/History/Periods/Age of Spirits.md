@@ -1,11 +1,18 @@
+---
+tags:
+  - Age_of_Spirits
+  - Period
+  - Unreliable
+  - History
+---
 
 
 > [!infobox | right wikipedia]
 > #### The Age of Spirirts
 > Type |  Stat |
 > ---|---|
-> From | ~1400 [[Era of the Five \| ES]] |
-> To | ~1000 [[Era of the Five\|ES]] |
+> From | ~1200 [[Era of the Five \| ES]] |
+> To | ~800 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of Gentle Waters]] |
 > Following Period | [[Age of Witches]] |
 > Alternate Names | None |
@@ -40,6 +47,3 @@ The Age of Spirits is a mythical period when [[the Warrens]] opened for the firs
 - [[The Record Aeternum]]: [[Lamaenel Alianquil]] writes the progenitor of the [[Nihir Lawall]] and convinces [[Elenwe The Farmer]] to incorporate cyclical time into her domain
 - [[The Victoria Viae]]: [[The Nomad]]'s Herald [[Eadgift Wicca]] defeats [[Sonokar Chiri]] and wins the struggle for [[the Warrens]], the Nomad incorporates journeys and roads into his domain.
 - [[The Pactum Silvae]]: [[Titania The Muse]] founds [[Hoshi Hall]] in [[the Warrens]], making a pact with [[The Nomad]] that he shall never touch the city.
-
-
-#History #Period #Unreliable #Age_of_Spirits 

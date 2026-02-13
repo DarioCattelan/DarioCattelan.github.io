@@ -1,3 +1,9 @@
+---
+tags:
+  - History
+  - Event
+  - Unreliable
+---
 
 > [!infobox | right wikipedia]
 > #### Event Details
@@ -13,7 +19,3 @@
 
 
 # Outcomes and Impacts
-
-
-
-#History #Event #Unreliable

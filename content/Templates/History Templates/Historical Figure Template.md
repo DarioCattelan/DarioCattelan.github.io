@@ -4,7 +4,6 @@ tags:
   - History
   - Unreliable
 ---
-
 > [!infobox | right wikipedia]
 > #### Names
 > Language | Name |
@@ -23,10 +22,11 @@ tags:
 
 # Overview
 
-# Early Life
+# Biography
+## Early Life
 
-# Adulthood
+## Adulthood
 
-# Later Life
+## Later Life
 
-# Death
+## Death

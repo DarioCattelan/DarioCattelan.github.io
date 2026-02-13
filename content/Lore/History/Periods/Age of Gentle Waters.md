@@ -1,10 +1,21 @@
+---
+tags:
+  - Age_of_Gentle_Waters
+  - Period
+  - History
+  - Unreliable
+aliases:
+  - The Shifting
+  - Age of Mountains
+  - The Melting
+---
 
 > [!infobox | right wikipedia]
 > #### The Age of Gentle Waters
 > Type |  Stat |
 > ---|---|
-> From | ~1600 [[Era of the Five \| ES]] |
-> To |  ~1400 [[Era of the Five\|ES]] |
+> From | ~1400 [[Era of the Five \| ES]] |
+> To |  ~1200 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of the Elders]] |
 > Following Period | [[Age of Spirits]] |
 > Alternate Names | The Shifting, the Age of Mountains, the Melting |

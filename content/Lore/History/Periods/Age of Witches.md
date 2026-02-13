@@ -1,12 +1,19 @@
+---
+tags:
+  - Age_of_Witches
+  - History
+  - Unreliable
+  - Period
+---
 
 > [!infobox | right wikipedia]
 > #### Period Name
 > Type |  Stat |
 > ---|---|
-> From | ~1000 [[Era of the Five \| ES]] |
-> To |  ~800 [[Era of the Five\|ES]] |
+> From | ~800 [[Era of the Five \| ES]] |
+> To |  ~500 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of Spirits]] |
-> Following Period | [[Age of the Pillar]] |
+> Following Period | [[Age of Orlin]]|
 > Alternate Names | None |
 
 
@@ -29,6 +36,3 @@ The Age of Witches was a legendary period when [[axiomatic mortals]] discovered 
 # Key Events
 - [[The Saltatio Mellis]]: [[Orisin]] invents the practice of bee keeping
 - [[The Ritus Ieiunii]]: [[Shrall the Drunk]] invents the arts of distilling
-
-
-#History #Period #Unreliable

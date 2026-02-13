@@ -1,13 +1,22 @@
+---
+aliases:
+  - The Pillar of Arcana
+tags:
+  - Age_of_Pillar
+  - History
+  - Unreliable
+  - Period
+---
 
 > [!infobox | right wikipedia]
 > #### The Age of the Pillar
 > Type |  Stat |
 > ---|---|
-> From | [[Era of the Five \| ES]] |
-> To |   [[Era of the Five\|ES]] |
-> Preceding Period |  |
-> Following Period | |
-> Alternate Names | |
+> From | ~230 [[Era of the Five \| ES]] |
+> To |  1 [[Era of the Five\|EF]] |
+> Preceding Period | [[Age of Orlin]] |
+> Following Period | [[Age of the Five]] |
+> Alternate Names | The Pillar of Arcana |
 
 
 # Overview
@@ -23,7 +32,3 @@
 
 
 # Key Events
-
-
-
-#History #Period #Unreliable
