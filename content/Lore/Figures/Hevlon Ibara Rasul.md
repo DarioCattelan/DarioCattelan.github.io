@@ -24,7 +24,7 @@ aliases:
 > Status | Alive (infirm)|
 > Born | 754 [[Era of the Five \| ES]] [[Age of Witches]] (1024 years old) |
 > Gender | Man |
-> Relatives | [[Clan Rasul]], [[Hasada Qesan Rasul]] (great grandniece), [[Yoharna Lahai Rasul]] (niece) |
+> Relatives | [[Clan Rasul]], [[Tauret Djoser Rasul]] (mother), [[Yoharna Lahai Rasul]] (niece), [[Hasada Qesan Rasul]] (great grandniece) |
 > Occupation | [[Prodiji Shah]] (Herald of Disaster, retired)|
 
 # Overview
@@ -50,4 +50,4 @@ Following the appointment of [[Clan Rasul]] as [[Heralds]] of [[Elenwe The Farme
 Although the events of [[The Wæl]] are still a mystery, many mortals recall Hevlon as being present during several cataclysmic events. Soon after the Wael, Hevlon shocked the [[Elves#The Majilis|Majilis]] by announcing his retirement from the ranks of the [[Prodiji Shah]]. Despite his retirement from active heraldic duties, [[Elenwe The Farmer]] has not named a Herald in his place, and he is still counted amongst the eight [[Prodiji Shah]].
 
 ### Sariga Syndrome
-A few years after his departure from the Shah Hevlon began exhibiting sign of [[Sariqa Syndrome]], a degenerative mental curse that slowly erodes ones memory, eventually leaving the afflicted in a childlike state. Though it would be another century before the curse would leave him infirm, Hevlon retreated from the [[Placeholder for Elven Capital]] to his estate in [[Nujum Allam]]. 
+A few years after his departure from the Shah Hevlon began exhibiting sign of [[Sariqa Syndrome]], a degenerative mental curse that slowly erodes ones memory, eventually leaving the afflicted in a childlike state. Though it would be another century before the curse would leave him infirm, Hevlon retreated from the [[Henil-nesut]] to his estate in [[Neju-allam]]. 

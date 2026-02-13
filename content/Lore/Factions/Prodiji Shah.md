@@ -38,3 +38,4 @@ The Shah have a magical responsibility to maintain the natural cycles of the wor
 Placeholder
 
 # History
+The Shah was founded by [[Tauret Djoser Rasul]] during the [[Age of Witches]].

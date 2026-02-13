@@ -16,9 +16,8 @@ tags:
 > Following Period | [[Age of the Pillar]]|
 > Alternate Names | |
 
-
 # Overview
-
+The Age of Orlin is a legendary period when [[Orthal The Mother]] demanded the unity of [[Orlins|The Three-fold People]] prompting the creation of the [[Bauyokhan Empire]]. Unified for the first time, the [[Orlins|Orlin]] allied themselves with the [[Humans]] of [[Old Netham]] and conquered much of the [[Ardalidin Region]] and the [[Southern Steppe]], ruling the region until their gradual decline in the early [[Age of the Pillar]].
 
 ## Key places
 
@@ -31,3 +30,4 @@ tags:
 
 
 # Key Events
+- [[Orlins]] and [[Tallmen]] invade the elven capital of [[Bubasta]]

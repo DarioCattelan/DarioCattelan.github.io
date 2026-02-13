@@ -1,3 +1,12 @@
+---
+aliases:
+  - The Three-fold People
+  - Orlin
+tags:
+  - ancestry
+  - Orlin
+  - axiomatic
+---
 
 
 <center><i> The Three-fold People who's communal bonds define their lives</i></center>
@@ -86,6 +95,3 @@ Halflings are very hospital to Orlin for their liberation, but still hold the ge
 
 
 [^1]: This could mean he had direct contact with the Mother, indirect contact through a vision or dream, or had a personal spiritual revelation (brought on by the Mother by unknowable means)
-
-
-#ancestry #Orlin #axiomatic

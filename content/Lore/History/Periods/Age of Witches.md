@@ -36,3 +36,4 @@ The Age of Witches was a legendary period when [[axiomatic mortals]] discovered 
 # Key Events
 - [[The Saltatio Mellis]]: [[Orisin]] invents the practice of bee keeping
 - [[The Ritus Ieiunii]]: [[Shrall the Drunk]] invents the arts of distilling
+- [[Tauret Djoser Rasul]] founds the Eleven [[Elves#The Majilis|Majilis]] and starts the bloodline of [[Clan Rasul]]

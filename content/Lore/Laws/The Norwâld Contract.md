@@ -5,8 +5,8 @@ aliases:
 tags:
   - Law
   - Kaupangsborg
-  - Elves
   - Tankedyr
+  - Elf
 ---
 The Nordwald Contract is an legal agreement between the [[Elven Republic]] and the [[the Kaupangsborg]] city state of [[Straathûs]] on the taxation and administration of the forest region of [[Norwâld]]. The contract is the establishing charter of the [[Norwâld Territory Administration]].
 
