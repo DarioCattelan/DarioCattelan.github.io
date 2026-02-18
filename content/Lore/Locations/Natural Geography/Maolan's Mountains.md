@@ -16,7 +16,7 @@
 > ###### Politics
 > Type |  Stat |
 > ---|---|
-> Claimed by | [[Dwarven Kingdoms]], [[Netham]], [[The Orlin Communes]]|
+> Claimed by | [[Dwarven Fiefs]], [[Netham]], [[The Orlin Communes]]|
 > Native people | [[Dwarves]], [[Tallmen]] (extinct) |
 > ###### Society
 > Race |  Population |

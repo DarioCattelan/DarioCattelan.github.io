@@ -32,7 +32,7 @@ tags:
 > Imports |  |
 
 # Overview
-Neju-allam is the easternmost city in the [[Elven Republic]] located in the [[Jabal Mountains]] on the edge of the [[Almam Steppe]]. It is accessible by boat due to a series of impressive canals and locks, which serve to transport goods to and from the city.
+Neju-allam is the easternmost city in the [[Elven Republic]] located in the [[Oddyn Mountains]] on the edge of the [[Almam Steppe]]. It is accessible by boat due to a series of impressive canals and locks, which serve to transport goods to and from the city.
 
 Neju-allam is the primary source for [[Rune Stone]] in the North. Its surrounding territory is often the site of border skirmishes between [[Elven Republic]] and tribes of [[The Orlin Communes]].
 # History

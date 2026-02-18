@@ -57,14 +57,15 @@ Orlins speak, read, and write [[Orlish]].
 ## Organization
 Orlin leadership is complex and administrative, with no formal state executives, and three [[Heralds]] serving as religious and cultural leaders. Orlin live in a communist socio-economic system, with administrative roles appointed by rotating lottery lead by committee. All land is community owned, and private wealth can be seized and redistributed at any time by one committee or another.
 
+### Orlin Tribes
+The Orlin are culturally divided into two groups, the nomadic [[The Olon|Olon]] and the sedentary [[The Suutin|Suutin]]. During the [[Age of Orlin]], these groups were politically unified for the first time in the [[Bauyokhan Empire]], lead by the Suutin, but ultimately remained culturally distinct, with political power sitting in the large cities of the Suutin. It is only since [[Mothers' Heresy]] some 70 years ago that the Olon and then Suutin have truly began to integrate, with Olon tribal members are gaining previously unheard-of political power with the Suutin as they are randomly selected for communal government committees.
+
 ### The Mothers leadership
-Orlins Fundamental, [[Orthal The Mother]], is nominally the only permanent member of every Orlin committee. In practice, Orthal is constantly travelling with her three [[Heralds]] to other nations on diplomatic missions to foster world peace and unity. Rarely does Orlin leadership know the current location of the Mother or her Heralds, and it is not unheard of for years to have gone by with no contact.
+The Orlin's Fundamental, [[Orthal The Mother]], is nominally the only permanent member of every Orlin committee, and head of all tribes. In practice, Orthal is constantly travelling with her three [[Heralds]] to other nations on diplomatic missions to foster world peace and unity. Rarely does Orlin leadership know the current location of the Mother or her Heralds, and it is not unheard of for years to have gone by with no contact.
 
 ### Heralds
 Orlins have three [[Heralds]] who's membership is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
 In theory, the Heralds' serve solely as advisors and spiritual leaders, providing guidance on religious matters and bridging the will of the Mother and the Orlin. In practice, the Heralds serve as ultimate oversight on the practices of the many governing committees of the Orlin, and have been known to intervene when committee members stretch their authority too far. Such instances have lead to quick and zealous action.
-
-
 
 # Biology
 Orlin typically live 70-80 years, and mature faster than humans reaching adulthood in their middle teens. Orlin have several insect-like features that invites allusion to termites or beetles. 
@@ -86,7 +87,7 @@ In date [[Grastus the Free]] was appointed Herald of the Mother, replacing his s
 
 
 ## Mothers' Heresy
-The Orlin, under the urging of the Mother Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, returning most of the ancestral lands of the Haflings.
+The Orlin, under the urging of the Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, returning most of the ancestral lands of the Haflings.
 
 ## The Relationships
 Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several generations ago for the Orlin but still fresh in the minds of the long lived races.

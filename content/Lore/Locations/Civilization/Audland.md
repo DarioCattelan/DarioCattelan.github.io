@@ -1,4 +1,11 @@
-
+---
+tags:
+  - Civilization
+  - Region
+  - Location
+  - Kaupangsborg
+  - Tankedyr
+---
 Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is located. It sits in the south of the continent, in a verdant and humid tropical bay.
 
 # Dominant Terrain
@@ -26,5 +33,3 @@ Auland is the ancestral homeland of the [[Tankedyr]] where [[Goadheimr]] is loca
 
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
-
-#Region #Kaupangsborg #Nation #Location 

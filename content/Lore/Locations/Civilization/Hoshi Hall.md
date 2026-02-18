@@ -1,3 +1,11 @@
+---
+tags:
+  - Civilization
+  - Culture
+  - Location
+  - City
+  - Fey
+---
 
 
 Hoshi Hall is the name of the realm of the [[Fey Folk]] ruled by [[Titania The Muse]]. It sits in the heart of every forest.
@@ -27,5 +35,3 @@ The Backwoods is a mysterious natural landscape that is connected to Hoshi Hall,
 
 # Narrative Hook
 (A small emotional imbalance in a spirit subtly disrupts the region.)
-
-#Region #Fey #City #Nation #Location 

@@ -1,3 +1,9 @@
+---
+tags:
+  - Location
+  - Region
+---
+
 > [!infobox | right wikipedia]
 > #### Region Name
 > Common translation | placeholder |
@@ -32,5 +38,3 @@
 
 
 # History
-
-#Region #Location 
