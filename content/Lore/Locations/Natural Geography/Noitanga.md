@@ -23,7 +23,7 @@ tags:
 > Type |  Stat |
 > ---|---|
 > Claimed by | [[The Orlin Communes]] |
-> Native people | [[The Olon\|Zagashi Olon Tribe]] |
+> Native people | [[The Olon\|Zagashi Olon Tribe]], [[The Suutin\|Zogii Suutin Tribe]] |
 > ###### Society
 > Race |  Population |
 > ---|---|
@@ -35,6 +35,6 @@ tags:
 
 
 # Overview
-Noitanga is a region in the northeast of the [[Orlin Plains]] wear the coastal moisture turns the subtropical steppe into savannah, forests, and wetlands. It is the ancestral land of the Zagashi [[The Olon|Olon]] tribe.
+Noitanga is a region in the northeast of the [[Orlin Plains]] where the coastal moisture turns the subtropical steppe into savannah, forests, and wetlands. It is the ancestral land of the Zagashi [[The Olon|Olon]] tribe and the Zogii [[The Suutin|Suutin tribe]].
 
 # History
