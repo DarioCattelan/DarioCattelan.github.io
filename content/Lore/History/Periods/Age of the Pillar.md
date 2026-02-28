@@ -16,6 +16,7 @@ tags:
 > To |  1 [[Era of the Five\|EF]] |
 > Preceding Period | [[Age of Orlin]] |
 > Following Period | [[Age of the Five]] |
+> Concurrent Period | [[Age of Art]] |
 > Alternate Names | The Pillar of Arcana |
 
 

@@ -21,6 +21,6 @@ The Saltatio Mellis, or the Quest for the Golden Comb as it is better known in [
 
 # Outcomes and Impacts
 - The [[Fey Folk]] of Hoshi Hall have a long tradition of bee keeping, and use honey in all manner of magical arts
-- Ancient [[Alchemy]] is discovered, using honey as a medium for potions and mutagens
+- [[Alchemy#Ancient Alchemy|Ancient Alchemy]] is discovered, using honey as a medium for potions and mutagens
 
 

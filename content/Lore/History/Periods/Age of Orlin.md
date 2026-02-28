@@ -14,6 +14,7 @@ tags:
 > To |  ~230 [[Era of the Five\|ES]] |
 > Preceding Period | [[Age of Witches]] |
 > Following Period | [[Age of the Pillar]]|
+> Concurrent Period | [[Age of Art]]|
 > Alternate Names | |
 
 # Overview
@@ -31,3 +32,4 @@ The Age of Orlin is a legendary period when [[Orthal The Mother]] demanded the u
 
 # Key Events
 - [[Orlins]] and [[Tallmen]] invade the elven capital of [[Bubasta]]
+- [[Orisin]] and [[Jobachi]] die protecting [[placeholder for famous statue orisin defended]]

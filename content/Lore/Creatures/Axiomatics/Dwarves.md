@@ -63,7 +63,7 @@ The Dwarves have a single Herald: [[The Gadian Ri]]. The Gadian Ri is both title
 Being the Herald to the god of hoarding and preservation, the Gadian Ri has a divine mandate to add new and fascinating items to [[Dwemeran The Collector]]'s grand treasury deep in the depths of the earth. Not even [[The Fundamentals]] can shift the stubbornness of Dwarves, however, and it has become an accepted tradition for dwarven Dwemers to refuse their finest items as tithe. When such irresistible treasures are not given willingly to [[The Gadian Ri]], they are taken by larceny, stealth, and skullduggery. It is widely accepted in both myth, religion, and common knowledge that [[The Gadian Ri]] is [[Kaloshen]]'s greatest thief.
 
 # Biology
-Dwarves live long lives deep underground, surviving 320-350 years. Dwarves are shorter than Elves and Orcs, but taller than Haflings and Gnomes, standing typically around 120 - 150 cm. They are stout and muscled, weighing 180-340 lbs when healthy.
+Dwarves live long lives deep underground, surviving 320-350 years. Dwarves are shorter than Elves and Orcs, but taller than Halflings and Goblins, standing typically around 120 - 150 cm. They are stout and muscled, weighing 180-340 lbs when healthy.
 
 ## Hoard admiration
 Dwarves have a biological imperative to desire, admire, and respect a fine collection of items and lore. It is typical for dwarves to learn the value of another dwarf's hoard should they become acquaintances, and shift their social dynamic to reflect a hegemony, with the more valuable hoard owner being on top.

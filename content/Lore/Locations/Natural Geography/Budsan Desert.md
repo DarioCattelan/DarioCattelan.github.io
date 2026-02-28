@@ -23,7 +23,7 @@ tags:
 > Type |  Stat |
 > ---|---|
 > Claimed by | [[The Orlin Communes]], [[Elven Republic]]|
-> Native people | [[The Olon\|Zerlogog Tribe]] |
+> Native people | [[The Olon\|Zerlogog Tribe]], [[Budsani Halflings]] (extinct) |
 > ###### Society
 > Race |  Population |
 > ---|---|
@@ -31,7 +31,7 @@ tags:
 > ###### Commerce
 > Type |  Stat |
 > ---|---|
-> Valuable resources | Fine coloured sand used for dyes and pigments |
+> Valuable resources | [[Candescent Sand]] |
 
 
 # Overview

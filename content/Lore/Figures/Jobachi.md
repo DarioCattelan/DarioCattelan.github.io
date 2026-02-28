@@ -32,7 +32,7 @@ aliases:
 
 
 # Overview
-Chikara Jobachi Zuhachi, or simply Jobachi, was a legendary Great Spirit of Bees who served as the familiar of the witch [[Orisin]]. Her partnership with Orisin led to the discovery of honey as an essential ingredient of [[Alchemy]], and is considered the mother of ancient alchemy. She was demanifested in [[Rasteplads]] during the [[Age of Art]] following the death of [[Orisin]].
+Chikara Jobachi Zuhachi, or simply Jobachi, was a legendary Great Spirit of Bees who served as the familiar of the witch [[Orisin]]. Her partnership with Orisin led to the discovery of honey as an essential ingredient of [[Alchemy#Ancient Alchemy|Ancient Alchemy]], and is considered the mother of ancient alchemy. She was demanifested in [[Rasteplads]] during the [[Age of Art]] following the death of [[Orisin]].
 
 # Time at Hoshi Hall
 Jobachi served as a widely respected [[Fey Folk#Sylvans|Sylvan]] at [[Hoshi Hall]] for many years following her binding with Orisin. It was during this time that she and Orisin discovered honey's abilities to store consumable [[Arcana]], inventing the first alchemical potions.
