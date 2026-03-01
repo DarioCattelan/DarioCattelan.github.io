@@ -21,7 +21,7 @@ There came a time after the [[Founding of Cirreal]] where [[Elves]] lived long a
 
 Many banners were dyed in blood and fields were trampled under the press of armies as the mortals fought over the land.
 
-Seeing so many [[Dwarves]] lost behind [[the Godwall]], [[Dwemeran The Collector]] demanded a remedy to the situation, lest his children be wiped out by the Elven hordes. The gods met in confluence to decide how harmony may be returned to the land. There followed a great negotiation, and by the end, each god provided a piece of their [[Breath]] to [[Elenwe The Farmer]] to resolve the matter.
+Seeing so many [[Dwarves]] lost behind [[The Godwall]], [[Dwemeran The Collector]] demanded a remedy to the situation, lest his children be wiped out by the Elven hordes. The gods met in confluence to decide how harmony may be returned to the land. There followed a great negotiation, and by the end, each god provided a piece of their [[Breath]] to [[Elenwe The Farmer]] to resolve the matter.
 
 [[Dwemeran The Collector|Dwemeran]] gave a [[Unfailing Rod|divine fishing rod]], so long that it could reach over [[The Godwall]], its hook so sharp it could snag a soul. With it, he implored, the soul of every elf could be caught, and returned when an elf child is born, so that no new elves be made.
 

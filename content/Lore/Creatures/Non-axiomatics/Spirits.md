@@ -9,7 +9,7 @@ Manifested spirits have no physical substance, but possess a will of their own a
 Spirits become self aware only once manifested in the [[Corporeal World]], and consider the culture, geography, group, or shrine where they first manifested as "home". 
 
 # Traditions & Beliefs
-Spirits are not as invested in the [[corporeal world]] as other mortals. They participate in and respond to the spiritual rituals of other cultures, but it is unclear if these rituals were requested or merely adopted by Spirits.
+Spirits are not as invested in the [[Corporeal World]] as other mortals. They participate in and respond to the spiritual rituals of other cultures, but it is unclear if these rituals were requested or merely adopted by Spirits.
 
 | Values/Virtues                                                                                                                                           | Anti-values/Sins                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |

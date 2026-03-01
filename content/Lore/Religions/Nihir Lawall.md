@@ -17,7 +17,7 @@
 > Number of Followers |  |
 
 
-The Nihir Lawall (nee-HEER la-WHALL), or "the Way of the Cycle" in [[Common]], is the codified religion of the [[Elves]] from [[Elenwe The Farmer]]. It is an [[axiomatist]] animist religion that teaches that the [[Corporeal World]] has a cyclical rhythm to its being that is empowered by regular observation of harmonious rituals. Followers of the religion believe that the souls of [[Elves]] are perpetual, and will reincarnate from beyond [[the Godwall]], and that [[Spirits]] were once elves who had achieved perfect harmony during their life.
+The Nihir Lawall (nee-HEER la-WHALL), or "the Way of the Cycle" in [[Common]], is the codified religion of the [[Elves]] from [[Elenwe The Farmer]]. It is an [[axiomatist]] animist religion that teaches that the [[Corporeal World]] has a cyclical rhythm to its being that is empowered by regular observation of harmonious rituals. Followers of the religion believe that the souls of [[Elves]] are perpetual, and will reincarnate from beyond [[The Godwall]], and that [[Spirits]] were once elves who had achieved perfect harmony during their life.
 
 # Core Beliefs
 1. Repetition brings us closer to divine perfection

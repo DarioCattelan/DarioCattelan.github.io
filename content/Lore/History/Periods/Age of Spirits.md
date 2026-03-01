@@ -22,7 +22,7 @@ The Age of Spirits is a mythical period when [[the Warrens]] opened for the firs
 
 ## Key places
 
-- [[The Warrens]]
+- [[the Warrens]]
 - [[Hoshi Hall]]
 
 ## Key Factions
@@ -42,7 +42,7 @@ The Age of Spirits is a mythical period when [[the Warrens]] opened for the firs
 
 
 # Key Events
-- [[The Via Aperitur]]: [[The Warrens]] open for the first time
+- [[The Via Aperitur]]: [[the Warrens]] open for the first time
 - [[The Reditus Domum]]: [[Spirits]] began manifesting in the [[Corporeal World]]
 - [[The Record Aeternum]]: [[Lamaenel Alianquil]] writes the progenitor of the [[Nihir Lawall]] and convinces [[Elenwe The Farmer]] to incorporate cyclical time into her domain
 - [[The Victoria Viae]]: [[The Nomad]]'s Herald [[Eadgift Wicca]] defeats [[Sonokar Chiri]] and wins the struggle for [[the Warrens]], the Nomad incorporates journeys and roads into his domain.

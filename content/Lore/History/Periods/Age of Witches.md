@@ -37,3 +37,4 @@ The Age of Witches was a legendary period when [[axiomatic mortals]] discovered 
 - [[The Saltatio Mellis]]: [[Orisin]] invents the practice of bee keeping
 - [[The Ritus Ieiunii]]: [[Shrall the Drunk]] invents the arts of distilling
 - [[Tauret Djoser Rasul]] founds the Eleven [[Elves#The Majilis|Majilis]] and starts the bloodline of [[Clan Rasul]]
+- [[Dwemeran The Collector]] gives [[The Gadian Ri]] the first copy of [[The Codex]] who seeks the greatest cleric of the land to be its steward, finally providing it to [[Thastus Ancrion]] in 682 [[Era of the Five|ES]].
