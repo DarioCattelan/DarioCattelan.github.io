@@ -5,6 +5,7 @@ tags:
   - Elf
 aliases:
   - Elder Herald of Elenwe
+  - The Shah
 ---
 
 > [!infobox|right wikipedia]
@@ -29,7 +30,7 @@ aliases:
 
 
 # Overview
-The Prodiji Shah are the eight most powerful members of [[Clan Rasul]] who have been granted the powers of Heraldry by [[Elenwe The Farmer]]. They are typically the eldest eight members of [[Clan Rasul]], but that is not always the case, as evidence by the appointment of [[Aramia Miska Rasul]] in 114 [[Era of the Five|ES]] at the age of 25.
+The Prodiji Shah, or simply the Shah, are the eight most powerful members of [[Clan Rasul]] who have been granted the powers of Heraldry by [[Elenwe The Farmer]]. They are typically the eldest eight members of [[Clan Rasul]], but that is not always the case, as evidence by the appointment of [[Aramia Miska Rasul]] in 89 [[Era of the Five|ES]] at the age of 25.
 
 The Shah have a magical responsibility to maintain the natural cycles of the world, and ensure that Time continues to flow properly. The exact means by which this is done is unclear, but it is taught in the [[Nihir Lawall]] that the Shah usher in the four winds and the four seasons, ensure the tides kiss the top of the coast each day, and convince the sun to return each spring.
 

@@ -32,7 +32,7 @@ The churches role is to interpret patterns and auguries of the [[Corporeal World
 
 ## The Mazaram
 
-The Mazaram (ma-ZA-ram) are the priests of the Church of Mazarie. Unlike the [[Elves#The Majilis|Majilis]], the Mazaram is not a gerontocracy and its membership is open to any elf. There is no strict hegemony in the Church of Mazarie, but administration of the Church is a rotating membership of 8 positions called the Shah Mazaram (often called the Shahram to distinguish from the [[Elves#The Shah|Prodiji Shah]]). Every 128 years, 64 Mazaram are chosen to serve two yearly terms each during that period as Shah Mazaram.
+The Mazaram (ma-ZA-ram) are the priests of the [[Nihir Lawall#The Church of Mazarie|The Church of Mazarie]]. Unlike the [[Elves#The Majilis|Majilis]], the Mazaram is not a gerontocracy and its membership is open to any elf. There is no strict hegemony in the Church of Mazarie, but administration of the Church is a rotating membership of 8 positions called the Shah Mazaram (often called the Shahram to distinguish from the [[Elves#The Shah|Prodiji Shah]]). Every 128 years, 64 Mazaram are chosen to serve two yearly terms each during that period as Shah Mazaram.
 
 ## The Shah Mazaram and the Majilis
 

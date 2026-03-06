@@ -29,7 +29,7 @@ aliases:
 
 # Overview
 
-Hevlon Ibara Rasul is the eldest member of the [[Clan Rasul]] and the Herald of Disaster of the [[Prodiji Shah]]. He is also the first member of the [[Elves#The Shah|Prodiji Shah]] to retire pre-mortem. Though nominally the patriarch of the family, Hevlon suffers from [[Sariqa Syndrome]], a degenerative mental curse.
+Hevlon Ibara Rasul is the eldest member of the [[Clan Rasul]] and the Herald of Disaster of the [[Prodiji Shah]]. He is also the first member of the [[Prodiji Shah]] to retire pre-mortem. Though nominally the patriarch of the family, Hevlon suffers from [[Sariqa Syndrome]], a degenerative mental curse.
 
 # Heraldic Duties and Powers
 As one of the eldest and most powerful living beings on [[Kaloshen]], Hevlon's abilities are mythologized in cultures throughout the world. He is often depicted as an ill-omen, heralding cataclysm and change, and it is believed that his duties as herald include the rise and fall of empire, the scouring of forests for new growth, and the quick and sudden waning of the old in favor of the new. Hevlon has had such a long tenure as Herald that his station is directly named in the [[Nihir Lawall]] as an integral part of the cycle of time.
