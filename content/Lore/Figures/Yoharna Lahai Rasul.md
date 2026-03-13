@@ -31,7 +31,7 @@ Yoharna Lahai Rasul is an elder member of [[Clan Rasul]]. Like all members of th
 # Heraldic Duties and Powers
 Legends of Yoharna appear in many cultures across [[Kaloshen]] as a bringer of great (and sometimes terrible) fate. She is frequently depicted as appearing before momentous battles, political upheavals, or cataclysmic disasters bestowing daunting quests or impossible tasks. She is often accompanied by the [[Hevlon Ibara Rasul|Herald of Disaster]] and the [[Aramia Miska Rasul|Herald of Spring]].
 
-Most famously, Yoharna is said to have appeared before [[Grastus the Free]] in the days prior to their appointment as [[Heralds|Herald]] of [[Orthal The Mother]]. Some more superstitious folk of [[Kaloshen]] lay partial blame on her for inciting [[Mothers' Heresy]], though no record of her involvement exists.
+Most famously, Yoharna and the [[Ithun Amarus Rasul|Herald of Politics]] are depicted as having appeared before [[Grastus the Free]] in the days prior to their appointment as [[Heralds|Herald]] of [[Orthal The Mother]] in the epic poem  *[[The Cry of the Sacred Sparrow]]*. Some more superstitious folk of [[Kaloshen]] lay partial blame on her for inciting [[Mothers' Heresy]], though no historically accurate record of her involvement exists.
 # Biography
 ## Early Life
 

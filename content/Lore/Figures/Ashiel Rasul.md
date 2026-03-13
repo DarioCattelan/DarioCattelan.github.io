@@ -22,7 +22,7 @@ aliases:
 > Status | Alive |
 > Born | 618 [[Era of the Five \| ES]],  [[Age of Witches]] (881 years old) |
 > Gender | Woman |
-> Relatives | [[Hevlon Ibara Rasul]] (Great Uncle), [[Yoharna Lahai Rasul]] (First Cousin Once Removed), [[Hasada Qesan Rasul]] (First Cousin Once Removed) |
+> Relatives | [[Ithun Amarus Rasul]] (Nephew), [[Velash Bedora Rasul]] (Niece), [[Hevlon Ibara Rasul]] (Great Uncle) |
 > Occupation | [[Prodiji Shah]] (Herald of the Moon) |
 
 # Overview

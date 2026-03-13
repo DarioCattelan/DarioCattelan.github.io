@@ -24,7 +24,7 @@ aliases:
 > [[Yoharna Lahai Rasul]] | Heroes    |
 > [[Ashiel Rasul]]          | Moon      |
 > [[Reith Habass Rasul]]    | Tides     |
-> [[Ithum Amarus Rasul]]    | Politics  |
+> [[Ithun Amarus Rasul]]    | Politics  |
 > [[Aramia Miska Rasul]]    | Spring    |
 > [[Velash Bedora Rasul]]   | Fashion   |
 
