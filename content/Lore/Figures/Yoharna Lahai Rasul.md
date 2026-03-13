@@ -1,7 +1,6 @@
 ---
 tags:
   - History
-  - NPC
   - Elf
   - Herald
   - Unreliable
@@ -22,7 +21,7 @@ aliases:
 > Status | Alive |
 > Born |  476 [[Era of the Five \| ES]] [[Age of Orlin]] (746 years old) |
 > Gender | Woman |
-> Relatives | [[Hevlon Ibara Rasul]] (Uncle), [[Aramia Miska Rasul]] (Niece) |
+> Relatives | [[Hevlon Ibara Rasul]] (Uncle), [[Reith Habass Rasul]] (First Cousin), [[Aramia Miska Rasul]] (Niece) |
 > Occupation | [[Prodiji Shah]] (Herald of Heroes) |
 
 

@@ -34,5 +34,5 @@ Norwâld, sometimes called the Norwâld Reserve, is a forested area in the [[Ard
 Norwâld maintains a guard force funded by [[the Kaupangsborg]] known as [[Norwâld Territory Administration]] (NTA) who enforce the protection of the area. The NTA collect tariffs from parties crossing through the reserve to help fund their defense of the region, with a yearly tribute going to [[the Kaupangsborg]] city of [[Straathûs]].
 
 # Travel
- Much of Norwald can be accessed by boat from the [[Placeholder ardanil straight]], and the larger waterways remain the most efficient way of travelling around the interior. There exits some walkable trails through the forest which are maintained by the [[Norwâld Territory Administration]].
+ Much of Norwald can be accessed by boat from the [[Kaiko-chiri Strait]], and the larger waterways remain the most efficient way of travelling around the interior. There exits some walkable trails through the forest which are maintained by the [[Norwâld Territory Administration]].
 

@@ -6,6 +6,8 @@ tags:
   - Elf
   - Reliable
   - Herald
+aliases:
+  - Herald of the Moon
 ---
 > [!infobox | right wikipedia]
 > #### Names
