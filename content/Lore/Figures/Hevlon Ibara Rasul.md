@@ -36,6 +36,8 @@ As one of the eldest and most powerful living beings on [[Kaloshen]], Hevlon's a
 
 Hevlon is a central figure, and sometimes catalyst, in most tales of [[The Wæl]], though it is unknown if this is an accurate collective memory, or the continuation of a common narrative trope. Tales of the Herald of Disaster frequently include his accompaniment by the [[Yoharna Lahai Rasul|Herald of Heroes]] and the [[Aramia Miska Rasul|Herald of Spring]].
 
+Hevlon is the bearer of [[The Cataclysm Blade]], the symbol of his station.
+
 # Biography
 ## Early Life
 Not much is known of Hevlon's early life. He is not mentioned by name in any of the surviving records from the [[Age of Spirits]] or [[Age of Witches]].
