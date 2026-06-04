@@ -6,23 +6,23 @@ tags:
 
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+> __  | __  |
 > -|---|
->Type | Coven |
+>Type | [[Witches Coven]] |
 >---
->   |   |
+> __  |  __ |
 > -|---|
 > Mission | |
 > Spiritual Domains | |
 > Associated Great Spirits | |
 >---
->   |   |
+> __  | __  |
 > -|---|
 >Founded | |
 >Founder | |
 >Iconography |  |
 >---
->   |   |
+> __  |  __ |
 > -|---|
 >Headquarters | |
 >Regions Active | |

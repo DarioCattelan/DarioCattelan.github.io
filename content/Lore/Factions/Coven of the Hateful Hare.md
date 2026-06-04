@@ -6,23 +6,23 @@ tags:
 
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+>  __ |  __ |
 > -|---|
->Type | Coven |
+>Type | [[Witches Coven]] |
 >---
->   |   |
+> __  | __  |
 > -|---|
 > Mission | To ensure [[Sonokar Chiri]] does not awaken, and to maintain balance between spirits and mortals in and around the Warrens |
 > Spiritual Domains | Spirits of burrows, crossroads, tunnels, tollways, dungeons |
 > Associated Great Spirits | [[Sonokar Chiri]] |
 >---
->   |   |
+> __  | __  |
 > -|---|
 >Founded | [[Age of Spirits]] |
 >Founder | [[Eadgift Wicca]] |
 >Iconography | A sleeping hare |
 >---
->   |   |
+> __  |  __ |
 > -|---|
 >Headquarters | [[Hoshi Hall#The Backwoods\|The Backwoods]]|
 >Regions active | [[Hoshi Hall]], [[Dwarven]] lands|
