@@ -6,23 +6,23 @@ tags:
 
 > [!infobox|right wikipedia]
 > ##### Faction
->   |   |
+>  __ | __  |
 > -|---|
->Type | Coven |
+>Type | [[Witches Coven]] |
 >---
->   |   |
+> __  | __  |
 > -|---|
 > Mission | Provide comfort to bound [[Spirits]]|
 > Spiritual Domains | Bound spirits |
 > Associated Great Spirits | None |
 >---
->   |   |
+>  __ |  __ |
 > -|---|
 >Founded | ~630 [[Era of the Five\|ES]] [[Age of Witches]] - 211 [[Era of the Five\|ES]] [[Age of the Pillar]], refounded 16 [[Era of the Five\|EF]][[Age of the Five]] |
 >Founder | [[Shrall the Drunk]]|
 >Iconography |  A simple chained decanter.|
 >---
->   |   |
+> __  |  __ |
 > -|---|
 >Headquarters | |
 >Regions Active | Worldwide, but particularly [[Netham]] and [[Audland]] |

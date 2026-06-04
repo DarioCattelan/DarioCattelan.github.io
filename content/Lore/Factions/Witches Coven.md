@@ -8,5 +8,5 @@ A Witches Coven is a catchall term for an organization of witches dedicated to t
 
 # Notable Covens
 - [[Coven of the Hateful Hare]]
-- [[Coven of the Golden Comb]]
+- [[Coven of the Bountiful Bee]]
 - [[Coven of the Wobbly Witch]]

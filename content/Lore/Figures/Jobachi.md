@@ -38,7 +38,7 @@ Chikara Jobachi Zuhachi, or simply Jobachi, was a legendary Great Spirit of Bees
 Jobachi served as a widely respected [[Fey Folk#Sylvans|Sylvan]] at [[Hoshi Hall]] for many years following her binding with Orisin. It was during this time that she and Orisin discovered honey's abilities to store consumable [[Arcana]], inventing the first alchemical potions.
 
 # Time at rasteplads
-Following the discovery of alchemy, Jobachi and Orisin moved to [[Rasteplads]] during the [[Age of Art]] to share their invention with the world. The technology rapidly took off, and the honey market became a major business. Concerned over the imbalance of [[Arcana]] as alchemical potions became common place, and enraged about the treatment of bees and bee related [[Spirits]], Jobachi and Orisin founded the [[Coven of the Golden Comb]] to try to control the flow of alchemical magic and stop the trafficking of bee spirits.
+Following the discovery of alchemy, Jobachi and Orisin moved to [[Rasteplads]] during the [[Age of Art]] to share their invention with the world. The technology rapidly took off, and the honey market became a major business. Concerned over the imbalance of [[Arcana]] as alchemical potions became common place, and enraged about the treatment of bees and bee related [[Spirits]], Jobachi and Orisin founded the [[Coven of the Bountiful Bee]] to try to control the flow of alchemical magic and stop the trafficking of bee spirits.
 
 # Death
 Jobachi was demanifested in [[Rasteplads]] following the death of [[Orisin]] while defending [[placeholder for famous statue orisin defended]]. It is unknown if she has remanifested since.
