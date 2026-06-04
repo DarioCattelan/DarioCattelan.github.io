@@ -33,3 +33,5 @@ tags:
 
 
 # Key Events
+- 211 EF: The [[Coven of the Wobbly Witch]] is forcibly disbanded
+- [[the Kaupangsborg]] rise to power

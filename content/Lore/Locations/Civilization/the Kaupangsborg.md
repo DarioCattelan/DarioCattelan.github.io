@@ -23,3 +23,5 @@ There are seven city states that make up the Kaupangsborg.
 | [[Karavanskali]] | [[Audland]]                             |
 | [[Heitrskog]]    | [[Noitanga]]                            |
 | [[Austrath]]     | [[placeholder north eastern coast]]     |
+# History
+The Kaupangsborg rose to power near the end of the [[Age of the Pillar]] with the repossession of the immense wealth of the [[Coven of the Wobbly Witch]] by Tankedyr merchants.

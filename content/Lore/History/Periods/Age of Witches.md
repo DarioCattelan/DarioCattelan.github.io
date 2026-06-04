@@ -26,7 +26,7 @@ The Age of Witches was a legendary period when [[axiomatic mortals]] discovered 
 ## Key Factions
 - [[Coven of the Hateful Hare]]
 - [[Coven of the Golden Comb]]
-- [[Coven of the Tipsy Witch]]
+- [[Coven of the Wobbly Witch]]
 
 ## Key Figures
 - [[Eadgift Wicca]]

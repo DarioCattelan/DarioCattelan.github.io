@@ -42,7 +42,6 @@ Occasionally, a large of noteworthy herd will manifest a [[Spirits#Zuhachi|Zuhac
 ### The Perpetual stew
 Orlin communities will often have a form of magical, perpetual stew brewing in the community's [[Orlins#The Herald Home|Herald Home]]. This stew is unique to each community, and every four years the Orlin hold a nation wide competition judged by the three Heralds for the best perpetual stew.
 
-
 ### Communal Temples
 Orlin religion is clearly defined and rarely requires interpretation. As a result, there is no strict religious class in Orlin society. Instead, temples to [[Orthal The Mother]] are constructed from public funds, and maintained by volunteers. Cultural events and religious ceremonies are organized by individual committees appointed by the village committee, and the honor of conducting the ceremonies are given to locals deserving recognition.
 
@@ -50,6 +49,9 @@ Communal temples often contain shrines to all links of [[The Ordning]], and spir
 
 #### The Herald Home
 Every Orlin community will have a kind of temple called a Herald Home, which serves as both living quarters for any local or visiting Heralds, as well as a community center. [[Orlins#The Perpetual stew|The Perpetual Stew]] of the Orlin is typically kept brewing in the Herald Home.
+
+### Liberty Names
+Prior to [[Mothers' Heresy]] Orlin naming convention used three names; a given name, a tribal name, and a caste name describing their profession. Following the Heresy, many Orlin have discarded their caste names in favour of "Liberty names" exposing vocations, beliefs, or simply the ideals of the Heresy.
 
 ## Language
 Orlins speak, read, and write [[Orlish]].
@@ -64,7 +66,7 @@ The Orlin are culturally divided into two groups, the nomadic [[The Olon|Olon]] 
 The Orlin's Fundamental, [[Orthal The Mother]], is nominally the only permanent member of every Orlin committee, and head of all tribes. In practice, Orthal is constantly travelling with her three [[Heralds]] to other nations on diplomatic missions to foster world peace and unity. Rarely does Orlin leadership know the current location of the Mother or her Heralds, and it is not unheard of for years to have gone by with no contact.
 
 ### Heralds
-Orlins have three [[Heralds]] who's membership is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
+Orlins have three [[Heralds]]: the [[Herald of Equality]], the [[Herald of Liberty]], and the [[Herald of Unity]]. Following [[Mothers' Heresy]] the membership of the three stations is always composed of one Orc, one Goblin, and one Hobgoblin. Heralds are appointed by divine mandate by the Mother herself, typically for life. The Mother announces her choice of Herald to all Orlin directly by magical means, and no Herald has ever refused the appointment.
 In theory, the Heralds' serve solely as advisors and spiritual leaders, providing guidance on religious matters and bridging the will of the Mother and the Orlin. In practice, the Heralds serve as ultimate oversight on the practices of the many governing committees of the Orlin, and have been known to intervene when committee members stretch their authority too far. Such instances have lead to quick and zealous action.
 
 # Biology
@@ -83,11 +85,10 @@ Orlin reproduce via externally fertilized eggs, and are compatible within the Th
 
 # History
 ## The Edict of Axiomatic Equality
-In date [[Grastus the Free]] was appointed Herald of the Mother, replacing his still living predecessor. Immediately upon taking office, [[Grastus the Free|Grastus]] was granted epiphany [^1] by the Mother on the nature of a hierarchy within [[The Ordning#Ordning Links|Ordinal Links]]. Previous dogma from the Mother had given a ranking within each Link, but this new edict declared all beings within a Link equal in all ways. What followed was civil upheaval, including several violent uprisings. The forces of the [[Fartuk Bloodline]] were ultimately defeated by Grastus' [[Three People's Army]], enacting the edict as law, and dissolving the [[Fartuk Bloodline]]'s Divine Monarchy and the Orlin race based caste system.
-
+In 184 [[Era of the Five|EF]] [[Grastus the Free]] was appointed Herald of the Mother, replacing his still living predecessor. Immediately upon taking office, [[Grastus the Free|Grastus]] was granted epiphany [^1] by the Mother on the nature of a hierarchy within [[The Ordning#Ordning Links|Ordinal Links]]. Previous dogma from the Mother had given a ranking within each Link, but this new edict declared all beings within a Link equal in all ways. What followed was civil upheaval, including several violent uprisings. The forces of the [[Fartuk Bloodline]] were ultimately defeated by Grastus' [[Three People's Army]], enacting the edict as law, and dissolving the [[Fartuk Bloodline]]'s Divine Monarchy and the Orlin race based caste system.
 
 ## Mothers' Heresy
-The Orlin, under the urging of the Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, returning most of the ancestral lands of the Haflings.
+The Orlin, under the urging of the Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, singing  [[The Freewalk Accords]] which returned most of the ancestral lands of the Haflings. As part of the Accords, Grastus the Free was exiled to an island on the [[Divine Tolls|Mazarie Toll]], and was banned from participating in the politics of the world.
 
 ## The Relationships
 Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several generations ago for the Orlin but still fresh in the minds of the long lived races.

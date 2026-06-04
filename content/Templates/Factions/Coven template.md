@@ -1,3 +1,9 @@
+---
+tags:
+  - Faction
+  - Coven
+---
+
 > [!infobox|right wikipedia]
 > ##### Faction
 >   |   |
@@ -46,6 +52,3 @@
 
 
 # Relationships
-
-
-#Faction #Coven

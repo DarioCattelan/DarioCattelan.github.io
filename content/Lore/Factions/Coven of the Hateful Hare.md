@@ -1,3 +1,9 @@
+---
+tags:
+  - Faction
+  - Coven
+---
+
 > [!infobox|right wikipedia]
 > ##### Faction
 >   |   |
@@ -25,7 +31,7 @@
 
 # Overview
 
-The Coven of the Hateful Hare is a [[Witches' Coven]] founded during the [[Age of Spirits]] by the legendary witch [[Eadgift Wicca]]. It is the oldest coven in existence, and is believed to be the first coven ever founded.
+The Coven of the Hateful Hare is a [[Witches Coven]] founded during the [[Age of Spirits]] by the legendary witch [[Eadgift Wicca]]. It is the oldest coven in existence, and is believed to be the first coven ever founded.
 
 The coven was founded to ensure the continued imprisonment of [[Sonokar Chiri]] , the Great Spirit of [[the Warrens]], in the [[Sonokar Stone]].
 
