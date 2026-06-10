@@ -7,7 +7,7 @@
 > ---|---|
 > [[Elvish]] | Ciran and Relor |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Born | [[Age of the First Bloom]]|

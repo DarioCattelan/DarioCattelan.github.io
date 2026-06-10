@@ -4,17 +4,17 @@
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Glacially Sculpted Mountains  |
 > Size |  |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits |  |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[Elven Republic]] |
 > Native people | [[Ice People]] (historical) |
@@ -23,7 +23,7 @@
 > ---|---|
 >  [[Elves]] | Several |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources |  |
 

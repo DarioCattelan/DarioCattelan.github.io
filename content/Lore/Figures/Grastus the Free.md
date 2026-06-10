@@ -12,7 +12,7 @@ aliases:
 > Language | Name |
 > ---|---|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Orlins\|Orlin]] (Hobgoblin) |
 > Status | Alive, exiled|

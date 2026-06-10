@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | Unknown |
 > To | Unknown |

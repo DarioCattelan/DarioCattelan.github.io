@@ -4,7 +4,7 @@
 
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Classification | [[axiomatist]]  reincarnationist|
 > Scripture | [[Nihir Lawall]] |

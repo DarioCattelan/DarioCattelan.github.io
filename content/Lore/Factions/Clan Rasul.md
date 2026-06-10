@@ -7,11 +7,11 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > ##### Family 
-> Type | Stat |
+> &nbsp; | &nbsp; |
 > -|---|
 > Race | [[Elves]] |
 > ###### organization
->  Type | Stat  |
+>  &nbsp; | &nbsp; |
 > -|---|
 > Leader(s) | [[Hevlon Ibara Rasul]] (in name only), [[Hasada Qesan Rasul]] |
 > Prominent Members | The [[Prodiji Shah]] |

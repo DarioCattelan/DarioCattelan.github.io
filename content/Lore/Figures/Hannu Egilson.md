@@ -14,7 +14,7 @@ aliases:
 > [[Kaupmal]] | Hannu Egilson |
 > [[Common]] | Hannu Kindlyone |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Tankedyr]]|
 > Status | Desceased |

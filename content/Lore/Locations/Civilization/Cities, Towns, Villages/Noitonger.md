@@ -9,23 +9,23 @@ aliases:
 > #### Noitonger
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City |
 > Size |  |
 > Region | [[Noitanga]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Communist|
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races | [[Orlins]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -65,7 +65,7 @@ Noitonger is a city in [[The Orlin Communes]] to the north east of the [[Orlin P
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -85,7 +85,7 @@ Noitonger is a city in [[The Orlin Communes]] to the north east of the [[Orlin P
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

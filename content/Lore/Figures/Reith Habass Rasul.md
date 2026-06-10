@@ -16,7 +16,7 @@ aliases:
 > [[Elvish]] | Reith Habass Rasul|
 > [[Common]] | Watches Distant Thunder |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves\|Elf]] |
 > Status | Alive |

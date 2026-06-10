@@ -12,7 +12,7 @@ aliases:
 
 > [!infobox | right wikipedia]
 > #### The Age of Gentle Waters
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~1400 [[Era of the Five \| ES]] |
 > To |  ~1200 [[Era of the Five\|ES]] |

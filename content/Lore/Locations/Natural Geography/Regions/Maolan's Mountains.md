@@ -4,17 +4,17 @@
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Volcanic Mountains |
 > Size |  |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits |  |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[Dwarven Fiefs]], [[Netham]], [[The Orlin Communes]]|
 > Native people | [[Dwarves]], [[Tallmen]] (extinct) |
@@ -26,7 +26,7 @@
 > [[Orlins]] | Several |
 > [[Elves]] | A few |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources |  |
 

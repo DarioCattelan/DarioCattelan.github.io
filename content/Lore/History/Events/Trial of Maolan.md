@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~1580 [[Era of the Five \|ES]] |
 > To | ~1570 [[Era of the Five \|ES]]  |

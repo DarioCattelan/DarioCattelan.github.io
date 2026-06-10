@@ -11,7 +11,7 @@ aliases:
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | 184 [[Era of the Five \| EF]] [[Age of the Five]] |
 > To | 187 [[Era of the Five \| EF]] [[Age of the Five]] |

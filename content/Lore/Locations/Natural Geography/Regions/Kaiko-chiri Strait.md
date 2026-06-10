@@ -10,21 +10,21 @@ tags:
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Maritime strait |
 > Size | 950 km (longest), 150 km (widest) |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits | Kaiko-chiri |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[Elven Republic]], [[Straathûs]] and [[the Kaupangsborg]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources | A key trading avenue between the west coast and the north |
 

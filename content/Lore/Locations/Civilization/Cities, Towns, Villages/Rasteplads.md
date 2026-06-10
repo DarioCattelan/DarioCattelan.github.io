@@ -31,7 +31,7 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -51,7 +51,7 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

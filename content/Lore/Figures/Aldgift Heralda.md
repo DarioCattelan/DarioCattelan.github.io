@@ -6,7 +6,7 @@
 >[[Nethanese]]| Aldgift Heralda|
 >  [[Common]]  | Herald of Spirit Gifts |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Halflings]]|
 > Status | Presumed Deceased|

@@ -6,7 +6,7 @@
 > [[Anivara]] | Tempus Kami |
 > [[Common]] | Great Spirit of Seasons |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Spirits]]|
 > Status | Demanifested |

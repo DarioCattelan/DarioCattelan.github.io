@@ -17,7 +17,7 @@ aliases:
 > [[Common]] | Orisin |
 > [[High Sylvan]] | Dansante |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Fey Folk]] |
 > Status | Deceased |

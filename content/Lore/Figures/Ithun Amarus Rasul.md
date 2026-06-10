@@ -16,7 +16,7 @@ aliases:
 > [[Elvish]] | Ithum Amarus Rasul |
 > [[Common]]| Wind Through Tall Grass |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry |[[Elves\|Elf]] |
 > Status | Alive |

@@ -15,7 +15,7 @@ aliases:
 > [[Elvish]] | Yoharna Lahai Rasul|
 > [[Common]] | Keeper of Small Dreams |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive |

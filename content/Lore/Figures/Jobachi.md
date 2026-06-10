@@ -19,7 +19,7 @@ aliases:
 > [[Anivara]] | Chikara Jobachi Zuhachi|
 > [[Common]] | Great Spirit of Bees |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Spirits]] |
 > Status | Demanifested |

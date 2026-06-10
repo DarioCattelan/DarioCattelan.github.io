@@ -10,7 +10,7 @@ aliases:
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Date | ~650 [[Era of the Five \| ES]] [[Age of Witches]]|
 > Period | [[Age of Witches]] |

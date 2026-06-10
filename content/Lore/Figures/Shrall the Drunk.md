@@ -14,7 +14,7 @@ aliases:
 > [[Kaupmal]] | Shrall ölðr|
 > [[Common]] | Shrall the Drunk|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Tankedyr]]|
 > Status | Deceased|

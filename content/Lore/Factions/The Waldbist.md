@@ -7,7 +7,7 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > ##### Faction
->  Type | Stat |
+>  &nbsp; | &nbsp; |
 > -|---|
 >Type | Military |
 >Military Role | Infantry, Logistics, Reconnaissance, Support |

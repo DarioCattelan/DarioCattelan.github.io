@@ -10,17 +10,17 @@ tags:
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Subtropical savannah, subtropical forest, wetlands |
 > Size |  |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits |  |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[The Orlin Communes]] |
 > Native people | [[The Olon\|Zagashi Olon Tribe]], [[The Suutin\|Zogii Suutin Tribe]] |
@@ -29,7 +29,7 @@ tags:
 > ---|---|
 >  | [[Orlins]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources |  |
 

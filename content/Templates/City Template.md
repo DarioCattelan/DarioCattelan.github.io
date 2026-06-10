@@ -7,23 +7,23 @@ tags:
 > #### City Name
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Type |  |
 > Size |  |
 > Region |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Govt Type | |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -62,11 +62,11 @@ tags:
 
 
 # Politics
-|Type |  Stat |
-|---|---|
-|Govt Type | |
-|Ruler | |
-|Defense |  |
+| &nbsp;    | &nbsp; |
+| --------- | ------ |
+| Govt Type |        |
+| Ruler     |        |
+| Defense   |        |
 
 ## Demographics
 
@@ -82,7 +82,7 @@ tags:
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
-| ---|---|
-|Exports |  |
-|Imports |  |
+| &nbsp;  | &nbsp; |
+| ------- | ------ |
+| Exports |        |
+| Imports |        |

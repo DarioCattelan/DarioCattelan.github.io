@@ -1,7 +1,7 @@
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Date | ~1290 [[Era of the Five \| ES]] |
 > Period | [[Age of Spirits]]|

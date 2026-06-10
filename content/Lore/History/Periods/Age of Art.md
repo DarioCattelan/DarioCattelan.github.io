@@ -9,7 +9,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### Period Name
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | 311 [[Era of the Five \| ES]] |
 > To |   121 [[Era of the Five\|ES]] |

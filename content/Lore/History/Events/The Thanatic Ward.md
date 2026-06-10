@@ -1,7 +1,7 @@
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | Unknown |
 > To | Unknown |

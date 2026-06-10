@@ -4,17 +4,17 @@
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Mediterranean |
 > Size |  |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits |  |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[Elven Republic]] , [[Netham]]|
 > Native people | [[Elves]] |
@@ -24,7 +24,7 @@
 >  [[Elves]] |  Many |
 >  [[Halflings]] | Many |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources |  |
 

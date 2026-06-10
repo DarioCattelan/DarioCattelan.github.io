@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~1600 [[Era of the Five \| ES]] |
 > To | Present day  |

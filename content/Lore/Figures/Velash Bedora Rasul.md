@@ -16,7 +16,7 @@ aliases:
 > [[Elvish]] | Velash Bedora Rasul |
 > [[Common]] | Moonlit Roots of an Ancient Tree |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves\|Elf]]|
 > Status | Alive |

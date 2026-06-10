@@ -12,7 +12,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### The Age of the Elders
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~ 1700 [[Era of the Five \| ES]] |
 > To |  ~ 1400 [[Era of the Five\|ES]] |

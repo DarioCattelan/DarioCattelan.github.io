@@ -12,18 +12,18 @@ aliases:
 > #### Norwâld Reserve
 > ![[Norwâld Reserve 265 EF.jpg|hsmall]]
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | Temperate Forest |
 > Size |  |
 > Region | [[Ardalidin Region]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | [[Norwâld Territory Administration]]|
 > Ruler | Territory Warden [[Wolter]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports | Tithe paid to [[Straathûs]] |
 > Imports | Collects tariffs from travellers, gear and equipment from [[Straathûs]] |

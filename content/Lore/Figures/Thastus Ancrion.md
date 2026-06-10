@@ -15,7 +15,7 @@ aliases:
 > [[Dwarven]] | Thastus Ancrion |
 > [[Common]] | Thastus the Wise|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Dwarves]]|
 > Status | Deceased |

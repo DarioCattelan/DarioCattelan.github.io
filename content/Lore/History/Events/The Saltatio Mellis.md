@@ -9,7 +9,7 @@ tags:
 ---
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Date | Early [[Age of Witches]]|
 > Period | [[Age of Witches]] |

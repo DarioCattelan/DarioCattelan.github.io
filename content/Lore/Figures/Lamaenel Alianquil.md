@@ -8,7 +8,7 @@
 > [[Anivara]] | Writer of the Long Days and Nights |
 > [[Common]] | Liora of the Solstice |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves\|Elf]] |
 > Born | Unknown |

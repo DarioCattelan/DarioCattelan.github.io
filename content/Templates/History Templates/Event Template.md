@@ -7,7 +7,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > From | [[Era of the Five \| ES]] |
 > To | [[Era of the Five \| ES]] |

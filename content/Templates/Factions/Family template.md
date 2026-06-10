@@ -5,11 +5,11 @@ tags:
 ---
 > [!infobox|right wikipedia]
 > ##### Family 
->  |  |
+> &nbsp; | &nbsp; |
 > -|---|
 > Race | |
 > ###### organization
->   |   |
+>  &nbsp; |  &nbsp; |
 > -|---|
 > Leader(s) |  |
 > Prominent Members |  |

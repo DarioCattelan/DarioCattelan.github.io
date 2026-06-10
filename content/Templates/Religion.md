@@ -1,5 +1,6 @@
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> #### Details
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Classification |  |
 > Scripture |  |

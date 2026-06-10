@@ -4,24 +4,24 @@
 > [!infobox | right wikipedia]
 > #### Beamhaven
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | Outpost |
 > Size | Tiny |
 > Region | [[Nordwâld]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Administrative |
 > Ruler | [[Territory Warden Wolter]] |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population | ~10 |
 > Races | [[Tankedyr]] |
 > Notable Spirits | Minor forest spirits |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports | Forest services, tithes to [[Straathûs]] |
 > Imports | Collects tariffs from travellers through [[Nordwâld]] |
@@ -59,7 +59,7 @@ Beamhaven is the main outpost of [[The Wâldûlen]] rangers of [[Nordwâld]].
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -79,7 +79,7 @@ Beamhaven is the main outpost of [[The Wâldûlen]] rangers of [[Nordwâld]].
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

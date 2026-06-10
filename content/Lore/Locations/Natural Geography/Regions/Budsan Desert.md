@@ -10,17 +10,17 @@ tags:
 > ---|---|
 >  map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Dominant Terrain | Cold desert  |
 > Size |  |
 > ###### [[Spirits]] and [[Arcana]]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Known Spirits |  |
 > Known Arcana |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Claimed by | [[The Orlin Communes]], [[Elven Republic]]|
 > Native people | [[The Olon\|Zerlogog Tribe]], [[Budsani Halflings]] (extinct) |
@@ -29,7 +29,7 @@ tags:
 > ---|---|
 >  |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Valuable resources | [[Candescent Sand]] |
 

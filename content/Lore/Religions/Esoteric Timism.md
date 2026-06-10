@@ -1,5 +1,5 @@
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Classification | Nontheistic nomistic religion |
 > Scripture | [[The Codex]] |

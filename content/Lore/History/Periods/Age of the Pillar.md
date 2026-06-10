@@ -10,7 +10,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### The Age of the Pillar
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~230 [[Era of the Five \| ES]] |
 > To |  1 [[Era of the Five\|EF]] |

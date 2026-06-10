@@ -6,7 +6,7 @@
 > [[Nethanese]] | Eadgift Wicca|
 > [[Common]] | Witch who is a gift from the gods|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Halflings]] |
 > Status | Presumed Deceased |

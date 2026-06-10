@@ -6,7 +6,7 @@
 > [[Anivara]] | Sonokar Chiri |
 > [[Common]] | Great Spirit of the Warrens |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Spirits]]|
 > First Manifestation | [[Age of Spirits]] |

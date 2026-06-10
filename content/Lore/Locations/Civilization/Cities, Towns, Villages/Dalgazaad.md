@@ -7,23 +7,23 @@ tags:
 > #### Dalgazaad
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City |
 > Size |  |
 > Region | [[Orlin Plains]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Communist |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -63,7 +63,7 @@ Dalgazaad is a city in [[The Orlin Communes]] located in the middle of the [[Orl
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -83,7 +83,7 @@ Dalgazaad is a city in [[The Orlin Communes]] located in the middle of the [[Orl
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

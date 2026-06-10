@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~1580 [[Era of the Five \| ES]] (one year after the start of the [[Trial of Maolan]]) |
 > To | ~1545 [[Era of the Five \| ES]]  |

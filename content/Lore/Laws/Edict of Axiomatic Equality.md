@@ -8,7 +8,7 @@ tags:
 ---
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | 184 [[Era of the Five \| EF]] [[Age of the Five]] |
 > Period | [[Age of the Five]] |

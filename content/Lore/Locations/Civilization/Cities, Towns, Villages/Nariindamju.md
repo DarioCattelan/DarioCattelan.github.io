@@ -8,23 +8,23 @@ tags:
 > #### Nariindamju
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City |
 > Size |  |
 > Region | [[Uul Mountains]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Communist |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -64,7 +64,7 @@ Narrindamju (or "Narrow place" in [[Common]]) is an Orlin city located at the fo
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -84,7 +84,7 @@ Narrindamju (or "Narrow place" in [[Common]]) is an Orlin city located at the fo
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

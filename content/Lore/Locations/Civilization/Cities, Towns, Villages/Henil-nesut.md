@@ -8,23 +8,23 @@ tags:
 > #### Henil-nesut
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City |
 > Size | Metropolis |
 > Region | [[Ardalidin Region]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Republican Senate |
 > Ruler | [[Elenwe The Farmer]] |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -65,7 +65,7 @@ Henil-nesut is the capital of the [[Elven Republic]].
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -85,7 +85,7 @@ Henil-nesut is the capital of the [[Elven Republic]].
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |
@@ -96,23 +96,23 @@ Henil-nesut is the capital of the [[Elven Republic]].
 > #### City Name
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type |  |
 > Size |  |
 > Region |  |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -150,7 +150,7 @@ Henil-nesut is the capital of the [[Elven Republic]].
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -170,7 +170,7 @@ Henil-nesut is the capital of the [[Elven Republic]].
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

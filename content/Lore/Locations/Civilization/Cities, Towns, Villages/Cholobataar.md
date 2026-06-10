@@ -9,23 +9,23 @@ aliases:
 > #### Cholobataar
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City |
 > Size |  |
 > Region | [[Almam Steppe]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races |  |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -66,7 +66,7 @@ Cholobataar was originally named Ahltsuger after the [[Ahltsuki]], but was renam
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -86,7 +86,7 @@ Cholobataar was originally named Ahltsuger after the [[Ahltsuki]], but was renam
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

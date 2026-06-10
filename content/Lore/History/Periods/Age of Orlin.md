@@ -8,7 +8,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### Period Name
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~500 [[Era of the Five \| ES]] |
 > To |  ~230 [[Era of the Five\|ES]] |

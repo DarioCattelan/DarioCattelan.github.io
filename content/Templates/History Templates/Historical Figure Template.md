@@ -9,7 +9,7 @@ tags:
 > Language | Name |
 > ---|---|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Ancestry | |
 > Status | |
@@ -18,7 +18,6 @@ tags:
 > Gender | |
 > Relatives |  |
 > Occupation | |
-
 
 # Overview
 

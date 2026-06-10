@@ -11,7 +11,7 @@ aliases:
 > #### Item Details
 > ![[Cataclysm Blade Image.png| hsmall]]
 > 
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | Bastard Sword |
 > Status | Preserved |

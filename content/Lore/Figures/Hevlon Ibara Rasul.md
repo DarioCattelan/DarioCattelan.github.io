@@ -18,7 +18,7 @@ aliases:
 > [[Elvish]] | Hevlon Ibara Rasul |
 > [[Common]] | Weight of Ancient Mountains |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive (infirm)|

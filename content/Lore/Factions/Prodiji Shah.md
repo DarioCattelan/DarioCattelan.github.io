@@ -10,7 +10,7 @@ aliases:
 
 > [!infobox|right wikipedia]
 > ##### Heralds
-> Type | Stat |
+> &nbsp; | &nbsp; |
 > -|---|
 > Fundamental | [[Elenwe The Farmer]] |
 > Headquarters | [[Elven Republic]] |

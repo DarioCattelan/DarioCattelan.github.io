@@ -10,7 +10,7 @@ tags:
 > Language | Name |
 > ---|---|
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | |
 > Status | |

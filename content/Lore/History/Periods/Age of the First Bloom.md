@@ -11,7 +11,7 @@ tags:
 ---
 > [!infobox | right wikipedia]
 > #### The Age of the First Bloom
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~ 2000 [[Era of the Five \| ES]] |
 > To |  ~ 1700 [[Era of the Five\|ES]] |

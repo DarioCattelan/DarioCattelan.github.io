@@ -6,7 +6,7 @@
 > [[Elvish]] | Nalu Shair |
 > [[Common]] | Shadowlocks |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves\|Elf]]|
 > Born | Unknown |

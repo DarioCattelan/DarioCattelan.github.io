@@ -17,7 +17,7 @@ aliases:
 > [[Elvish]]| Hasada Qesan Rasul|
 > [[Common]] | Justice of Changing Seasons |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive |

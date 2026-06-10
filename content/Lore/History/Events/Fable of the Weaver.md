@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | First recorded sometime late [[Age of Gentle Waters]], ~1430 [[Era of the Five \| ES]] |
 > Period | [[Age of Gentle Waters]] |

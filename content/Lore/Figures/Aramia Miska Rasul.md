@@ -16,7 +16,7 @@ aliases:
 > [[Elvish]] | Aramia Miska Rasul |
 > [[Common]] | Summer Flower with Thorns |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive |

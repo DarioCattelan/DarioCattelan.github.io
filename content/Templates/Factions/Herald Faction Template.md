@@ -6,7 +6,7 @@ tags:
 
 > [!infobox|right wikipedia]
 > ##### Heralds
-> Type | Stat |
+> &nbsp; | &nbsp; |
 > -|---|
 > Fundamental | |
 > Headquarters | |

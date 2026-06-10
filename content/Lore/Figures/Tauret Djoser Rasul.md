@@ -13,7 +13,7 @@ tags:
 > [[Elvish]] | Tauret Djoser Rasul |
 > [[Common]] | Great One Beloved by God |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Deceased |

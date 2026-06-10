@@ -16,7 +16,7 @@ aliases:
 > [[Elvish]]| Ashiel Rasul|
 > [[Common]] | Fireflies at dusk |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | [[Elves\|Elf]] |
 > Status | Alive |

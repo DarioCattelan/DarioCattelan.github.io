@@ -14,7 +14,7 @@ aliases:
 > ---|---|
 > [[Kaupmal]] | Archer Son of Archer |
 > #### Personal Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Ancestry | Capuchin Monkey [[Tankedyr]] |
 > Status | Deceased |

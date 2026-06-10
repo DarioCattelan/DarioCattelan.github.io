@@ -6,7 +6,7 @@ tags:
 ---
 > [!infobox | right wikipedia]
 > #### Item Details
-> Type |  Stat |
+> &nbsp; |  &nbsp; |
 > ---|---|
 > Type | |
 > Status | |

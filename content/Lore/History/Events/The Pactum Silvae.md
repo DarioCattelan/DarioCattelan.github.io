@@ -1,7 +1,7 @@
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Date | Late [[Age of Spirits]]|
 > Period | [[Age of Spirits]] |

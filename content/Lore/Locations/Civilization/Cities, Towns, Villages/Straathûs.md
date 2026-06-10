@@ -4,23 +4,23 @@
 > #### Straathûs
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | Temperate Coastal |
 > Size | Large |
 > Region | [[Ardalidin Region]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type |[[the Kaupangsborg]] |
 > Ruler | |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races | Primarily [[Tankedyr]], large population of [[Elves]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports |  |
 > Imports |  |
@@ -59,7 +59,7 @@ Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ar
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -79,7 +79,7 @@ Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ar
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

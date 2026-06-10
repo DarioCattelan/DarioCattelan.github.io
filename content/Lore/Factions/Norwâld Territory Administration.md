@@ -16,7 +16,7 @@ tags:
 ![[Norwald Hierarchy.png|hsmall]]
 > [!infobox|right wikipedia]
 > ##### Faction
->  Type | Stat |
+>  &nbsp; | &nbsp; |
 > -|---|
 > Type | Outdoorsmen, scouts, rangers |
 > Military Role | Infantry, Logistics, Reconnaissance, Strategic, Support, Trade |

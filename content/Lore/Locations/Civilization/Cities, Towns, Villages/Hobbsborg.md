@@ -38,7 +38,7 @@ During [[Mothers' Heresy]], Roadbjur was conquered by the [[Three People's Army]
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -58,7 +58,7 @@ During [[Mothers' Heresy]], Roadbjur was conquered by the [[Three People's Army]
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |

@@ -1,6 +1,6 @@
 
 > [!infobox | right wikipedia]
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > When | Early [[Age of the Elders]], ~ 1820 [[Era of the Five \| ES]] |
 > Period | [[Age of the Elders]] |

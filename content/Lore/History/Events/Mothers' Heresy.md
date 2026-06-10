@@ -8,7 +8,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### Event Details
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | 187 [[Era of the Five \| EF]] |
 > To | 209 [[Era of the Five \| EF]] |

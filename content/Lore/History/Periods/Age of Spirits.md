@@ -9,7 +9,7 @@ tags:
 
 > [!infobox | right wikipedia]
 > #### The Age of Spirirts
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > From | ~1200 [[Era of the Five \| ES]] |
 > To | ~800 [[Era of the Five\|ES]] |

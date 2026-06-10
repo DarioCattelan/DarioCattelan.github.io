@@ -8,23 +8,23 @@ tags:
 > #### City Name
 > map placeholder
 > ###### Geography
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Type | City  |
 > Size |  |
 > Region | [[Ardalidin Region]] |
 > ###### Politics
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Govt Type | Republican Senate |
 > Ruler | [[Tide Praetor]] (commands the large naval population) |
 > ###### Society
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Population |  |
 > Races | [[Elves\|Elf]] |
 > ###### Commerce
-> Type |  Stat |
+> &nbsp; | &nbsp; |
 > ---|---|
 > Exports | Naval power |
 > Imports |  |
@@ -65,7 +65,7 @@ Abu Khasus saw a boom in population following [[Mothers' Heresy]], when refugees
 
 
 # Politics
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 |---|---|
 |Govt Type | |
 |Ruler | |
@@ -85,7 +85,7 @@ Abu Khasus saw a boom in population following [[Mothers' Heresy]], when refugees
 | Guilds & Groups |      |
 
 # Commerce
-|Type |  Stat |
+|&nbsp; | &nbsp; |
 | ---|---|
 |Exports |  |
 |Imports |  |
