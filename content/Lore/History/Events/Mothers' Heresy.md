@@ -10,16 +10,23 @@ tags:
 > #### Event Details
 > Type |  Stat |
 > ---|---|
-> From | 184 [[Era of the Five \| EF]] |
-> To | 200 [[Era of the Five \| EF]] |
+> From | 187 [[Era of the Five \| EF]] |
+> To | 209 [[Era of the Five \| EF]] |
 > Period | [[Age of the Five]] |
 # Overview
 Mothers' Heresy was a series of overlapping wars waged by the [[Orlins]]  to enforce civil rights and liberties to the [[Halflings]] by providing them their own territory.
 
 # Instigating Factors
 ## Edict of Axiomatic Equality
-Following  [[Grastus the Free]]'s [[Orlins#The Enlightenment of Axiomatic Equality|Enlightenment of Axiomatic Equality]], the Orlin underwent a civil war which resulted in the Orlin adopting a religious imperative for the personal liberty of all [[axiomatic mortals]]. Failing to persuade the neighbouring [[Dwarves]] and [[Elves]] to release their portion of the ancestral lands of the [[Halflings]], and provide freedom of movement to their national populations, the Orlin invaded.
+*See the [[Edict of Axiomatic Equality]]*
+Following  [[Grastus the Free]]'s [[Edict of Axiomatic Equality]], the Orlin underwent a civil war which resulted in the Orlin adopting a religious imperative for the personal liberty of all [[axiomatic mortals]]. 
 
+## The Orlin Civil War
+*See [[The Orlin Civil War]].*
+Unwilling to dismantle the caste system which maintained their power, the ruling [[Ahltsuki]] tribe of the Orlin attempted to exile and execute Grastus and the rest of the priest in the Mogbuji tribe by forcing them to walk across Kaloshen bearing a cloak of hooked chains. This backfired horrifically, as the faithful Tsagaani tribe liberated Grastus and his kin before they could be killed, leading to the death of the Khan [[Budan Ahltsuki Khan]]. Three years of civil war followed, with a decisive and one sided victory for Grastus' [[Three People's Army]].
+
+## Raids of the Zerlogi Tribes
+Following the end of the Orlin Civil War, the Zerlogi tribe began raiding the lands of [[Old Netham]], demanding the freedom of the [[Halflings]] serfs working for the ruling Dwarves and Elves. Failing to persuade their neighbors to release their portion of the ancestral lands of the [[Halflings]], and provide freedom of movement to their national populations, the Orlin invaded.
 # Several Notable Battles
 there were several notable battles
 

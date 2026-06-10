@@ -2,6 +2,8 @@
 tags:
   - City
   - Location
+aliases:
+  - Ahltsuger
 ---
 > [!infobox | right wikipedia]
 > #### Cholobataar
@@ -32,7 +34,7 @@ tags:
 # History
 
 ## Etymology
-Cholobataar was originally named Fartukger after the [[Fartuk Bloodline]], but was renamed Cholobataar (literally "Freedom Hero" in [[Common]]) after [[Grastus the Free]] following [[Mothers' Heresy]].
+Cholobataar was originally named Ahltsuger after the [[Ahltsuki]], but was renamed Cholobataar (literally "Freedom Hero" in [[Common]]) after [[Grastus the Free]] following [[Mothers' Heresy]].
 
 # Tone & First Impression
 

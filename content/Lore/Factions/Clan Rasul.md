@@ -1,5 +1,10 @@
-
-
+---
+tags:
+  - Faction
+  - Elf
+  - Herald
+  - Tribe
+---
 > [!infobox|right wikipedia]
 > ##### Family 
 > Type | Stat |
@@ -68,7 +73,3 @@ The Rasul Clan claim to be the descendants of [[Ciran and Relor]], and thus the 
 | Taboos / Avoidances   |             |
 
 ## Additional Details
-
-
-
-#Faction #Family #Elf #Herald 

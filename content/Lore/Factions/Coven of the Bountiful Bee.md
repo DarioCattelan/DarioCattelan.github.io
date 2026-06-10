@@ -14,7 +14,7 @@ tags:
 > -|---|
 > Mission | Ensure the safe use of alchemy and protect [[Spirits]] involved in alchemical processes |
 > Spiritual Domains | Bee [[Spirits#Zuhachi\|Zuhachi]], Flower [[Spirits#Leshi\|Leshi]], [[Spirits#Chiri\|Chiri]] of places where alchemical ingredients are abundant or powerful |
-> Associated Great Spirits | [[Jobachi]] |
+> Associated Great Spirits | [[Jobachi\|Chikara Zobachi Zuhachi]] |
 >---
 > __  | __  |
 > -|---|

@@ -1,3 +1,3 @@
 Primeval bloodlines are hereditary bloodlines that can pass down innate magical powers from parent to child.
 
-#Family 
+#Tribe 

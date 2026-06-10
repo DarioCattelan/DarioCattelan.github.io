@@ -31,6 +31,8 @@ The Age of Orlin is a legendary period when [[Orthal The Mother]] demanded the u
 
 
 # Key Events
+- [[Unitas Speluncarum]]: The Orlin hero [[Khaik Uhnokhii]] leads their tribe to the [[Uul Mountains]] in search of a prophesized race of great leaders, discovering the [[Bauyokhani]]. [[Orthal The Mother]] crowns the tribe the Khans of the [[Orlins|The Three-fold People]].
 - [[Orlins]] and [[Tallmen]] invade the elven capital of [[Bubasta]]
 - [[Orisin]] and [[Jobachi]] die protecting [[placeholder for famous statue orisin defended]]
 - The [[Coven of the Wobbly Witch]] switch to money lending and mercenary work, eventually owning huge debts from all [[The Fundamentals]]
+- The [[Bauyokhani]] tribe undergoes a schism of succession, splitting the [[Bauyokhan Empire]] into several hostile nation states
