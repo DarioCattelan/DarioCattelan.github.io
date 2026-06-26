@@ -29,12 +29,13 @@ tags:
 
 
 ## Key Figures
-
-
-
+- [[Grastus the Free]]
+- [[The Nomad]]
+- [[Lady Belladonna]]
 # Key Events
-- [[The Wæl#Memorum Obscura|The Memorum Obscura]] takes effect, ultimately erasing all definitive history before this age
-- [[Grastus the Free]] becomes Herald of [[Orthal The Mother]] and throws down the Orllin caste system prompting a civil war called [[The Orlin Civil War]] 
-- Following the Civil War, the Orlin continue their goal of world wide freedom in [[Mothers' Heresy]], a conflict between the [[Orlins|Orlin]] and [[Halflings]] against the [[Elves]], [[Dwarves]], [[Tankedyr]], and [[Fey Folk]]. [[the Kaupangsborg|The Kaupangsborg]] are divided, with some city states selling arms to both sides
+- [[The Wæl]] occurs, destroying [[Old Netham]] and trapping [[The Nomad]] in [[the Warrens]]
+- [[The Memorum Obscura]] takes effect, ultimately erasing all definitive history before this age
+- [[The Orlin Civil War]] begins when [[Grastus the Free]] becomes Herald of [[Orthal The Mother]] and throws down the Orlin caste system
+- [[Mothers' Heresy]], a conflict between the [[Orlins|Orlin]] and [[Halflings]] against the [[Elves]], [[Dwarves]], [[Tankedyr]], and [[Fey Folk]], begins as the Orlin continue their goal of world wide freedom following the civil war
 - [[Mothers' Heresy]] ends with [[The Freewalk Accords]] and the refounding of [[Netham]]
 - [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]
