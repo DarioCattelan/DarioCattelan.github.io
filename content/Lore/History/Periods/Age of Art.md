@@ -32,4 +32,6 @@ The Age of Art was a subperiod that spanned the end of the [[Age of Orlin]] and 
 
 
 # Key Events
+- 311 EF: [[Candescent Sand]] is discovered in the [[Budsan Desert]]
 - [[Kuldrus Hagrutha]] discovers the art of [[Alchemy#Chemical Alchemy|Chemical Alchemy]] and adds the process to [[Thastus' Innovative Method]]
+- 283 EF: [[Torsten Torstensson]] founds [[Straathûs]] in the [[Ardalidin Region]]

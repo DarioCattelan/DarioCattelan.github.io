@@ -35,7 +35,12 @@ tags:
 # Key Events
 - [[The Wæl]] occurs, destroying [[Old Netham]] and trapping [[The Nomad]] in [[the Warrens]]
 - [[The Memorum Obscura]] takes effect, ultimately erasing all definitive history before this age
-- [[The Orlin Civil War]] begins when [[Grastus the Free]] becomes Herald of [[Orthal The Mother]] and throws down the Orlin caste system
-- [[Mothers' Heresy]], a conflict between the [[Orlins|Orlin]] and [[Halflings]] against the [[Elves]], [[Dwarves]], [[Tankedyr]], and [[Fey Folk]], begins as the Orlin continue their goal of world wide freedom following the civil war
-- [[Mothers' Heresy]] ends with [[The Freewalk Accords]] and the refounding of [[Netham]]
-- [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]
+- ~10 EF [[Hobbsborg|Roadbjur]] and [[Rasteplads]] form a military alliance
+- 89 EF: [[Reith Habass Rasul]] seizes [[Straathûs]] in a naval assault
+- 94 EF [[Karavanskali]] joins the alliance with [[Rasteplads]] and [[Hobbsborg|Roadbjur]], forming [[the Kaupangsborg]]
+- 184 EF [[The Orlin Civil War]] begins when [[Grastus the Free]] becomes Herald of [[Orthal The Mother]] and throws down the Orlin caste system
+- 187 EF [[Mothers' Heresy]], a conflict between the [[Orlins|Orlin]] and [[Halflings]] against the [[Elves]], [[Dwarves]], [[Tankedyr]], and [[Fey Folk]], begins as the Orlin continue their goal of world wide freedom following the civil war
+- 193 EF [[Straathûs]] is purchased from the [[Elven Republic]] by the Merchant Prince [[Jorunn Sokkoldottir]] and joins [[the Kaupangsborg]]
+- 209 EF [[Mothers' Heresy]] ends with [[The Freewalk Accords]] and the refounding of [[Netham]]
+- 210 EF [[Goadheimr]] joins [[the Kaupangsborg]], officially recognizing its statehood. The rest of the modern city states soon follow.
+- 261 EF [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]

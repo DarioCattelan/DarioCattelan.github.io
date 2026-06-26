@@ -35,4 +35,5 @@ The Age of Orlin is a legendary period when [[Orthal The Mother]] demanded the u
 - [[Orlins]] and [[Tallmen]] invade the elven capital of [[Bubasta]]
 - [[Orisin]] and [[Jobachi]] die protecting [[placeholder for famous statue orisin defended]]
 - The [[Coven of the Wobbly Witch]] switch to money lending and mercenary work, eventually owning huge debts from all [[The Fundamentals]]
+- 283 EF: [[Torsten Torstensson]] founds [[Straathûs]] in the [[Ardalidin Region]]
 - The [[Bauyokhani]] tribe undergoes a schism of succession, splitting the [[Bauyokhan Empire]] into several hostile nation states

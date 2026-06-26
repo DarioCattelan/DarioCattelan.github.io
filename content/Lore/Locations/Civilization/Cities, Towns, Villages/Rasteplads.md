@@ -1,3 +1,12 @@
+---
+tags:
+  - Location
+  - City
+  - Tankedyr
+  - Kaupangsborg
+aliases:
+  - The City of Guilds
+---
 
 Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at the southern end of the [[Orken Pass]], and is an important stop for trade routes between the North and South of [[Kaloshen]].
 
@@ -25,9 +34,9 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 
 ## Landmarks
 
-| Name | Description | Keepers |
-| ---- | ----------- | ------- |
-|      |             |         |
+| Name                                               | Description | Keepers |
+| -------------------------------------------------- | ----------- | ------- |
+| Headquarters of the [[Coven of the Bountiful Bee]] |             |         |
 
 
 # Politics
@@ -55,5 +64,3 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 | ---|---|
 |Exports |  |
 |Imports |  |
-
-#City #Location #Tankedyr #Kaupangsborg

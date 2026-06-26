@@ -6,23 +6,23 @@ tags:
 
 > [!infobox|right wikipedia]
 > ##### Faction
-> __  | __  |
+> &nbsp;  | &nbsp;  |
 > -|---|
 >Type | [[Witches Coven]] |
 >---
-> __  |  __ |
+> &nbsp;  |  &nbsp; |
 > -|---|
 > Mission | Ensure the safe use of alchemy and protect [[Spirits]] involved in alchemical processes |
 > Spiritual Domains | Bee [[Spirits#Zuhachi\|Zuhachi]], Flower [[Spirits#Leshi\|Leshi]], [[Spirits#Chiri\|Chiri]] of places where alchemical ingredients are abundant or powerful |
 > Associated Great Spirits | [[Jobachi\|Chikara Zobachi Zuhachi]] |
 >---
-> __  | __  |
+> &nbsp;  | &nbsp;  |
 > -|---|
 >Founded | 485 [[Era of the Five\|EF]] [[Age of Orlin]] |
 >Founder | [[Orisin]] |
 >Iconography | A honeycomb |
 >---
-> __  |  __ |
+> &nbsp;  |  &nbsp; |
 > -|---|
 >Headquarters | [[Rasteplads]] |
 >Regions Active | [[the Kaupangsborg]], [[Almam Steppe]], [[Orlin Plains]] |

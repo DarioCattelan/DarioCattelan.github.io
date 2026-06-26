@@ -1,3 +1,8 @@
+---
+tags:
+  - Faction
+  - Military
+---
 
 > [!infobox|right wikipedia]
 > ##### Faction
@@ -42,5 +47,3 @@ Placeholder
 # Additional Details
 
 Placeholder
-
-#Faction #Military

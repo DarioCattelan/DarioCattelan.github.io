@@ -34,4 +34,5 @@ tags:
 
 # Key Events
 - 211 EF: The [[Coven of the Wobbly Witch]] is forcibly disbanded
-- [[the Kaupangsborg]] rise to power
+- 206 EF: Merchant Princes rise to power in [[Audland]]
+- 118 ES: [[Orlins|Orlin]] mercenaries turn on the Merchant Princes of [[Straathûs]], seizing the city for themselves

@@ -1,3 +1,11 @@
+---
+tags:
+  - City
+  - Location
+  - Halfling
+aliases:
+  - Roadbjur
+---
 
 Hobbsborg is the largest city in [[Netham]], and sits at the edge of the [[Orken Pass]]. 
 
@@ -62,5 +70,3 @@ During [[Mothers' Heresy]], Roadbjur was conquered by the [[Three People's Army]
 | ---|---|
 |Exports |  |
 |Imports |  |
-
-#City #Location #Halfling 
