@@ -10,7 +10,7 @@ aliases:
 
 > [!infobox | right wikipedia]
 > #### Norwâld Reserve
-> ![[Norwâld Reserve 265 EF.jpg|hsmall]]
+> ![[Norwâld Reserve 218 EF.jpg|hsmall]]
 > ###### Geography
 > &nbsp; | &nbsp; |
 > ---|---|

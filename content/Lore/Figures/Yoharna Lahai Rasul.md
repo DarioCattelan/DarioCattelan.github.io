@@ -30,11 +30,9 @@ Yoharna Lahai Rasul is an elder member of [[Clan Rasul]]. Like all members of th
 
 # Heraldic Duties and Powers
 Legends of Yoharna appear in many cultures across [[Kaloshen]] as a bringer of great (and sometimes terrible) fate. She is frequently depicted as appearing before momentous battles, political upheavals, or cataclysmic disasters bestowing daunting quests or impossible tasks. She is often accompanied by the [[Hevlon Ibara Rasul|Herald of Disaster]] and the [[Aramia Miska Rasul|Herald of Spring]].
-
-Most famously, Yoharna and the [[Ithun Amarus Rasul|Herald of Politics]] are depicted as having appeared before [[Grastus the Free]] in the days prior to their appointment as [[Heralds|Herald]] of [[Orthal The Mother]] in the epic poem  *[[The Cry of the Sacred Sparrow]]*. Some more superstitious folk of [[Kaloshen]] lay partial blame on her for inciting [[Mothers' Heresy]], though no historically accurate record of her involvement exists.
 # Biography
-## Early Life
 
-## Adulthood
-
-## Later Life
+## The Orlin Civil War
+Famously, Yoharna and the [[Ithun Amarus Rasul|Herald of Politics]] are depicted as having appeared before [[Grastus the Free]] in the days prior to their appointment as [[Heralds|Herald]] of [[Orthal The Mother]] in the epic poem  *[[The Cry of the Sacred Sparrow]]*. Some more superstitious folk of [[Kaloshen]] lay partial blame on her for inciting [[The Orlin Civil War]] and the subsequent [[Mothers' Heresy]], though no historically accurate record of her involvement exists.
+## Mother's Heresy
+Yoharna Lahai led the Elven ground forces in the defense of the [[Ardalidin Region]] during [[Mothers' Heresy]]. Though by all accounts Yoharna was a skilled and competent commander, she none the less was unable to defeat [[Grastus the Free]] in any large scale battle. After Grastus' disappearance at the [[Mothers' Heresy#The Siege of Rasteplads|Siege of Rasteplads]], Yoharna won a key victory in [[Mothers' Heresy#The Battle of Abu Khasus|The Battle of Abu Khasus]], crushing the momentum of the Orlin advance, and directly leading to the end of the war in the North.

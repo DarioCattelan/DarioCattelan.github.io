@@ -14,7 +14,7 @@ tags:
 > &nbsp; | &nbsp; |
 > ---|---|
 > From | 1 [[Era of the Five \| EF]] |
-> To |  Present |
+> To |  Present (229 [[Era of the Five\|EF]]) |
 > Preceding Period | [[Age of the Pillar]] |
 > Alternate Names | Modern Age, Age of the Diaspora |
 
@@ -43,4 +43,5 @@ tags:
 - 193 EF [[Straathûs]] is purchased from the [[Elven Republic]] by the Merchant Prince [[Jorunn Sokkoldottir]] and joins [[the Kaupangsborg]]
 - 209 EF [[Mothers' Heresy]] ends with [[The Freewalk Accords]] and the refounding of [[Netham]]
 - 210 EF [[Goadheimr]] joins [[the Kaupangsborg]], officially recognizing its statehood. The rest of the modern city states soon follow.
-- 261 EF [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]
+- 219 EF  [[The Norwâld Contract]] is signed establishing [[Norwâld|the Norwâld Reserve]]
+- 223 EF [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]

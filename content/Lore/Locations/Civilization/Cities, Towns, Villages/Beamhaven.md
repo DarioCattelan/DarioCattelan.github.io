@@ -8,7 +8,7 @@
 > ---|---|
 > Type | Outpost |
 > Size | Tiny |
-> Region | [[Nordwâld]] |
+> Region | [[Norwâld]] |
 > ###### Politics
 > &nbsp; | &nbsp; |
 > ---|---|

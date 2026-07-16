@@ -19,7 +19,7 @@ Mothers' Heresy was a series of overlapping wars waged by the [[Orlins]]  to enf
 # Instigating Factors
 ## Edict of Axiomatic Equality
 *See the [[Edict of Axiomatic Equality]]*
-Following  [[Grastus the Free]]'s [[Edict of Axiomatic Equality]], the Orlin underwent a civil war which resulted in the Orlin adopting a religious imperative for the personal liberty of all [[axiomatic mortals]]. 
+Following  [[Grastus the Free]]'s [[Edict of Axiomatic Equality]], the Orlin underwent [[The Orlin Civil War]] which resulted in the Orlin adopting a religious imperative for the personal liberty of all [[axiomatic mortals]]. 
 
 ## The Orlin Civil War
 *See [[The Orlin Civil War]].*
@@ -36,6 +36,12 @@ During Mothers' Heresy, the [[Orlins|Orlin]] army systematically burned numerous
 ## The Battle of the Pass
 The Battle of the Pass was a conflict between [[the Kaupangsborg]] City State of [[Hobbsborg|Roadbjur]] and the [[Three People's Army]] in [[Orken Pass]]. It resulted in an Orlin victory, with the annexation of Roadbjur. It was a major defeat for [[the Kaupangsborg]], and choaked off trade between [[Audland]] and [[Elves|The Eleven Republic]].
 
+## The Siege of [[Rasteplads]]
+Following the Battle of the Pass, the Orlin Northern Horde of the [[Three People's Army]] led by Grastus travelled south through the newly opened Pass to meet with the Southern Horde at the Tankedyr city of  [[Rasteplads]]. Met by a combined coalition of [[Dwarves|Dwarf]], [[Tankedyr]], as well as the rest of the [[Elves]] and [[Fey Folk]] routed from the [[Orken Pass]], the two armies clashed in what would be one of the wars most critical battles. The siege was long and arduous, reaching a critical point when the Orlin breached the northern walls. Grastus the Free led the initial assault into the city, but miraculously the combined forces of Rasteplads managed to rebuff the attack and close the gap. Grastus never returned from beyond the cities walls, and the siege was eventually lifted by the arrival of reinforcements from [[Audland]]. The body of Grastus the Free was never recovered.
+
+## The Battle of Abu Khasus
+Still reeling from their defeat and loss of Grastus the Free at the Siege of Rasteplads, the [[Three People's Army]] marched back into the [[Ardalidin Region]], travelling West to meet the forces of the [[Elven Republic]] in the forest and hills outside [[Abu Khasus]]. Seriously outnumbered by the Orlin Horde, the Elven forces led by the [[Yoharna Lahai Rasul|Herald of Heroes]] used their familiarity with the region to outmaneuver the Orlin Horde, trapping their calvary in the bogs and swamps and driving their forces into the [[Kaiko-chiri Strait]]. Splintered and broken, the [[Three People's Army]] was forced to retreat back East, and would never regain their momentum needed to continue their invasion of the North.
+
 # Outcomes
 ## [[The Freewalk Accords]]
-After several notable battles, the Orlins seized huge swath of territory from their adversaries, liberating thousands of Halfling. The other nations were forced into a peace agreement with the Orlin, whereupon the Orlin would return seized lands in exchange for the majority of the ancestral land of the [[Halflings]] and free passage to any Halfling who wished to return home.
+With both sides severely wounded from over 20 years of war, and with the disappearance of Grastus the Free, the conflict had reached a stalemate. Lacking the strength to retake any of their seized lands, the [[Elven Republic]], [[Dwarven Fiefs]], [[Hoshi Hall]], and the free cities of [[Rasteplads]], [[Goadheimr]], and [[Karavanskali]] officially recognized Orlin possession of the seized territory in return for a cessation of hostilities. The combined people's of Kaloshen were shocked when the Orlin gifted the land back to the empire of [[Netham]], and refused permanent peace without the agreement of emancipation of the [[Halflings|Halfling]] serfs. Ultimately agreeing to the exchange, [[The Freewalk Accords]] were signed, formally ending the Heresy.

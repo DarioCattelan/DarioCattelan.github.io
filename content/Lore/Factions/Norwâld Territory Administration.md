@@ -27,7 +27,7 @@ tags:
 > Iconography | Trees, Bows, Blades, Bear Pawprint |
 [[Norwald Hierarchy.png\|Full Quality Norwâld Hierarchy]]
 
-The Norwâld Territory Administration (NTA) is a guild of rangers and scouts who administrate the [[Norwâld |Norwald Reserve]] . The NTA was established in the year (TBD) by [[The Norwâld Contract]] between the [[Elven Republic]] and the Merchant Council of [[Straathûs]] which dictates the rules and regulations by which the guild operates.
+The Norwâld Territory Administration (NTA) is a guild of rangers and scouts who administrate the [[Norwâld |Norwald Reserve]] . The NTA was established in the year 218 [[Era of the Five|EF]] by [[The Norwâld Contract]] between the [[Elven Republic]] and the Merchant Council of [[Straathûs]] which dictates the rules and regulations by which the guild operates.
 
 The Norwâld Territory Administration serves to monitor and intercept poachers, enforce the political borders of the [[Norwâld]] contract, prevent ecocide, monitor for natural disasters and corrupt [[spirits]], monitor and deter encroachment of foreign powers from the [[Almam Steppe]], and protect and collect tariffs from travellers and traders passing through the reserve.
 

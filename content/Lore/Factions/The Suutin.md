@@ -24,4 +24,4 @@ The Suutin is the catchall name for the sedentary [[Orlins|Orlin]] tribes that p
 | Ahltsuki           | Treasured Blood     | Killed during [[Mothers' Heresy]]. Children were absorbed into the Mogbuji tribe. |
 
 # Unification with the Olon
-Prior to [[Mothers' Heresy]], [[The Olon]] and the Suutin were a segregated people within different Links of [[The Ordning]]. In the 70 years since the Heresy, the Orlin Council of Unity has proffered decades of social programs to integrate the Olon into the permanent hives of the Suutin.
+Prior to [[The Orlin Civil War]], [[The Olon]] and the Suutin were a segregated people within different Links of [[The Ordning]]. In the 40 years since the war, the Orlin Council of Unity has proffered decades of social programs to integrate the Olon into the permanent hives of the Suutin.

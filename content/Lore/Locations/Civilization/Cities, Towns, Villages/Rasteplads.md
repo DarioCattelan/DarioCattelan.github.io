@@ -7,8 +7,35 @@ tags:
 aliases:
   - The City of Guilds
 ---
+> [!infobox | right wikipedia]
+> #### City Name
+> map placeholder
+> ###### Geography
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Type |  |
+> Size |  |
+> Region |  |
+> ###### Politics
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Govt Type | |
+> Ruler | |
+> ###### Society
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Population |  |
+> Races |  |
+> ###### Commerce
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Exports |  |
+> Imports |  |
 
+# Overview
 Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at the southern end of the [[Orken Pass]], and is an important stop for trade routes between the North and South of [[Kaloshen]].
+# History
+
 
 # Tone & First Impression
 
@@ -34,17 +61,17 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 
 ## Landmarks
 
-| Name                                               | Description | Keepers |
-| -------------------------------------------------- | ----------- | ------- |
-| Headquarters of the [[Coven of the Bountiful Bee]] |             |         |
+| Name | Description | Keepers |
+| ---- | ----------- | ------- |
+|      |             |         |
 
 
 # Politics
-|&nbsp; | &nbsp; |
-|---|---|
-|Govt Type | |
-|Ruler | |
-|Defense |  |
+| &nbsp;    | &nbsp; |
+| --------- | ------ |
+| Govt Type |        |
+| Ruler     |        |
+| Defense   |        |
 
 ## Demographics
 
@@ -60,7 +87,7 @@ Rasteplads is a [[Tankedyr]] city and member of [[the Kaupangsborg]]. It sits at
 | Guilds & Groups |      |
 
 # Commerce
-|&nbsp; | &nbsp; |
-| ---|---|
-|Exports |  |
-|Imports |  |
+| &nbsp;  | &nbsp; |
+| ------- | ------ |
+| Exports |        |
+| Imports |        |
