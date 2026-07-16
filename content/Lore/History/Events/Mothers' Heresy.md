@@ -13,6 +13,16 @@ tags:
 > From | 187 [[Era of the Five \| EF]] |
 > To | 209 [[Era of the Five \| EF]] |
 > Period | [[Age of the Five]] |
+> Alternate Names | The Second Orlin War |
+> #### Belligerents
+> &nbsp; | &nbsp; |
+> ---|---|
+> [[Three People's Army]] | [[Chirian League]], [[Godsway Trade Alliance]] |
+>#### Commanders and Leaders
+> &nbsp; | &nbsp; |
+> ---|---|
+> [[Orthal The Mother]], [[Herald of Equality]], [[Herald of Liberty]] | [[Elenwe The Farmer]], [[Reith Habass Rasul\|Herald of Tides]], [[Yoharna Lahai Rasul\|Herald of Heroes]], [[Dwemeran The Collector]], [[Dwemer Falakhe]], [[Titania The Muse]], [[Oberron Montoire]] |
+
 # Overview
 Mothers' Heresy was a series of overlapping wars waged by the [[Orlins]]  to enforce civil rights and liberties to the [[Halflings]] by providing them their own territory.
 
@@ -34,14 +44,14 @@ there were several notable battles
 During Mothers' Heresy, the [[Orlins|Orlin]] army systematically burned numerous ancient woodlands as a strike against the [[Fey Folk]] and their [[The Fundamentals|Fundamental]] [[Titania The Muse]]. This act, more than any other during the war, wreaked havoc on the [[Spirits]] of [[Kaloshen]] and forced the [[Fey Folk]] to capitulate to Orlin demands.
 
 ## The Battle of the Pass
-The Battle of the Pass was a conflict between [[the Kaupangsborg]] City State of [[Hobbsborg|Roadbjur]] and the [[Three People's Army]] in [[Orken Pass]]. It resulted in an Orlin victory, with the annexation of Roadbjur. It was a major defeat for [[the Kaupangsborg]], and choaked off trade between [[Audland]] and [[Elves|The Eleven Republic]].
+The Battle of the Pass was a conflict between the [[Chirian League]] the [[Three People's Army]] in [[Orken Pass]]. It resulted in an Orlin victory, with the annexation of Roadbjur. It was a major defeat for the [[Chirian League]], separating the allied forces of the [[Godsway Trade Alliance]] from the League, and trapping a portion of its army in the southern portion of the Pass.
 
 ## The Siege of [[Rasteplads]]
-Following the Battle of the Pass, the Orlin Northern Horde of the [[Three People's Army]] led by Grastus travelled south through the newly opened Pass to meet with the Southern Horde at the Tankedyr city of  [[Rasteplads]]. Met by a combined coalition of [[Dwarves|Dwarf]], [[Tankedyr]], as well as the rest of the [[Elves]] and [[Fey Folk]] routed from the [[Orken Pass]], the two armies clashed in what would be one of the wars most critical battles. The siege was long and arduous, reaching a critical point when the Orlin breached the northern walls. Grastus the Free led the initial assault into the city, but miraculously the combined forces of Rasteplads managed to rebuff the attack and close the gap. Grastus never returned from beyond the cities walls, and the siege was eventually lifted by the arrival of reinforcements from [[Audland]]. The body of Grastus the Free was never recovered.
+Following the Battle of the Pass, the Orlin Northern Horde of the [[Three People's Army]] led by Grastus travelled south through the newly opened Pass to meet with the Southern Horde at the Tankedyr city of  [[Rasteplads]]. Met by a combined forces of the [[Godsway Trade Alliance]], as well as the rest of the [[Chirian League]] routed from the [[Orken Pass]], the two armies clashed in what would be one of the wars most critical battles. The siege was long and arduous, reaching a critical point when the Orlin breached the northern walls. Grastus the Free led the initial assault into the city, but miraculously the combined forces of Rasteplads managed to rebuff the attack and close the gap. Grastus never returned from beyond the cities walls, and the siege was eventually lifted by the arrival of reinforcements from [[Audland]]. The body of Grastus the Free was never recovered.
 
 ## The Battle of Abu Khasus
 Still reeling from their defeat and loss of Grastus the Free at the Siege of Rasteplads, the [[Three People's Army]] marched back into the [[Ardalidin Region]], travelling West to meet the forces of the [[Elven Republic]] in the forest and hills outside [[Abu Khasus]]. Seriously outnumbered by the Orlin Horde, the Elven forces led by the [[Yoharna Lahai Rasul|Herald of Heroes]] used their familiarity with the region to outmaneuver the Orlin Horde, trapping their calvary in the bogs and swamps and driving their forces into the [[Kaiko-chiri Strait]]. Splintered and broken, the [[Three People's Army]] was forced to retreat back East, and would never regain their momentum needed to continue their invasion of the North.
 
 # Outcomes
 ## [[The Freewalk Accords]]
-With both sides severely wounded from over 20 years of war, and with the disappearance of Grastus the Free, the conflict had reached a stalemate. Lacking the strength to retake any of their seized lands, the [[Elven Republic]], [[Dwarven Fiefs]], [[Hoshi Hall]], and the free cities of [[Rasteplads]], [[Goadheimr]], and [[Karavanskali]] officially recognized Orlin possession of the seized territory in return for a cessation of hostilities. The combined people's of Kaloshen were shocked when the Orlin gifted the land back to the empire of [[Netham]], and refused permanent peace without the agreement of emancipation of the [[Halflings|Halfling]] serfs. Ultimately agreeing to the exchange, [[The Freewalk Accords]] were signed, formally ending the Heresy.
+With both sides severely wounded from over 20 years of war, and with the disappearance of Grastus the Free, the conflict had reached a stalemate. Lacking the strength to retake any of their seized lands, the [[Elven Republic]], [[Dwarven Fiefs]], [[Hoshi Hall]], and the free cities of [[Rasteplads]], [[Straathûs]], [[Goadheimr]], and [[Karavanskali]] officially recognized Orlin possession of the seized territory in return for a cessation of hostilities. The combined people's of Kaloshen were shocked when the Orlin gifted the land back to the empire of [[Netham]], and refused permanent peace without the agreement of emancipation of the [[Halflings|Halfling]] serfs. Ultimately agreeing to the exchange, [[The Freewalk Accords]] were signed, formally ending the Heresy.

@@ -1,5 +1,5 @@
 
-The Orken Pass is a region between the [[Dwarves#Dwemer rule and fiefs|Dwarven fiefs]] of [[Scanruil Cruin]] and [[Dall Cruin]]. It is an important trade route, connecting the [[Elven Republic]] in the North to [[Audland]] and the [[The Orlin Communes]] and [[Audland]] in the South. Two cities stand at either end of the pass, [[Hobbsborg]] at the Northern end of the pass, and [[Rasteplads]] at the southern end.
+The Orken Pass is a region between the [[Dwarves#Dwemer rule and fiefs|Dwarven fiefs]] of [[Ukbea]] and [[Sum Siebea]]. It is an important trade route, connecting the [[Elven Republic]] in the North to [[Audland]] and the [[The Orlin Communes]] and [[Audland]] in the South. Two cities stand at either end of the pass, [[Hobbsborg]] at the Northern end of the pass, and [[Rasteplads]] at the southern end.
 
 # Dominant Terrain
 

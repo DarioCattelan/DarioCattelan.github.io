@@ -30,7 +30,7 @@
 
 
 # Overview
-The Ardalidin (arr-DA-lee-deen) Region is a temperate, Mediterranean region in the North West of [[Kaloshen]] between the [[Scanruil Cruin]] and the [[Jabal Mountains]]. It is the homeland of [[Elves]] and the location of the [[Elven Republic]].
+The Ardalidin (arr-DA-lee-deen) Region is a temperate, Mediterranean region in the North West of [[Kaloshen]] between the [[Ukbea]] and the [[Jabal Mountains]]. It is the homeland of [[Elves]] and the location of the [[Elven Republic]].
 
 
 # History

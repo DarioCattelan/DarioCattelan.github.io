@@ -24,7 +24,7 @@ aliases:
 
 
 # Overview
-Kuldrus Hagrutha was the ruler of the Dwemer [[Dall Cruin]] fief from 433 [[Era of the Five|ES]] until their death in 221 [[Era of the Five|ES]]. They are most known for their discovery of [[Alchemy#Chemical Alchemy|Chemical Alchemy]], and are dubbed the Dwemer of Alchemy.
+Kuldrus Hagrutha was the ruler of the Dwemer [[Sum Siebea]] fief from 433 [[Era of the Five|ES]] until their death in 221 [[Era of the Five|ES]]. They are most known for their discovery of [[Alchemy#Chemical Alchemy|Chemical Alchemy]], and are dubbed the Dwemer of Alchemy.
 # Biography
 ## Early Life
 

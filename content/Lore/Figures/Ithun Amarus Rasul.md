@@ -20,7 +20,7 @@ aliases:
 > ---|---|
 > Ancestry |[[Elves\|Elf]] |
 > Status | Alive |
-> Born | 371 [[Era of the Five \| ES]] [[Age of Orlin]] (641 years old) |
+> Born | 412 [[Era of the Five \| ES]] [[Age of Orlin]] (641 years old) |
 > Gender | Man |
 > Relatives | [[Velash Bedora Rasul]] (Sister), [[Ashiel Rasul]] (Aunt) |
 > Occupation | [[Prodiji Shah]] (Herald of Politics) |

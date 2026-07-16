@@ -20,7 +20,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves\|Elf]] |
 > Status | Alive |
-> Born | 618 [[Era of the Five \| ES]],  [[Age of Witches]] (881 years old) |
+> Born | 652 [[Era of the Five \| ES]],  [[Age of Witches]] (881 years old) |
 > Gender | Woman |
 > Relatives | [[Ithun Amarus Rasul]] (Nephew), [[Velash Bedora Rasul]] (Niece), [[Hevlon Ibara Rasul]] (Great Uncle) |
 > Occupation | [[Prodiji Shah]] (Herald of the Moon) |

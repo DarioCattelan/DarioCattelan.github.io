@@ -21,7 +21,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive |
-> Born | 649 [[Era of the Five \| ES]],  [[Age of Witches]] (919 years old) |
+> Born | 690 [[Era of the Five \| ES]],  [[Age of Witches]] (919 years old) |
 > Gender | Woman |
 > Relatives | [[Clan Rasul]], [[Hevlon Ibara Rasul]] (great-granduncle)|
 > Occupation | [[Prodiji Shah]] (Herald of the Harvest)|

@@ -17,8 +17,8 @@ tags:
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Deceased |
-> Born |  1138 [[Era of the Five \| ES]] [[Age of Spirits]] |
-> Died | 474 [[Era of the Five \| ES]] [[Age of Orlin]] (age 664) |
+> Born |  1179 [[Era of the Five \| ES]] [[Age of Spirits]] |
+> Died | 474 [[Era of the Five \| ES]] [[Age of Orlin]] (age 705) |
 > Gender | Woman |
 > Relatives | [[Hevlon Ibara Rasul]] (Son), [[Clan Rasul]] |
 > Occupation | [[Prodiji Shah]], Matriarch of [[Clan Rasul]], [[Elves#High Tari\|High Tari]]|

@@ -1,5 +1,5 @@
 
-The Southern Steppe is arid subtropical steppe located in the south west of [[Kaloshen]] between [[Scanruil Cruin]] and  
+The Southern Steppe is arid subtropical steppe located in the south west of [[Kaloshen]] between [[Ukbea]] and  
 
 # Dominant Terrain
 

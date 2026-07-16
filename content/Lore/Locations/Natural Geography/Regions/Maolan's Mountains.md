@@ -32,7 +32,7 @@
 
 
 # Overview
-Maolan's (MAYL-awn) Mountains is a mountain chain in the centre of [[Kaloshen]] dividing the [[Ardalidin Region]] and the [[Almam Steppe]] from the [[Southern Steppe]] and [[Orlin Plains]]. The region is divided into two [[Dwarves#Dwarven Feudalism|Fiefs]], [[Scanruil Cruin]] and [[Dall Cruin]].
+Maolan's (MAYL-awn) Mountains is a mountain chain in the centre of [[Kaloshen]] dividing the [[Ardalidin Region]] and the [[Almam Steppe]] from the [[Southern Steppe]] and [[Orlin Plains]]. The region is divided into two [[Dwarves#Dwarven Feudalism|Fiefs]], [[Ukbea]] and [[Sum Siebea]].
 
 
 # History

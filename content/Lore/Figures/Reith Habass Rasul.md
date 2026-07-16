@@ -20,7 +20,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves\|Elf]] |
 > Status | Alive |
-> Born | 358 [[Era of the Five \| ES]] [[Age of Orlin]] (628 years old) |
+> Born | 399 [[Era of the Five \| ES]] [[Age of Orlin]] (628 years old) |
 > Gender | Man |
 > Relatives | [[Hevlon Ibara Rasul]] (Father), [[Yoharna Lahai Rasul]] (First Cousin) |
 > Occupation | [[Prodiji Shah]] (Herald of Tides), [[Tide Praetor]] |

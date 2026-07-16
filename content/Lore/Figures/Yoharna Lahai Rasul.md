@@ -19,7 +19,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive |
-> Born |  476 [[Era of the Five \| ES]] [[Age of Orlin]] (746 years old) |
+> Born |  517 [[Era of the Five \| ES]] [[Age of Witches]] (746 years old) |
 > Gender | Woman |
 > Relatives | [[Hevlon Ibara Rasul]] (Uncle), [[Reith Habass Rasul]] (First Cousin), [[Aramia Miska Rasul]] (Niece) |
 > Occupation | [[Prodiji Shah]] (Herald of Heroes) |

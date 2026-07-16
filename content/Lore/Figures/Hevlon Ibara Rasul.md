@@ -22,7 +22,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves]] |
 > Status | Alive (infirm)|
-> Born | 754 [[Era of the Five \| ES]] [[Age of Witches]] (1024 years old) |
+> Born | 795 [[Era of the Five \| ES]] [[Age of Witches]] (1024 years old) |
 > Gender | Man |
 > Relatives | [[Clan Rasul]], [[Tauret Djoser Rasul]] (mother), [[Reith Habass Rasul]] (son), [[Yoharna Lahai Rasul]] (niece), [[Hasada Qesan Rasul]] (great grandniece) |
 > Occupation | [[Prodiji Shah]] (Herald of Disaster, retired)|

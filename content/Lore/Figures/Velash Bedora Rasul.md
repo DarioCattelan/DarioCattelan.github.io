@@ -20,7 +20,7 @@ aliases:
 > ---|---|
 > Ancestry | [[Elves\|Elf]]|
 > Status | Alive |
-> Born | 243 [[Era of the Five \| ES]] [[Age of Orlin]] (513 years old) |
+> Born | 284[[Era of the Five \| ES]] [[Age of Orlin]] (513 years old) |
 > Gender | Woman |
 > Relatives | [[Ithun Amarus Rasul]] (Brother), [[Ashiel Rasul]] (Aunt) |
 > Occupation | [[Prodiji Shah]] (Herald of Fashion), Artist |
