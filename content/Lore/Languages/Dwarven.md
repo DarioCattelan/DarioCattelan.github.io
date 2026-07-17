@@ -5,9 +5,9 @@ tags:
 ---
 
 
-| Pathfinder Equivalent | Real World Similarity    |
-| --------------------- | ------------------------ |
-| Dwarven               | Gaelic word inspirations |
+| Pathfinder Equivalent | Real World Similarity                     |
+| --------------------- | ----------------------------------------- |
+| Dwarven               | Swahili, Akan, and Zulu word inspirations |
 
 # Speakers
 Dwarven is the language spoken and read by Dwarves. 

@@ -50,7 +50,7 @@ The coven's exact membership is not known, but it is believed to be no more than
 | Member | Role |
 | ------ | ---- |
 |        |      |
-The Coven of the Hateful Hare's physical presence in [[Kaloshen]] is subtle and its members generally keep their presence hidden. They are known to be active in the [[Dwarven Fiefs]] of [[Maolan's Mountains]], as well as in the surrounding area of [[the Warrens]]. Their only known permanent chapterhouse is their headquarters.
+The Coven of the Hateful Hare's physical presence in [[Kaloshen]] is subtle and its members generally keep their presence hidden. They are known to be active in the [[Dwarven Fiefs]] of [[Maji's Mountains]], as well as in the surrounding area of [[the Warrens]]. Their only known permanent chapterhouse is their headquarters.
 
 ## Headquarters
 The coven's headquarters is said to be a series of expansive tunnels located somewhere in [[Hoshi Hall#The Backwoods|the Backwoods]] of [[Hoshi Hall]]. Travellers wishing to visit the headquarters often have a difficult time locating the burrow, and the [[Fey Folk#Chivalric Hierarchy|Nobility of the Fey Folk]] will sometimes undertake a journey to the coven as a quest.

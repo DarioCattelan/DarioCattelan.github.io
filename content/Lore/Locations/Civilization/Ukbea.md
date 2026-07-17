@@ -37,6 +37,6 @@ tags:
 
 
 # Overview
-Ukbea is a [[Dwarves|Dwarven]] fief located in the middle of [[Kaloshen]] and West of [[Sum Siebea]], in the western portion of [[Maolan's Mountains]].
+Ukbea is a [[Dwarves|Dwarven]] fief located in the middle of [[Kaloshen]] and West of [[Sum Siebea]], in the western portion of [[Maji's Mountains]].
 
 # History

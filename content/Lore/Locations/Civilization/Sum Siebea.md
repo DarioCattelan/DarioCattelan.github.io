@@ -40,4 +40,4 @@ tags:
 
 
 # History
-Sum Siebea is a [[Dwarves|Dwarven]] fief located in the middle of [[Kaloshen]], in the eastern portion of [[Maolan's Mountains]], and East of [[Ukbea]].
+Sum Siebea is a [[Dwarves|Dwarven]] fief located in the middle of [[Kaloshen]], in the eastern portion of [[Maji's Mountains]], and East of [[Ukbea]].
