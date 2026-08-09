@@ -37,5 +37,5 @@ Zealous and confident from their defeat of the [[Ahltsuki]], Orlin tribes began 
 Once again at war, the now 19 year old Grastus led the [[Three People's Army]] in a devastatingly effective two front push to the North and South of Logres, seizing huge portions of the [[Almam Steppe]] and [[Orlin Plains]]. Grastus' unique tactics and natural talent for logistics and millitary stratagem swept through opposing armies fielded by [[Elven Republic]], [[Hoshi Hall]], and [[Dwarven Fiefs]] to confront him in the steppe. Seeing that Grastus could not be defeated in open battle, the opposing forces retreated to their cities, hunkering down for what would be 20 years of sieges.
 
 ## Disappearance
-Grastus the Free disappeared during an assault on the city of [[Rasteplads]]. His sudden loss was a huge blow to the unity and strategic vision of the [[Three People's Army]], and quickly lead to the end of [[Mothers' Heresy]].
+Grastus the Free disappeared shortly after the battle of [[Orken Pass]] travelling with his army to [[Rasteplads]]. His sudden, unexplained loss remains a mystery to this day and was a huge blow to the unity and strategic vision of the [[Three People's Army]].
 
