@@ -35,6 +35,6 @@ tags:
 
 
 # Overview
-Aho Siebea is a [[Dwarven Fiefs|Dwarven Fief]] surrounding [[Ahodebea]] in the [[Southern Steppe]]. It is ruled by the [[Igazidrako Dynasty]].
+Aho Siebea is a [[Dwarven Fiefs|Dwarven Fief]] surrounding [[Ahodebea]] in the [[Kusisavana]]. It is ruled by the [[Igazidrako Dynasty]].
 
 # History

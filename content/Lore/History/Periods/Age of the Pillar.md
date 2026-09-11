@@ -35,7 +35,7 @@ tags:
 
 # Key Events
 - ~230 EF: A group of mages discontent with the rule of the Gods join forces, forming the [[Tumultuarii]]
-- 226 EF: [[Oberron the Carver]] discovers how to easily imbue [[Breath]]  into [[Rune Stone]], allowing creatures outside of the divine create objects enchanted with [[Arcana]]. She creates three objects of great power, [[The Quill]], [[The Chisel]], and [[The Hammer]]
+- 226 EF: [[Oberron the Carver]] discovers how to easily imbue [[Breath]]  into [[Rune Stone]], allowing creatures outside of the divine to create objects enchanted with [[Arcana]]. She creates three objects of great power, [[The Quill]], [[The Chisel]], and [[The Hammer]]
 - 211 EF: The [[Coven of the Wobbly Witch]] is forcibly disbanded
 - 206 EF: Merchant Princes rise to power in [[Audland]]
 - 204 EF: The [[Tumultuarii]] attempt to ward the city of [[Forbannoda]] from non-mortals. Unexpectedly, it pulls the fulgurite out of the [[Divine Tolls|Budsan Toll]], forming the [[Pillaneum]]

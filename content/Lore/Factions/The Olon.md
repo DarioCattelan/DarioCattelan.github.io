@@ -7,7 +7,7 @@ tags:
 aliases:
   - Olon tribe
 ---
-The Olon is the catchall name for the nomadic [[Orlins|Orlin]] tribes that populate the [[Almam Steppe]], [[Orlin Plains]], and [[Southern Steppe]]
+The Olon is the catchall name for the nomadic [[Orlins|Orlin]] tribes that populate the [[Almam Steppe]], [[Orlang]], and [[Kusisavana]]
 
 # Tribes of the Olon
 

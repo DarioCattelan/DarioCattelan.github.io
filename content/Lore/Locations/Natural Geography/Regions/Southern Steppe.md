@@ -1,30 +1,41 @@
-
-The Southern Steppe is arid subtropical steppe located in the south west of [[Kaloshen]] between [[Ukbea]] and  
-
-# Dominant Terrain
-
-
-
-# Spirits and Magic
-## Magical manifestations
+---
+tags:
+  - Location
+  - Region
+---
 
 
-## Spiritual manifestations
+> [!infobox | right wikipedia]
+> #### Region Name
+> Common translation | placeholder |
+> ---|---|
+>  map placeholder
+> ###### Geography
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Dominant Terrain | subtropical grasslands and savanna  |
+> Size |  |
+> ###### [[Spirits]] and [[Arcana]]
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Known Spirits |  |
+> Known Arcana |  |
+> ###### Politics
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Claimed by | |
+> Native people | |
+> ###### Society
+> Race |  Population |
+> ---|---|
+>  |  |
+> ###### Commerce
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Valuable resources |  |
 
 
-### Spiritual Tensions
--  
--  
+# Overview
+The Southern Steppe is a subtropical grasslands savanna located in the south of [[Kaloshen]] in the [[Maji Quaba]] region.
 
-# Everyday Life Details
-- Daily ritual:  
-- Folk wisdom that is true:  
-- Mundane task requiring supernatural cooperation:  
-
-# Political Layer
-(kingdom, clan, or race connected to this land)
-
-# Narrative Hook
-(A small emotional imbalance in a spirit subtly disrupts the region.)
-
-#Region #Location 
+# History

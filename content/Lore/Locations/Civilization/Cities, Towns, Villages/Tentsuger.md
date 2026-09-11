@@ -12,7 +12,7 @@ tags:
 > ---|---|
 > Type | City |
 > Size |  |
-> Region | [[Southern Steppe]] |
+> Region | [[Kusisavana]] |
 > ###### Politics
 > &nbsp; | &nbsp; |
 > ---|---|
@@ -30,7 +30,7 @@ tags:
 > Imports |  |
 
 # Overview
-Tentsuger (literally "Home of Equality" in [[Common]]) is a city in the Northeast of the [[Southern Steppe]]. Tentsuger was founded by the [[The Olon|Olon Mangar Tribe]] following [[Mothers' Heresy]] in contested lands claimed by [[the Kaupangsborg]] and the [[Dwarven Fiefs]]. It is the first permanent settlement founded by an [[The Olon|Olon Tribe]] since the [[Age of Orlin]].
+Tentsuger (literally "Home of Equality" in [[Common]]) is a city in the Northeast of the [[Kusisavana]]. Tentsuger was founded by the [[The Olon|Olon Mangar Tribe]] following [[Mothers' Heresy]] in contested lands claimed by [[the Kaupangsborg]] and the [[Dwarven Fiefs]]. It is the first permanent settlement founded by an [[The Olon|Olon Tribe]] since the [[Age of Orlin]].
 # History
 
 
