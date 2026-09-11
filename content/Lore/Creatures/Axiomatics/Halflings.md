@@ -108,7 +108,7 @@ Third, the solution is reviewed and amended (or rejected) by Bighollow and Hereh
 Finally, Hobbsborg will ensure all Villages were heard, propose any compromises, and reject or approve the final consensus.
 
 ### Heralds
-Halflings worship no gods and hold no Heralds, though there are legends of  [[The Blasphemer]], a Herald-like champion of [[The Nomad]] who aided the betrayer god long ago.
+Halflings worship no gods and hold no Heralds, though there are legends of  [[The Blasphemer]] and [[The Highwayman]], Heraldic champions of [[The Nomad]] who aided the betrayer god long ago.
 
 # Biology
 Oral tradition holds that  Halflings were a race of [[Humans]] long ago.

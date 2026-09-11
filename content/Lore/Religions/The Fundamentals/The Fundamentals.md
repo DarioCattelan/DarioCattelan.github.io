@@ -9,7 +9,7 @@ The Fundamentals are the corporeal Gods of Kaloshen. Each Fundamental created on
 | [[Elenwe The Farmer]]      | [[Elves]]    | [[Clan Rasul]]                                                      |
 | [[Graedor The Merchant]]   | [[Tankedyr]] | [[Tankedyr#Heralds \| Randomly occuring prophets and philosophers]] |
 | [[Orthal The Mother]]      | [[Orlins]]   | [[Orlins#Heralds \| Three Heralds of the Orlin]]                    |
-| [[The Nomad]]              | [[Humans]]   | None, once [[The Blasphemer]]                                       |
+| [[The Nomad]]              | [[Humans]]   | None, once [[The Blasphemer]] and [[The Highwayman]]                |
 | [[Titania The Muse]]       | [[Fey Folk]] | [[Fey Folk#Heralds the Oberons \| the Oberons]]                     |
 
 #Deity 
