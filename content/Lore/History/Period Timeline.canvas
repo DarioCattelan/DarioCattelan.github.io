@@ -7,7 +7,16 @@
 		{"id":"589fdf501333c759","type":"text","text":"[[Age of Gentle Waters]]","x":740,"y":-60,"width":400,"height":50,"color":"5"},
 		{"id":"882d3587c6588c4b","type":"text","text":"[[Age of Orlin]]","x":2540,"y":-60,"width":540,"height":50,"color":"2"},
 		{"id":"ee54ccb92a0eeba3","type":"text","text":"[[Age of the Pillar]]","x":3080,"y":-60,"width":460,"height":50,"color":"1"},
-		{"id":"2d5d94f44cc4646e","type":"text","text":"[[Age of the Five]]","x":3540,"y":-60,"width":460,"height":50,"color":"6"}
+		{"id":"2d5d94f44cc4646e","type":"text","text":"[[Age of the Five]]","x":3540,"y":-60,"width":460,"height":50,"color":"6"},
+		{"id":"810e099527ee02a0","type":"text","text":"1 [[Era of the Five\\|EF]]","x":3478,"y":-150,"width":125,"height":60},
+		{"id":"6c2ee76fd0939cc0","type":"text","text":"229 [[Era of the Five\\|EF]]","x":3938,"y":-150,"width":125,"height":60},
+		{"id":"289dacb5b655c6a9","type":"text","text":"~2000 [[Era of the Five\\|ES]]","x":-522,"y":-140,"width":125,"height":60},
+		{"id":"39b6483602119d78","type":"text","text":"~1700 [[Era of the Five\\|ES]]","x":78,"y":-140,"width":125,"height":60},
+		{"id":"8ab865b049d905a4","type":"text","text":"~1400 [[Era of the Five\\|ES]]","x":678,"y":-140,"width":125,"height":60},
+		{"id":"14e0b92f03708ac4","type":"text","text":"~1200 [[Era of the Five\\|ES]]","x":1078,"y":-140,"width":125,"height":60},
+		{"id":"f8ef58b8210bf91a","type":"text","text":"~800 [[Era of the Five\\|ES]]","x":1878,"y":-140,"width":125,"height":60},
+		{"id":"bf9348e4b15d7720","type":"text","text":"~500 [[Era of the Five\\|ES]]","x":2478,"y":-140,"width":125,"height":60},
+		{"id":"d7a0a4ec41da9d2f","type":"text","text":"~230 [[Era of the Five\\|ES]]","x":3018,"y":-150,"width":125,"height":60}
 	],
 	"edges":[]
 }
