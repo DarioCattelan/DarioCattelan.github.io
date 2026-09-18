@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"de7f0653444c8996","type":"text","text":"[[Age of the First Bloom]]","x":-460,"y":-60,"width":600,"height":50,"color":"6"},
+		{"id":"80771682551d8923","type":"text","text":"[[Age of Spirits]]","x":1140,"y":-60,"width":800,"height":50,"color":"4"},
+		{"id":"1eed8acfbff831c5","type":"text","text":"[[Age of the Elders]]","x":140,"y":-60,"width":600,"height":50,"color":"#4f67b5"},
+		{"id":"b59a0183fd4fd286","type":"text","text":"[[Age of Witches]]","x":1940,"y":-60,"width":600,"height":50,"color":"3"},
+		{"id":"589fdf501333c759","type":"text","text":"[[Age of Gentle Waters]]","x":740,"y":-60,"width":400,"height":50,"color":"5"},
+		{"id":"882d3587c6588c4b","type":"text","text":"[[Age of Orlin]]","x":2540,"y":-60,"width":540,"height":50,"color":"2"},
+		{"id":"ee54ccb92a0eeba3","type":"text","text":"[[Age of the Pillar]]","x":3080,"y":-60,"width":460,"height":50,"color":"1"},
+		{"id":"2d5d94f44cc4646e","type":"text","text":"[[Age of the Five]]","x":3540,"y":-60,"width":460,"height":50,"color":"6"}
+	],
+	"edges":[]
+}

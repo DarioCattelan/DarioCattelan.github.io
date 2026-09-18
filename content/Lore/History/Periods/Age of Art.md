@@ -18,19 +18,7 @@ tags:
 
 
 # Overview
-The Age of Art was a subperiod that spanned the end of the [[Age of Orlin]] and the beginning of the [[Age of the Pillar]]. It was started by the discovery of [[Candescent Sand]] in the [[Budsan Desert]].
-
-
-## Key places
-
-
-## Key Factions
-
-
-## Key Figures
-
-
-
+The Age of Art was a subperiod characterized by an explosive surge in art of literature that spanned the end of the [[Age of Orlin]] and the beginning of the [[Age of the Pillar]]. It was started by the discovery of [[Candescent Sand]] in the [[Budsan Desert]].
 # Key Events
 - 311 EF: [[Candescent Sand]] is discovered in the [[Budsan Desert]]
 - [[Kgali Inara]] discovers the art of [[Alchemy#Chemical Alchemy|Chemical Alchemy]] and adds the process to [[Tanji's Innovative Method]]
