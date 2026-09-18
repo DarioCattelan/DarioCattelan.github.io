@@ -3,9 +3,16 @@ tags:
   - Law
   - Event
   - History
+  - Reliable
 ---
+> [!infobox | right wikipedia]
+> #### Event Details
+> &nbsp; |  &nbsp; |
+> ---|---|
+> Date | 209 [[Era of the Five \| EF]] |
+> Period | [[Age of the Five]] |
 
-The Freewalk Accords is a peace treatise signed in 209 [[Era of the Five|EF]] that marked the end of [[Mothers' Heresy]]. The accord was made between the [[Orlins|Orlin]] and the other [[axiomatic mortals]] , and declared that no axiomatic race would have legal hegemony over another.
+The Freewalk Accords is a peace treatise signed in 209 [[Era of the Five|EF]] that marked the end of [[Mothers' Heresy]] and [[The Halfling Diaspora]]. The accord was made between the [[Orlins|Orlin]] and the other [[axiomatic mortals]] , and declared that no axiomatic race would have legal hegemony over another.
 # Return of Netham
 As part of the peace deal, the accord returned of most of the ancestral lands of [[Netham]] to the diasporic [[Halflings]].
 # Right of emigration

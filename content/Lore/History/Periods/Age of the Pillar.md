@@ -42,5 +42,5 @@ The Age of he Pillar was an age following the [[Age of Orlin]] that saw a gradua
 - 118 ES: [[Orlins|Orlin]] mercenaries turn on the King of [[Straathûs]], seizing the city for themselves
 - 58 ES: [[Gregorovitch Heartseeker]] discovers the means to inscribe [[Runes of Power]] on mortals
 - [[Alfred of Netham]] leads the [[Tumultuarii]] in open rebellion against [[The Fundamentals]], wielding dark and horrible magics with [[The Breath of the Mind]]
-- [[Marrowgorn Alhtshuki]] rediscovers the [[Fortnight Septor]] and leads a host of faithful against [[Alfred of Netham]]. As reward, [[Orthal The Mother]] declares him Khan of [[Orlins|The Three-fold People]]
+- [[Marrowgorn Ahltsuki]] rediscovers the [[Fortnight Septor]] and leads a host of faithful against [[Alfred of Netham]]. As reward, [[Orthal The Mother]] declares him Khan of [[Orlins|The Three-fold People]]
 - 1 ES: [[The Nomad]] betrays the Gods and causes [[The Wæl]]
