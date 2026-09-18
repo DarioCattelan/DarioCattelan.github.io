@@ -4,4 +4,4 @@ tags:
   - Unreliable
   - Reliable
 ---
-![[Period Timeline.canvas]]
+![[Period Timeline.png]]
