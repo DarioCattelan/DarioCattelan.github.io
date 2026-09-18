@@ -3,7 +3,7 @@ tags:
   - NPC
   - Monster
 ---
-The undead are creatures who's bodies once held [[Breath]], but that [[Breath]] is now being kept elsewhere. Spontaneous undead are a recent phenomenon, having only appeared in the last 50 or so years.
+The undead are creatures who's bodies once held [[Breath]], but that [[Breath]] is now being kept elsewhere. Undead are a recent phenomenon, having only appeared in the last 200 years.
 
 Most mortals in [[Kaloshen]] believe undead to be creatures of fiction, though more and more are disillusioned each spring as spontaneous undead rise from the thaw of winter in greater numbers every year.
 # Classifications of Undead
@@ -14,5 +14,5 @@ It is said that those who die walk through the back roads of [[the Warrens]] to 
 Some mortals who's [[Breath]] bears a powerful [[Breath#Colours & hue|Green Hue]] can trap the [[Breath]] of another after they expire. Holding the [[Breath]] of another being grants one complete control over their body, raising the corpse as an enthralled undead. It is a horrible thing to posses the [[Breath]] of another being, and necromancy of this sort is taboo across [[Kaloshen]]. Sorcerers have long wondered if it would be possible to hold one's *own* [[Breath]] outside the confines of the body, perhaps in a jar or phylactery, but none as of yet have been known to achieve it.
 ## Rogue Undead
 In rare cases, a mortal can create an enthralled undead and then release the captured [[Breath]] without deanimating the corpse. In these instances the living dead becomes a rogue undead, terrorizing the [[Corporeal World]] without direction or control, similar to a spontaneous undead.
-# Human Immunity
-For some unknown reason, [[Humans]] cannot be made into undead. Sorcerers and Clerics are not sure why.
+# Halfling Immunity
+For some unknown reason, [[Halflings]] cannot be made into undead. Sorcerers and Clerics are not sure why.

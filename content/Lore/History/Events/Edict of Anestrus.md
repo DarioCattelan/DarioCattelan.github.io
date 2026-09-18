@@ -1,3 +1,12 @@
+---
+tags:
+  - History
+  - Event
+  - Unreliable
+  - Elf
+  - Age_of_Elders
+  - Curse
+---
 
 > [!infobox | right wikipedia]
 > &nbsp; | &nbsp; |
@@ -37,11 +46,8 @@ With the gifts of the other [[The Fundamentals|Fundamentals]], [[Elenwe The Farm
 
 # Outcomes and Impacts
 
-The [[Ageless Empire]]'s expansion across Kaloshen was stopped, and the Elven population was no longer growing exponentially without check. Elves since have only been able to reproduce every 128 years after their first period of estrus at the age of 25.
+The [[Ageless Empire]]'s expansion across Kaloshen was stopped, and the Elven population was no longer growing exponentially without check. Elves since have only been able to reproduce for a four year period every 128 years after their first period of estrus (typically at the age of 25).
 
 
 [^1]: This may be a reference to the [[Ageless Empire]]
-
-
-#History #Event #Unreliable #Curse #Age_of_Elders
 
