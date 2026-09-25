@@ -46,5 +46,6 @@ The Age of Spirits is a mythical period when [[the Warrens]] opened for the firs
 - [[The Reditus Domum]]: [[Spirits]] began manifesting in the [[Corporeal World]]
 - [[The Record Aeternum]]: [[Lamaenel Alianquil]] writes the progenitor of the [[Nihir Lawall]] and convinces [[Elenwe The Farmer]] to incorporate cyclical time into her domain
 - The [[Barafu]] [[Dwarves]] delve too deeply into the [[Iaana Mountains]] releasing [[Forgotten Beasts]]
+- [[Mors Liberorum]]: [[The Fundamentals]] agree to never sire [[Demigods]]. The remaining demigods are buried in deep barrows, forming the [[Divine Tolls]]
 - [[The Victoria Viae]]: [[The Nomad]]'s Herald [[Eadgift Wicca]] defeats [[Sonokar Chiri]] and wins the struggle for [[the Warrens]], the Nomad incorporates journeys and roads into his domain.
 - [[The Pactum Silvae]]: [[Titania The Muse]] founds [[Hoshi Hall]] in [[the Warrens]], making a pact with [[The Nomad]] that he shall never touch the city.

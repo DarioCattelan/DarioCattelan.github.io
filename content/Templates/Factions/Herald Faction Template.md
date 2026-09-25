@@ -9,21 +9,13 @@ tags:
 > &nbsp; | &nbsp; |
 > -|---|
 > Fundamental | |
-> Headquarters | |
 > Leader(s) |  |
-> Current Members |  |
+> Current Holder |  |
 > Prominent Past Members |  |
 > Iconography |  |
 
 # Overview
 
 
-# Members
+# Heraldic Duties and Powers
 
-Placeholder
-
-# Duties
-
-Placeholder
-
-# History

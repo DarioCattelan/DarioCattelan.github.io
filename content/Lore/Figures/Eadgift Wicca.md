@@ -1,3 +1,12 @@
+---
+tags:
+  - NPC
+  - History
+  - Herald
+  - Unreliable
+  - Halfling
+---
+
 
 > [!infobox | right wikipedia]
 > #### Names
@@ -14,7 +23,7 @@
 > Died | Early [[Age of Witches]] (Presumed) |
 > Gender | Woman |
 > Relatives | [[Aldgift Heralda]] (Mother), Alburh (Sister) |
-> Occupation | [[Heralds\|Herald]] of [[The Nomad]], keeper of the [[Sonokar Stone]] , founded of the [[Coven of the Hateful Hare]]|
+> Occupation | [[The Blasphemer]], keeper of the [[Sonokar Stone]] , founder of the [[Coven of the Hateful Hare]]|
 
 
 # Overview
@@ -23,11 +32,4 @@ Eadgift Heralda was a powerful witch and [[Heralds|Herald]] of [[The Nomad]] dur
 # Early Life
 The earliest mention of Eadgift Wicca is in the [[The Victoria Viae#Fable of Sonokar Chiri|Fable of Sonokar Chiri]], part of the oral history of [[The Victoria Viae]]. In the fable, Eadgift is a young child, still of age that she requires a wise woman to serve as governess. During the events on the fable, Eadgift learns a magical story that can be used to enchant others into endless sleep. She uses the magical story to petrify [[Sonokar Chiri]] and save her sister, Alburh. Impressed with her abilities, [[The Nomad]] makes Eadgift his Herald.
 
-# Adulthood
 
-# Later Life
-
-# Death
-
-
-#NPC #History #Unreliable #Herald #Halfling

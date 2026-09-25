@@ -16,13 +16,13 @@ tags:
 > [!NOTE] Pathfinder Possible Ancestries
 > Orcs, Goblins, Hobgoblins
 
-Orcs, Hobgoblins, and Goblins are different [[axiomatic mortals]] created by [[Orthal The Mother]], called Orlin. Chitinous and hearty, the Three-fold People, as they are sometimes called, live in large communal hives made of stone and a natural bile made in their stomachs.
-Each race once served as a caste in the hive communities, but no longer. Ever since the [[Mothers' Heresy]] several generations ago, the Orlin live in a communist system without formal hierarchy.
+Orcs, Hobgoblins, and Goblins are all different [[axiomatic mortals]] created by [[Orthal The Mother]] that fall under the classification of Orlin. Chitinous and hearty, the Three-fold People, as they are sometimes called, live in large communal hives made of stone and a natural bile made in their stomachs.
+Each race once served as a caste in the hive communities, but no longer. Ever since [[The Orlin Civil War]] a generation ago the Orlin have adopted a communist system without a formal class hierarchy.
 
 # Identity
 
 ## Homeland
-The Orlin live in arid steppes and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry. The terriroty owned by the Orlin is called [[The Orlin Communes]].
+The Orlin live in arid steppes and dry deserts too harsh for most other mortals. Orlins form large communal houses in a handful of huge termite-like calcified mounds, called Hives. The plaster that makes these Hives is the result of a biological process unique to Orlin which allows them to mix sand within a specialized second stomach and regurgitate it as a fast hardening cement slurry. The territory owned by the Orlin is called [[The Orlin Communes]].
 
 ## Traditions & Beliefs
 
@@ -82,18 +82,3 @@ Orlins have the unique ability to produce a cement-like expulsion, called crud, 
 As children of the God of unity and division, Orlin are sexual dimorphic, but have the ability to switch sex at time of molt. Most Orlin spend time as both sexes during their childhood, and switching between sexes often is encouraged during adolescence. Adult Orlin typically settle for long periods in a single sex of their choosing and convenience, but it is not at all unusual to find Orlin who regularly switch sex throughout their entire life.
 
 Orlin reproduce via externally fertilized eggs, and are compatible within the Three-fold people. An Orlin emerges from its egg after 6 months of incubation, at a stage of infancy capable of short ambulatory movement and non-sense babbling. An Orlin egg can be fertilized by more than two parents, and it is possible for an Orlin infant with the parentage of two different Orlin races be born of the third Orlin race.
-
-# History
-## [[Edict of Axiomatic Equality]]
-In 184 [[Era of the Five|EF]] [[Grastus the Free]] was appointed Herald of the Mother, replacing his still living predecessor. Immediately upon taking office, [[Grastus the Free|Grastus]] was granted epiphany [^1] by the Mother on the nature of a hierarchy within [[The Ordning#Ordning Links|Ordinal Links]]. Previous dogma from the Mother had given a ranking within each Link, but this new edict declared all beings within a Link equal in all ways. What followed was civil upheaval, including several violent uprisings. The forces of the [[Ahltsuki]] were ultimately defeated by Grastus' [[Three People's Army]], enacting the edict as law, and dissolving the [[Ahltsuki]]'s Divine Monarchy and the Orlin race based caste system.
-
-## Mothers' Heresy
-The Orlin, under the urging of the Herald [[Grastus the Free]], started the series of wars which would eventually be called the [[Mothers' Heresy]]. Following [[Grastus the Free]]'s declaring the edict of axiomatic equality in the Links of [[The Ordning]], the Orlin Committee of Foreign Unity, and the Committee of Forced Physical Division agreed to enact the edict by crusade. The Orlin invaded the neighbouring Dwarvish and Elvish territories, freeing Hafling lands as they went. After several notable battles, the other races were forced to sue for peace, singing  [[The Freewalk Accords]] which returned most of the ancestral lands of the Haflings. As part of the Accords, Grastus the Free was exiled to an island on the [[Divine Tolls|Mazarie Toll]], and was banned from participating in the politics of the world.
-
-## The Relationships
-Dwarves and Elves dislike Orlins for [[Mothers' Heresy]], which was several generations ago for the Orlin but still fresh in the minds of the long lived races.
-
-Halflings are very hospital to Orlin for their liberation, but still hold the generational trauma of servitude under the Three-fold people from before the [[Edict of Axiomatic Equality]].
-
-
-[^1]: This could mean he had direct contact with the Mother, indirect contact through a vision or dream, or had a personal spiritual revelation (brought on by the Mother by unknowable means)

@@ -17,7 +17,7 @@ The Olon is the catchall name for the nomadic [[Orlins|Orlin]] tribes that popul
 | Tsookhori          | Grand Mantis        | [[Almam Steppe]] west of [[Sum Siebea]]                                                      |
 | Tsagaani           | Gazelle             | The foothills surrounding [[Sum Siebea]] and [[Uul Mountains]]                               |
 | Zagashi            | Kingfisher          | Northeastern [[Orlin Plains]] near the [[Noitanga]] region south of the [[Khadan mountains]] |
-| Olontsohki         | Hungry Beetle       | Southern [[Orlin Plains]]                                                                    |
+| Olontsohki         | Hungry Beetle       | Southern [[Orlang]]                                                                          |
 | Mangari            | Buzzard             | [[Tentsuger]] and surrounding lands                                                          |
 ## Extinct Tribes
 | Tribe Name (Orlin) | Tribe Name (Common) | Fate                                                                                                                              |

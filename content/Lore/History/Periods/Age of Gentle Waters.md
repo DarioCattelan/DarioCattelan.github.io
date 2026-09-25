@@ -39,6 +39,5 @@ The Age of Gentle Waters is a mythical period when the glacial ice in the north 
 
 # Key Events
 - [[The Shifting]]: A large natural disaster of unknown origin which caused the glaciers to recede and [[Maji's Mountains]] to form
-- [[Mors Liberorum]]: [[The Fundamentals]] agree to never sire [[Demigods]]. The remaining demigods are buried in deep barrows, forming the [[Divine Tolls]]
 - [[Trial of Maji]]: The [[Dwarves|Dwarf]] hero [[Maji of the Mountain]] leads the [[Ice People]] out of their Royalburrows and into [[Maji's Mountains]] 
 -  Apocryphally, the [[Fable of the Weaver]] takes place during this age

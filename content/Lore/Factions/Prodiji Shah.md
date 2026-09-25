@@ -4,7 +4,6 @@ tags:
   - Herald
   - Elf
 aliases:
-  - Elder Herald of Elenwe
   - The Shah
 ---
 
@@ -17,20 +16,27 @@ aliases:
 > Leader(s) | [[Hasada Qesan Rasul]] |
 > Iconography | A mobius strip |
 > ##### Current Members
-> Member                    | Herald Of |
-> ------------------------- | --------- |
-> [[Hevlon Ibara Rasul]]    | Disaster  |
-> [[Hasada Qesan Rasul]]    | Harvest   |
-> [[Yoharna Lahai Rasul]] | Heroes    |
-> [[Ashiel Rasul]]          | Moon      |
-> [[Reith Habass Rasul]]    | Tides     |
-> [[Ithun Amarus Rasul]]    | Politics  |
-> [[Aramia Miska Rasul]]    | Spring    |
-> [[Velash Bedora Rasul]]   | Fashion   |
-
-
+> Member                    | Herald Of | Appointment Date |
+> ------------------------- | --------- | ------- |
+> [[Hevlon Ibara Rasul]]    | Disaster  | Mid to Late [[Age of Witches]] |
+> [[Hasada Qesan Rasul]]    | Harvest   | Mid to Late [[Age of Witches]] |
+> [[Ashiel Rasul]]          | Moon | 451 [[Era of the Five\|ES]] [[Age of Orlin]]|
+> [[Yoharna Lahai Rasul]] | Heroes    | 235 [[Era of the Five\|ES]] [[Age of Orlin]]|
+> [[Aramia Miska Rasul]]    | Spring    | 130 [[Era of the Five\|ES]] [[Age of the Pillar]]|
+> [[Ithun Amarus Rasul]]    | Politics  | 3 [[Era of the Five\|EF]] [[Age of the Five]]|
+> [[Reith Habass Rasul]]    | Tides     |  6 [[Era of the Five\|EF]] [[Age of the Five]]|
+> [[Velash Bedora Rasul]]   | Fashion   | 194 [[Era of the Five\|EF]] [[Age of the Five]]|
+> ##### Past Members
+> Member                    | Herald Of | From | To |
+> ------------------------- | --------- | ---------- | ---------- |
+> [[Tauret Djoser Rasul]]    | Time  | Early [[Age of Witches]] | 474 [[Era of the Five \| ES]] [[Age of Orlin]] |
+> Tetmet Parviz Rasul | Ancestry | 512 [[Era of the Five\|ES]] [[Age of Witches]] | 231 [[Era of the Five\|ES]] [[Age of Orlin]]|
+> Anub Rasul | Identity | Mid to Late [[Age of Witches]] |  131 [[Era of the Five\|ES]] [[Age of the Pillar]]|
+> Nasir Kalore Rasul | History | 512 [[Age of Witches]] | 1 [[Era of the Five\|EF]] [[Age of the Five]]|
+> Hashem Sebek-ari Rasul | Luck | 512 [[Era of the Five\|ES]] [[Age of Witches]] | 1 [[Era of the Five\|EF]] [[Age of the Five]]|
+> [[Parvaneh Dara Rasu]]    | Empire | 512 [[Era of the Five\|ES]] [[Age of Witches]]| 192 [[Era of the Five\|EF]]  [[Age of the Five]]|
 # Overview
-The Prodiji Shah, or simply the Shah, are the eight most powerful members of [[Clan Rasul]] who have been granted the powers of Heraldry by [[Elenwe The Farmer]]. They are typically the eldest eight members of [[Clan Rasul]], but that is not always the case, as evidence by the appointment of [[Aramia Miska Rasul]] in 89 [[Era of the Five|ES]] at the age of 25.
+The Prodiji Shah, or simply the Shah, are the eight most powerful members of [[Clan Rasul]] who have been granted the powers of Heraldry by [[Elenwe The Farmer]]. They are typically the eldest eight members of [[Clan Rasul]], but that is not always the case, as evidence by the appointment of [[Aramia Miska Rasul]] in 130 [[Era of the Five|ES]] at the age of 25.
 
 The Shah have a magical responsibility to maintain the natural cycles of the world, and ensure that Time continues to flow properly. The exact means by which this is done is unclear, but it is taught in the [[Nihir Lawall]] that the Shah usher in the four winds and the four seasons, ensure the tides kiss the top of the coast each day, and convince the sun to return each spring.
 
