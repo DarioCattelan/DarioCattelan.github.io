@@ -21,6 +21,11 @@ tags:
 
 # Overview
 
+
+> [!Local] GM Notes
+> Contents
+
+
 # Biography
 ## Early Life
 

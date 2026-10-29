@@ -1,3 +1,8 @@
+---
+tags:
+  - religion
+---
+
 > [!infobox | right wikipedia]
 > #### Details
 > &nbsp; |  &nbsp; |
@@ -14,7 +19,8 @@
 
 <center><i>Blah blah blah.</i></center>
 
-
+> [!Local] GM Notes
+> Contents
 # Core Beliefs
 1.
 2.

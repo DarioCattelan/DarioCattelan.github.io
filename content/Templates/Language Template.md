@@ -1,3 +1,8 @@
+---
+tags:
+  - Language
+---
+
 
 | Pathfinder Equivalent | Real World Similarity |
 | --------------------- | --------------------- |
@@ -8,6 +13,3 @@
 # Script
 
 # Phonics
-
-
-#Language

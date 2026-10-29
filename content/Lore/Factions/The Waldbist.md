@@ -19,32 +19,3 @@ tags:
 
 # Overview
 The Wâldbist are a mercenary company of scouts and rangers who protect [[Norwâld|the Norwâld Reserve]] from poachers, corrupted spirits, foreign powers, and ecological disaster as part of the [[Norwâld Territory Administration]] guild.
-
-# Story
-
-Placeholder
-
-# Philosophy
-
-Placeholder
-
-# Relationships
-
-Placeholder
-
-
-# Forces and Resources
-
-Placeholder
-
-# Methods
-
-Placeholder
-
-# Background
-
-Placeholder
-
-# Additional Details
-
-Placeholder

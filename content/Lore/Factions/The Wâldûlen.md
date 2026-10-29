@@ -1,3 +1,10 @@
+---
+tags:
+  - Faction
+  - Military
+  - Kaupangsborg
+  - Mercenary
+---
 
 > [!infobox|right wikipedia]
 > ##### Faction
@@ -27,22 +34,3 @@ Placeholder
 # Relationships
 
 The Wâldûlen report to the Territory Warden Wolter (Black Bear) who serves as the Executive Head of the [[Norwâld Territory Administration]]. They are lead by Head Ranger Fenna (Great Grey Owl), and work alongside the office of the Tollmaster (Jakip), and their rival daywatch counterparts, the Wâldbist Rangers, led by Tjark. There is a friendly rivalry between the Wâldûlen and Wâldbist teams.
-
-
-# Forces and Resources
-
-Placeholder
-
-# Methods
-
-Placeholder
-
-# Background
-
-Placeholder
-
-# Additional Details
-
-Placeholder
-
-#Faction #Military #Waldulen #Kaupangsborg #Mercenary

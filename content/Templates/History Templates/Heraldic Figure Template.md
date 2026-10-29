@@ -18,6 +18,9 @@ tags:
 
 # Overview
 
+> [!Local] GM Notes
+> Contents
+
 # Heraldic Duties and Powers
 
 # Notable Holders

@@ -39,5 +39,5 @@ Enlightened by divine epiphany, [[Grastus the Free]] pushes revolutionary change
 - 207 EF [[Grastus the Free]] disappears after the [[Mothers' Heresy#The Battle of the Pass|Battle of the Pass]]
 - 209 EF [[Mothers' Heresy]] ends with [[The Freewalk Accords]] and the refounding of [[Netham]]
 - 210 EF [[Goadheimr]] joins [[the Kaupangsborg]], officially recognizing its statehood. The rest of the modern city states soon follow.
-- 219 EF  [[The Norwâld Contract]] is signed establishing [[Norwâld|the Norwâld Reserve]]
+- 218 EF  [[The Norwâld Contract]] is signed establishing [[Norwâld|the Norwâld Reserve]]
 - 223 EF [[Lady Belladonna]] writes [[The Cry of the Sacred Sparrow]]

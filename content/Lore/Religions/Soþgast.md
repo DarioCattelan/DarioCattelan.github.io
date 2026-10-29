@@ -1,3 +1,8 @@
+---
+tags:
+  - religion
+  - Tallmen
+---
 
 <center><i>The faith of Spiritual creation, followed by desperate survivors on the peak of the world</i></center>
 
@@ -16,11 +21,3 @@ Luckily for [[The Fundamentals]], Soþgast is an all but extinct faith, and is h
 # Organization
 
 # Rituals
-
-# The Greater world
-
-| Rarity | Reputation |
-| ------ | ---------- |
-|        |            |
-
-#religion #Tallmen 

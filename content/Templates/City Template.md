@@ -32,14 +32,14 @@ tags:
 # History
 
 
-# Tone & First Impression
-
-| Sense   | Feeling |
-| ------- | ------- |
-| Sound   |         |
-| Smell   |         |
-| Mood    |         |
-| Weather |         |
+> [!Local] GM Notes
+> # Tone & First Impression
+> | Sense   | Feeling |
+> | ------- | ------- |
+> | Sound   |         |
+> | Smell   |         |
+> | Mood    |         |
+> | Weather |         |
 
 # Geography
 | Type   | Stat |

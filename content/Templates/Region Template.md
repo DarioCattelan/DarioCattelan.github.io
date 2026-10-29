@@ -36,5 +36,7 @@ tags:
 
 # Overview
 
+> [!Local] GM Notes
+> Contents
 
 # History

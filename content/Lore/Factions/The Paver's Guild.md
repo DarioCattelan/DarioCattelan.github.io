@@ -14,6 +14,15 @@ tags:
 # Overview
 The Paver's Guild is a crafts guild of [[the Kaupangsborg]] who's primary business is the construction and maintenance of public works and infrastructure. The Paver's Guild is the current holder of the contract to maintain [[The Grand Highway]] between [[Karavanskali]] and [[Gainiv Halias]], as well as the [[Orken Pass]] between [[Rasteplads]] and [[Hobbsborg]].
 
+> [!Local] GM Notes
+> # Secret Motives
+> ### Skilled Hands
+> The Paver's Guild has a secret means of income: they delve into ancient ruins during their work, and steal artifacts, rob graves, and general delve for loot.
+> 
+> The knowledge of these activities are limited to senior journeymen and masters, and they refer to people on the "in" as Skilled Hands.
+> 
+> ### Mancers
+> Beneath even the eyes of the Skilled Hands, a third layer of the organization exists. A secret society devoted to discovering the history of the Gods, the Mancer are a group of scholars and mages hidden within the membership of the Guild. The Mancers use the work of the Pavers Guild and the Skilled Hands to uncover the true history of Kaloshen.
 # Organization
 The Paver's Guild has a typical organizational hierarchy of Apprentices, Journeymen, Master Craftsmen, and Guild Masters.
 
