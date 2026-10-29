@@ -36,6 +36,6 @@ tags:
 
 
 # Overview
-Hiboreas is a frigid, arboreal region in the far north of [[Kaloshen]]. The entire region is theoretically claimed by the [[Elven Province of Shamel]], but is largely unexplored.
+Hiboreas is a frigid, arboreal region in the far north of [[Kaloshen]]. The entire region is theoretically claimed by the [[Elven Province of Yarahn]], but is largely unexplored.
 
 # History
