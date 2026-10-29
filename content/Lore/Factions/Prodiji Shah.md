@@ -32,7 +32,7 @@ aliases:
 > [[Tauret Djoser Rasul]]    | Time  | Early [[Age of Witches]] | 474 [[Era of the Five \| ES]] [[Age of Orlin]] |
 > Tetmet Parviz Rasul | Ancestry | 512 [[Era of the Five\|ES]] [[Age of Witches]] | 231 [[Era of the Five\|ES]] [[Age of Orlin]]|
 > Anub Rasul | Identity | Mid to Late [[Age of Witches]] |  131 [[Era of the Five\|ES]] [[Age of the Pillar]]|
-> Nasir Kalore Rasul | History | 512 [[Age of Witches]] | 1 [[Era of the Five\|EF]] [[Age of the Five]]|
+> Nasir Ibara Rasul | History | 512 [[Age of Witches]] | 1 [[Era of the Five\|EF]] [[Age of the Five]]|
 > Hashem Sebek-ari Rasul | Luck | 512 [[Era of the Five\|ES]] [[Age of Witches]] | 1 [[Era of the Five\|EF]] [[Age of the Five]]|
 > [[Parvaneh Dara Rasu]]    | Empire | 512 [[Era of the Five\|ES]] [[Age of Witches]]| 192 [[Era of the Five\|EF]]  [[Age of the Five]]|
 # Overview

@@ -54,7 +54,12 @@ Alnucur (ahl-noo-KOOR) is the religious practice of nurturing and guiding the ma
 Elves speak, read, and write [[Elvish]]. 
 
 ## Organization
-Elves are organized in a [[Elven Republic|republic gerontocracy]] with the Majilis as its governing body. Elves' economic system relies primarily on an agrarian indentured worker based system, where wealthy landowners of elite clans control the economic and political power over a small merchant and tradesman middle class, and a large indentured working peasantry. This system was functional before [[Mothers' Heresy]], when elves had a non-motile, low-wage [[Halflings|Halfling]] plebian population, but since [[The Freewalk Accords]] the middle class has steadily grown larger and land owning elite are struggling to turn a profit from farms that must pay their labourers.
+> [!infobox | right wikipedia]
+> ### Clans of the Elven Republic and Provinces - 229 EF
+> ![[Clans of the Elven Republic and Provinces 229 EF.png|hmedium]]
+> [[Clans of the Elven Republic and Provinces 229 EF.png|see full sized]]
+
+Elves are organized in a [[Elven Republic|republic gerontocracy]] of land owning clans with the Majilis as its governing body. Elves' economic system relies primarily on an agrarian indentured worker based system, where wealthy landowners of elite clans control the economic and political power over a small merchant and tradesman middle class, and a large indentured working peasantry. This system was functional before [[Mothers' Heresy]], when elves had a non-motile, low-wage [[Halflings|Halfling]] plebian population, but since [[The Freewalk Accords]] the middle class has steadily grown larger and land owning elite are struggling to turn a profit from farms that must pay their labourers.
 
 ### The Majilis
 The Majilis (ma-GEE-leess) is a republican senate lead by [[Elenwe The Farmer]] serving as perpetual High Tari which rules over the elves. The Majilis is organized into four parties of decreasing political power, whose eligibility is determined by generation. Each party's membership is determined in theory by election, however, the parties of the High Tari and Projidi have such limited eligibility that no election is needed. Election occur for the Jidi and Alwadi each season, and with such regularity in voting pattern that they are more formality than true political race. There are 128 seats in the Majilis.
