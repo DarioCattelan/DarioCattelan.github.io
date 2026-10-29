@@ -30,3 +30,7 @@ Lyuk Fenorson was a grey wolf presenting [[Tankedyr]] who served as the first te
 # Later Life
 
 # Death
+
+
+> [!local] Private Note
+> A private note about Lyuk
