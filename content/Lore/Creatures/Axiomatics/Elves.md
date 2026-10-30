@@ -79,8 +79,8 @@ The Alwadi (al-WAH-dee) are elected from elves who are at least grandparents and
 #### Arwah
 The Arwah (AHR-wha) are two [[Spirits|spirits]] who volunteer to be in the Majilis. They hold two seats, the Seat of Flora and the Seat of Fauna. The Arwah hold far too few seats to pass any legislation, but each seat has a seasonal power of veto. Members of the Arwah are flaky by nature, and representatives do not always sit all season (though the Seat of Flora is much more likely to sit encumbered for a whole season). The Arwah voting patterns are mercurial and unpredictable, and other parties make great effort to secure the Arwah veto each season.
 
-### The Mazarie
-![[Nihir Lawall#The Church of Mazarie]]
+### The Cult of Mazarie
+![[The Cult of Mazarie#Overview]]
 
 ### Heralds
 In theory, the elves have 65 [[Heralds]], naming every member of the [[Elves#Projidi|Projidi political party]] a Herald (in fact, the Elvish word for Herald is Projidi). In practice, only the eight most senior members of [[Clan Rasul]] have active divine duties and powers. These heads are called the [[Prodiji Shah]] (pro-GEE-dee SHAH), Elder Herald in the Common Tongue, or simply the Shah.
@@ -92,15 +92,4 @@ In theory, the elves have 65 [[Heralds]], naming every member of the [[Elves#Pro
 All Elves are [[Perpetuals|perpetuals]] with eternal youth, though they can die by disease or violence. Elves reach full physical maturity around the age of 25 where they stop any external form of aging. Elves seem to be able to identify the age of another elf via some unknown method, possibly via scent. For other races, the best gauge of an elf's age is the number of scars they possess and their demeanor.
 
 ## Reproduction
-Elves reproduce much slower than other races, and go through a reproductive cycle with a long gaps in fertility. Typically, an elf will become able to conceive a child when they first reach physical maturity, and then only once every ~128 years thereafter. It is generally considered uncouth for an elf to become a parent during their first cycle, but it has been known to occur with family members of the [[Elves#The Majilis|Majilis]]  if a birth would propel them into the next political party.
-
-Elves can produce viable offspring with [[Humans]], [[Orlins]], and some [[Fey Folk]].
-
-# History
-
-## Relationships
-Elves still harbor a deep anger at [[Orlins|Orlin]]  for their attacks during [[Mothers' Heresy]].  Elves distrust [[Dwarves]] for their tendency to destroy ancient trees and mountains for their great works.
-
-After years of having [[Halflings]] serve as plebians in the elvish socio-economic system, Elves feel an internalized sense of haughty superiority towards the Smallmen, and are sometimes confused when they are offended.
-
-Elves rather like [[Fey Folk]], and have a religiously motivated respect for [[Spirits#Leshi|Leshi spirits]]
+Elves reproduce much slower than other races, and go through a reproductive cycle with a long gaps in fertility. Typically, an elf will become able to conceive a child when they first reach physical maturity, and then once during a four year period every ~128 years thereafter. It is generally considered uncouth for an elf to become a parent during their first cycle, but it has been known to occur with family members of the [[Elves#The Majilis|Majilis]]  if a birth would propel them into the next political party.

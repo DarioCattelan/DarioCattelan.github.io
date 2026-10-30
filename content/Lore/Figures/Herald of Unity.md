@@ -11,7 +11,7 @@ tags:
 > &nbsp; | &nbsp; |
 > -|---|
 > Fundamental | [[Orthal The Mother]] |
-> Current Holder |  |
+> Current Holder | [[Jhagatai Shorgooli]] |
 > Prominent Past Members | [[Aya Suutin]] |
 > Iconography | An Orc bearing a piton and thread |
 

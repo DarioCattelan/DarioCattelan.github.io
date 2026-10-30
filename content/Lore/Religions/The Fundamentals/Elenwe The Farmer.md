@@ -1,3 +1,10 @@
+---
+tags:
+  - Deity
+  - Elf
+aliases:
+  - High Tari
+---
 
 
 <center><i>The goddess of cycles and time who tends the seasons and the stars.</i></center>
