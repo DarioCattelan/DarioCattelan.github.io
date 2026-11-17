@@ -13,7 +13,7 @@ tags:
 > ---|---|
 > Ancestry | |
 > Status | |
-> Born | [[Era of the Five \| ES]] |
+> Born | [[Era of the Five \| EF]] |
 > Gender | |
 > Relatives |  |
 > Occupation | |
@@ -22,12 +22,14 @@ tags:
 
 
 > [!Local] GM Notes
+> ## Appearance
+> 
 > ## Role-Play
 > | Voice | Archetype |
 > | -- | --|
 > | | |
-> ## Motives
-> ## Means
+> ### Motives
+> ### Means
 
 
 # Biography

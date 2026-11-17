@@ -24,7 +24,7 @@ aliases:
 Grastus the Free, nee Grastus Takhil Mogbuji, was an Orlin-Hobgoblin [[Heralds|Herald]] of [[Orthal The Mother]] who enacted the [[Edict of Axiomatic Equality]] and led the [[Three People's Army]] in [[The Orlin Civil War]] and [[Mothers' Heresy]]. Grastus held the station of the [[Herald of Equality]], though he is often erroneously associated with the station of [[Herald of Liberty]] due to his involvement in [[Mothers' Heresy]].
 # Biography
 ## Early Life
-Grastus was born into a high ranking priestly caste of [[The Suutin]] Mogbuji tribe in [[Cholobataar]]. Not much is known of his life before 184 EF, where he was appointed [[Herald of Equality]] by [[Orthal The Mother]] at the age of 16.
+Grastus was born into a high ranking priestly caste of [[The Suutin]] Mogbuji tribe in [[Cholobataar]]. Not much is known of his life before 184 EF, where he was appointed [[Herald of Equality|Herald of Royalty]] by [[Orthal The Mother]] at the age of 16, breaking the tradition of bestowing the title upon the Khan of the [[Ahltsuki]] and arguably usurping the throne of Khan.
 
 ## orlin Civil War
 Soon after his appointment, Grastus received a epiphany from [[Orthal The Mother]], leading him to declare the [[Edict of Axiomatic Equality]]. This edict was violently rebuked by the ruling [[Ahltsuki]] Khanate, and Grastus was exiled to die walking from [[Cholobataar|Ahltsuger]] to [[Dalgazaad]] in a cloak of barbed chains. What the Khanate did not count on, however, was the zealous faith of the local [[The Olon|Olon tribes]] of the region, who saw the death of a Herald as a terrible blasphemy. Defying the Khanate, the Tsagaani tribe saved Grastus and slew the soldiers of the Khan, sparking [[The Orlin Civil War]].
