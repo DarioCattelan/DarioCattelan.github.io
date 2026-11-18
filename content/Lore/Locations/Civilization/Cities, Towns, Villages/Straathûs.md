@@ -29,16 +29,104 @@ tags:
 > &nbsp; | &nbsp; |
 > ---|---|
 > Population | ~25 000 |
-> Races | Primarily [[Tankedyr]], large population of [[Elves]]  and [[Orlins]], small population of [[Fey Folk]]|
+> Races | Primarily [[Tankedyr]] and [[Orlins]], large population of [[Elves]], small population of [[Fey Folk]]|
 > ###### Commerce
 > &nbsp; | &nbsp; |
 > ---|---|
-> Exports | Timber, furs from [[Norwâld]], whale biproducts, pearls |
-> Imports | Food, textiles |
+> Exports | Timber, textiles, whale biproducts, pearls |
+> Imports | Food, furs from [[Norwâld]], |
 
 Straathûs is a maritime city of [[the Kaupangsborg]] which sits within the [[Ardalidin Region]] overlooking the [[Kaiko-chiri Strait]]. Straathûs is within the borders of the [[Elven Republic]], and maintains independence through economic and military force. Straathûs is a potent naval power and collects tariffs for vessels travelling through the [[Kaiko-chiri Strait]].
 
 Straathus has changed hands many times throughout its history and has been an independent city state, part of the [[Bauyokhan Empire]], the [[Elven Republic]], and [[the Kaupangsborg]]. Despite its many theoretical political upheavals, Straathus has in reality been highly stable, with a robust mercantile oligarchy holding the true reigns of power since its founding.
+
+The eight titanic [[Gardener Trees]] dominate Straathus' skyline, giving the city an endless supply of wood, but preventing the growth of any edible crops.
+
+Straathus has a long tradition of whaling, and is a major source of whale biproducts for the [[Ardalidin Region]].
+
+# Districts
+Straathus is divided into 7 districts.
+
+## South Torsten
+The gentrified half of the founding district of the city, South Torsten is a walled district where the oldest families in Straathus keep their manors. A district of rich manicured lawns stretching before palatial manors and expensive shops, people from the Scabs or North Torsten are rarely welcomed here by the professional private guards. [[The Captains of the Coast]] have their Edgeholm manors carved into the cliffs of the Edgefjord along this district, and the secrets held within the warehouses of the Captain's Docks has driven many a thief mad with curiosity. A massive cathedral to [[Graedor The Merchant]] looms over the mansions in this district, inviting the rich to come and make tithe to the [[Truhuggun#The Chantry of Truhuggun|The Chantry of Truhuggun]].
+
+> [!Local] South Torsten
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Well dressed lords and ladies, clean cobblestone streets, expensive shop fronts, tightly manicured lawns of some turquoise coloured prickly weed.| Fresh ocean air, scented ambergris wafting from storefronts, faint bile of butchered whales| cawing of sea birds, gust of the wind, mild chatter of paassers by|
+> South Torsten is filled with private guards, and the South Torsten Business Association employs well paid and professional guards to patrol the streets. Guards here are particularly skilled, will regularly stop characters who appear poor or out of place, and quick to notice petty crime. Punishment can often be met out on the spot.
+
+
+## North Torsten
+The working class heart of the city, North Torsten and South Torsten were once a single district before the wall was erected some 300 years ago. Dirty, claustrophobic, and exciting, the North District wears the age of the city for all to see in its crooked buildings and narrow roads.
+
+Whales are slaughtered and butchered along its shores, and the Northern Market is the best place in the city to get fresh fish. Thousands attend Asmenn at the massive Cathedral in the heart of the district.
+
+The bustling and vibrant Entertainer's Guildhall draws even the merchant princes to the district, and North Torsten is home to the Huggun Rest House, Straathus' famous tavern and inn.
+> [!Local] North Torsten
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Narrow dirty streets, old half-timber buildings, working class folk making an honest living, local guards on regular beats, symbols of faith throughout | The seasick scent of whale offal, blood, and ambergris. Tarry tanneries, the occasional refreshing sea breeze | hustle and bustle of working folk, bells of the cathedral, chatter of marketgoers |
+> Fey folk homes are scattered, hidden throughout this district.
+
+## Pied-a-Lac
+Also called the Faerie District, even from afar a visitor to Pied-a-Lac is made awestruck by the colossal [[Gardener Trees]] that blanket the district in perpetual shade. The uneven cobblestone streets of this district drain sewage openly down to the ocean as even the smallest roots of the Gardener Trees destroy any subterranean infrastructure. Many spirit shrines surrounded by small patches of harsh and prickly greenery struggle against the hunger of the Trees across this district. Lumber mills sit at the base of each tree, sawing like termites at the endlessly regrowing branches, and all manner of building materials can be purchased at the Faerie Market to the East.
+
+The district holds a certain air of mystery to it, as Fey Folk build their homes in hidden alleys, burrowed hills, and along secret canals all across this district. The original elven shrine to Strahatra-chiri sits along the coast, all but forgotten by the elves in favour of the grand temples in the Elven District.
+> [!Local] Pied-a-Lac
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Massive trees, perpetual gloom, prickly gardens and weed filled parks, street lanterns bedecked in flowers softly glowing at regular intervals, flies and wasps buzzing around open gutters | open sewage, sawdust and timber, flowers and their perfume | The buzzing of flies, wasps, and saws |
+> The guards of this district are paid for by the rich lumbermills and rarely leave the immediate area of the mills. Two pagan faiths, the [[Coven of the Guilty Gardener]] and the [[Cult of Strahatra-Chiri]] are based in this district, and are considered religious extremists by [[The Captains of the Coast]].
+> 
+
+## Elven District
+Thoughtfully and carefully developed from the centuries long vision of a few old clans, the Elven District has a strong architectural identity that calls to mind a miniature [[Bubasta]]. Petrified trees, killed suddenly during the growth of the [[Gardener Trees]], but remade into something timeless and beautiful, stand proud next to minarets and arches of stunningly tiled stone.
+Many private guilds and businesses build their halls in this district, vying for proximity to the Pasha's new mint, the Hafkorn. Anyone can rent space at the Pilgrim Docks here, and ships come and go fat all times of day. The naval academy guildhall to the north means there are ever a fresh throng of young, brash officers breathing a life into the districts taverns and bars.
+Like Pied-a-lac, many households have small shrines surrounded by patchy weeds and shrubs.
+> [!Local] Elven District
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Tall, precise buildings that use clever architecture to bring in lots of natural light, decorated in complex and amazing areas of tiling and paint. Arches, minarets, handsome elves and officers, a small but proud middle class | Clean sea air, the iron smell of the mint | calm ocean waves, wringing of ships bells|
+> The only district with a true middle class, the guards here are of average quality, and wont turn away a ratty person without cause. Sailors are common, and can take matters into their own hands.
+
+
+## Landhaals
+Young and growing, Landhaals is the newest, and perhaps richest, of the districts of Straathus. Many younger siblings and affluent cousins of the greater [[the Kaupangsborg|Kaupangsborg]] nobility have made their way to Straathus and settled in this district to form a distinct class of "nouveau riche" princes, competing for power with the well entrenched [[The Captains of the Coast|Captains of the Coast]]. Reminders of the [[Elven Republic]]'s annex of this city, the impressive elven style manors built for the officers of the [[Reith Habass Rasul|Herald of Tides]], still stand in this district, some of them still occupied by their original owners.
+
+The Dawnhall, meeting place of [[The Captains of the Coast]] and the major guilds, sits upon Bilge Beach to the north of the district, where [[Torsten Torstenson]]'s infamous vessel, the Damnation, ran aground. Textiles and cotton from the western farms can be bought at the Merchant's Market, as well as an exotic assortment of imported goods.
+
+The Heraldic Temple of Truhuggun stands at the top of a hill in the center of the district, juxtaposed against the massive lighthouse fortress of Thunderwatch to the South which serves as its twin in the Elven faith.
+> [!Local] North Torsten
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Expansive turquoise lawns with lots of space, a mix of Tankedyr buildings and large elven manors, richly dressed people in expensive cloth, clean and well manicured streets, the burning eye of Thunderwatch | cleanest sea air of the city, humid wetness from all the attention paid to the lawns | quiet serenity, almost spiritual |
+> The veteran guards of this district are slightly more lax than South Torsten, used to a more eclectic mix, but no less capable.
+## The Scabs
+Packed with buildings and people, the Scabs are nearly a city unto themselves. Evolving a completely unique mix of Orlin, Tankedyr, Elven, and Feyfolk architecture, the Scabs look like a collage of three nations joined together at the seams with [[Orlins#Crud|crud]]. Most of the servants, labourers, sailors, soldiers, and guards of the merchant guilds live within the Orlin hive houses of this district, crossing the many bridges of the edgefjord each morning to spread across the city.
+
+No major guild builds its hall in the Scabs, and as a result investment in the district infrastructure is poor. Despite this fact, the district is kept clean and maintained by the community and its temples, and locals like to say the Scabs is the poorest district in coin, but richest in heart.
+
+Two large temples are the corner stone of the Scabs community: the imposing Bauyokhan Public Temple, and the Suutin Heraldhome. Both institutions are well funded by [[The Orlin Communes]], and they poor heaps of gold back into the community.
+> [!Local] North Torsten
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Strange collage of buildings, simple but proud people, few to no homeless, crumbling but functional streets and buildings, many streets turned to packed dirt and mud | churned earth, warm meals cooked in open windows, salty air | peaceful quiet during the day, loud, friendly public gatherings at night, particularly around Herald Homes |
+> The community watches out for each other here. Guards do not patrol, and those who are welcomed by the orlin will not be harmed.
+
+## Conqueror's District
+Once the seat of power for Orlin conquerors, the eponymous district now holds a lower-middle class of tradespeople, artisans, diplomats, and retired mercenaries. The Scars, Straathus' largest mercenary guild, makes its hall here, and the streets have a military order to them. Buildings are larger and more Orlin than the Scabs, but still distinctly Straathusian in their collage of cultures.
+
+Herders and shepherds bring their stock to Veteran's Plaza for slaughter and sale, and [[The Olon|Olon]] who work the farms to the north can be seen riding along the streets. The Conqueror's Hive, an ancient castle from before [[The Wæl]], sits on the edge of the Scabs, now serving as a treasury and vault for hire. [[The Orlin Communes]] have a foreign office here, one of the only of its kind across the world.
+> [!Local] Conquerors District
+> | Sights | Smells | Sounds |
+> |---|---|---|
+> | Houses with military banners and flags, old cleanly dressed folks, herders and mounted tribal orlin | animals and farms, turning rancid as one heads north east | distant animals brought to market|
+> The Communes Foreign Office is not for diplomatic relations, but to advance the goals of the [[The Conclavists]].
+
+# Landmarks
+TBD
+**Edgeholms:** Five beautiful manor houses built into the cliffs for [[The Captains of the Coast]] by [[Fey Folk]] explorers.
 # History
 - 283 ES: Straathus was founded in the [[Age of Art]] by the [[Torsten Torstensson|Dread Pirate Torsten]] when he seized several Elven ships blocking the [[Kaiko-chiri Strait]] and ran them aground, choosing the bay for its protective fjord and the massive trees that would serve as excellent shipbuilding.
 - Torsten seizes a small settled shrine of elven priests that worship the great spirit of the lake.
@@ -59,12 +147,13 @@ Straathus has changed hands many times throughout its history and has been an in
 - 193 EF [[Straathûs]] is purchased from the [[Elven Republic]] by the Merchant Prince [[Jorunn Sokkoldottir]] and joins [[the Kaupangsborg]]
 - 201 EF: [[Jorunn Sokkoldottir]] constructs a the Hafkorn, a grand mint, and mints a new currency to solidify the cities joining with [[the Kaupangsborg]]. The coin depicts the Thunderwatch on one side, and the Godstep on the other, honouring the history and people of the city. A new guild, the [[Pearl Keeper's Guild]], forms.
 
-# Landmarks
-- Lake Straathus: A dingy lagoon where sleeps a great spirit
-- The Rise: a series of hills to the west, ending in sharp cliffs that overlook [[Kaiko-chiri Strait]]
-- Fjord Edgeholm: a long narrow fjord, where many old families of straathus build their homes along the walls
-- The Godstep: a series of small lakes in the shape of a pawprint, where once stepped[[Graedor The Merchant]] in days of old
-- The Dawnhall and the Bilge Beach: The Damnation, the original ship of [[Torsten Torstensson]], now serves as the cornerstone of the Dawnhall (faces east), a hall where the merchant princes/guidmasters who run the city meet to govern
-- The Shrine to  Strahatra-chiri: A tori gate made of pine trees grown in a twisting, covered tunnel of twisting trees. The original shrine of the native elven population worshiping the spirit of the lagoon, Strahatra-chiri, from which Straathus gets its name.
-- Temple of Orthal
-- Library of the [[Coven of the Guilty Gardener]]
+> [!Local]
+> # Landmarks
+> 1. Lake Straathus: A dingy lagoon where sleeps a great spirit
+> - The Rise: a series of hills to the west, ending in sharp cliffs that overlook [[Kaiko-chiri Strait]]
+> - Fjord Edgeholm: a long narrow fjord, where many old families of straathus build their homes along the walls
+> - The Godstep: a series of small lakes in the shape of a pawprint, where once stepped[[Graedor The Merchant]] in days of old
+> - The Dawnhall and the Bilge Beach: The Damnation, the original ship of [[Torsten Torstensson]], now serves as the cornerstone of the Dawnhall (faces east), a hall where the merchant princes/guidmasters who run the city meet to govern
+> - The Shrine to  Strahatra-chiri: A tori gate made of pine trees grown in a twisting, covered tunnel of twisting trees. The original shrine of the native elven population worshiping the spirit of the lagoon, Strahatra-chiri, from which Straathus gets its name.
+> - Temple of Orthal
+> - Library of the [[Coven of the Guilty Gardener]]
