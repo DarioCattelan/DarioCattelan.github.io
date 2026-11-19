@@ -1,3 +1,7 @@
+---
+tags:
+  - Location
+---
 
 
 
@@ -24,64 +28,7 @@
 > &nbsp; | &nbsp; |
 > ---|---|
 > Exports | Forest services, tithes to [[Straathûs]] |
-> Imports | Collects tariffs from travellers through [[Nordwâld]] |
+> Imports | Collects tariffs from travellers through [[Norwâld]] |
 
 # History
-Beamhaven is the main outpost of [[The Wâldûlen]] rangers of [[Nordwâld]].
-
-# Tone & First Impression
-
-| Sense   | Feeling |
-| ------- | ------- |
-| Sound   |         |
-| Smell   |         |
-| Mood    |         |
-| Weather |         |
-
-# Geography
-| Type   | Stat |
-| ------ | ---- |
-| Type   |      |
-| Size   |      |
-| Region |      |
-
-## Districts
-
-| District | Purpose | Notable Sites | Denizens | Notable Magic |
-| -------- | ------- | ------------- | -------- | ------------- |
-|          |         |               |          |               |
-
-## Landmarks
-
-| Name | Description | Keepers |
-| ---- | ----------- | ------- |
-|      |             |         |
-
-
-# Politics
-|&nbsp; | &nbsp; |
-|---|---|
-|Govt Type | |
-|Ruler | |
-|Defense |  |
-
-## Demographics
-
-| Type       | Stat |
-| ---------- | ---- |
-| Population |      |
-| Races      |      |
-
-
-## Organizations
-| Type            | Stat |
-| --------------- | ---- |
-| Guilds & Groups |      |
-
-# Commerce
-|&nbsp; | &nbsp; |
-| ---|---|
-|Exports |  |
-|Imports |  |
-
-#City #Location 
+Beamhaven is the main outpost of [[The Wâldûlen]] rangers of [[Norwâld]].
